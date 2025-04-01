@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Soul Linking Overview.md",
+                "file": "Soul Linking One-Shot Main Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soul Linking Overview"
+              "title": "Soul Linking One-Shot Main Page"
             }
           }
         ]
@@ -174,6 +174,9 @@
   },
   "active": "7d8d67db8a19c7b8",
   "lastOpenFiles": [
+    "GM/Familiarity Tracker.md",
+    "Players/Soul Linking Overview.md",
+    "Players/Concepts/Mechanics/Ranks and Levels.md",
     "Players/Concepts/Mechanics/Baton Pass.md",
     "requiem-vault/Soul Linking One-Shot Main Page.md",
     "requiem-vault/Players/Concepts/Mechanics/Stats.md",
@@ -207,9 +210,6 @@
     "Players/Concepts/Mechanics/Difficulty Classes.md",
     "Players/Concepts/Mechanics/Stats.md",
     "Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
-    "Players/Soul Linking Overview.md",
-    "Soul Linking One-Shot Main Page.md",
-    "GM/Familiarity Tracker.md",
     "Untitled.canvas"
   ]
 }
