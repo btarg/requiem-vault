@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "2127b866b8781920",
+    "type": "split",
+    "children": [
+      {
+        "id": "75325febab02e41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8d67db8a19c7b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1e452c670ab8c91",
+    "type": "split",
+    "children": [
+      {
+        "id": "de4675ffbb0a9b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110d51ea871c4ad3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c192b762941089f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "campaign 1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2c1c51ac729db8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.51103591918945
+  },
+  "right": {
+    "id": "b884c1b408077260",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbafa384ef05839e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ca5b46c046cf56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Gameplay Mechanics/Pokémon Combat Cheatsheet.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pokémon Combat Cheatsheet"
+            }
+          },
+          {
+            "id": "7da83ff92ac76867",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts/Gameplay Mechanics/Pokémon Combat Cheatsheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pokémon Combat Cheatsheet"
+            }
+          },
+          {
+            "id": "6e5ed37f5cab9d9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a6d61f6e3bc1787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quick Links.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quick Links"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d8d67db8a19c7b8",
+  "lastOpenFiles": [
+    "Players/Concepts/Mechanics/Baton Pass.md",
+    "requiem-vault/Soul Linking One-Shot Main Page.md",
+    "requiem-vault/Players/Concepts/Mechanics/Stats.md",
+    "requiem-vault/Players/Concepts/Mechanics/Saving Throws.md",
+    "requiem-vault/Players/Concepts/Mechanics/Ranks and Levels.md",
+    "requiem-vault/Players/Concepts/Mechanics/Mastery.md",
+    "requiem-vault/Players/Concepts/Mechanics/Formula for Stats.md",
+    "requiem-vault/Players/Concepts/Mechanics/Familiarity With Spells.md",
+    "requiem-vault/Players/Concepts/Mechanics/Elements.md",
+    "requiem-vault/Players/Concepts/Mechanics/Elemental Affinities.md",
+    "requiem-vault/Players/Concepts/Mechanics/Drawing Spells.md",
+    "requiem-vault/Players/Concepts/Mechanics/Difficulty Classes.md",
+    "requiem-vault/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
+    "requiem-vault/Players/Concepts/Mechanics/Baton Pass.md",
+    "requiem-vault/Players/Concepts/Mechanics",
+    "requiem-vault/Players/Abilities/Spells",
+    "requiem-vault/Players/Soul Linking Overview.md",
+    "requiem-vault/Players/Places",
+    "requiem-vault/Players/Objects",
+    "requiem-vault/Players/Events",
+    "requiem-vault/Players/Concepts",
+    "requiem-vault/Players/Characters",
+    "requiem-vault/Players/Abilities",
+    "requiem-vault/Players",
+    "requiem-vault/GM/Familiarity Tracker.md",
+    "requiem-vault/GM",
+    "requiem-vault/README.md",
+    "README.md",
+    "Players/Concepts/Mechanics/Familiarity With Spells.md",
+    "Players/Concepts/Mechanics/Formula for Stats.md",
+    "Players/Concepts/Mechanics/Difficulty Classes.md",
+    "Players/Concepts/Mechanics/Stats.md",
+    "Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
+    "Players/Soul Linking Overview.md",
+    "Soul Linking One-Shot Main Page.md",
+    "GM/Familiarity Tracker.md",
+    "Untitled.canvas"
+  ]
+}
