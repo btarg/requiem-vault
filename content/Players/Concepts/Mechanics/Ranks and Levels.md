@@ -7,7 +7,7 @@ aliases:
 ---
 ## Soul Link Ranks
 
-Pathfinder spell levels correspond to *[[Soul Linking Overview|Soul Link]] Ranks,* which determine their power for [[Formula for Stats]] and potentially [[Actions|Action]] cost for casting.
+Pathfinder spell levels correspond to *[[Soul Linking Overview|Soul Link]] Ranks,* which are used to determine the [[Formula for Stats]].
 
 * **Rank 1:** Cantrips & Level 1 Spells
 * **Rank 2:** Level 2–3 Spells

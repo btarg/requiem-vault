@@ -59,4 +59,4 @@ Players handle critical hits and knockdowns differently:
 **Navigation:**
 
 * Back to: [[index]]
-* Related: [[Elemental Affinities]], [[Stats]], [[Baton Pass]], [[Actions]], [[Difficulty Classes]]
+* Related: [[Elemental Affinities]], [[Stats]], [[Baton Pass]], ActionsDifficulty Classes]]

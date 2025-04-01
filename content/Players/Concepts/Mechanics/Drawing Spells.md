@@ -1,7 +1,7 @@
 Acquiring spells involves *Drawing* them from enemies.
 
 * **Range:** You must be within attack range of the enemy.
-* **Knowledge:** To know what spells an enemy has available to Draw, you must either have prior knowledge or spend [[Actions]] to [[Familiarity with Spells#Identifying and Misidentifying Spells|Identify]] them. GMs generally don't reveal Draw Lists freely.
+* **Knowledge:** To know what spells an enemy has available to Draw, you must either have prior knowledge or spend Actions to [[Familiarity with Spells#Identifying and Misidentifying Spells|Identify]] them. GMs generally don't reveal Draw Lists freely.
 * **On Kill:** Killing an enemy grants a free Draw of a random spell from that enemy.
 * **Draw Action (1 Action):**
   * **Option 1: Cast (0 additional Actions):** Immediately attempt to Cast the drawn spell without adding it to inventory. Requires having enough remaining Actions for the spell's casting cost. The GM should inform you of the Action cost beforehand.

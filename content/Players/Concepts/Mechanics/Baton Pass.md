@@ -32,4 +32,4 @@ If an ally is [[Critical Hits and Knockdowns#Knockdown (Prone/Downed) Status|Dow
 ---
 
 Back to: [[index]]
-Related: [[Critical Hits and Knockdowns]], [[Actions]]
+Related: [[Critical Hits and Knockdowns]], Actions
