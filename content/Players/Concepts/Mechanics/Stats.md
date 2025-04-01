@@ -1,4 +1,4 @@
-These are the core stats modified by [[Soul Linking Overview|Soul Linking]].
+These are the core stats modified by [[Soul Linking Overview|Soul Linking]]. They replace the normal Pathfinder 2E stats.
 
 ## ✊Strength
 
