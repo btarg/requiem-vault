@@ -4,7 +4,7 @@ These are the core stats modified by [[Soul Linking Overview|Soul Linking]].
 
 > [!tip] STR
 
-Increases [[Elements#⚔️ Physical (PHYS)|Physical]] attack damage (flat bonus). Bypassed by resistance, absorption, or immunity.
+Increases [[Elements#⚔️ Physical (PHYS)|Physical]] attack damage (flat bonus). Bypassed by [[Elemental Affinities|resistance, absorption, or immunity.]]
 ## 🛡️Vitality
 
 > [!tip] VIT
