@@ -12,7 +12,7 @@ A spell is considered **familiar** if:
 ## Identifying and Misidentifying Spells
 
 If a spell is unfamiliar, you can attempt to identify it.
-#### `pf2:1` Recall Knowledge
+#### `pf2:1` Recall Knowledge (One Action)
 Make an Arcana skill check. The DC is set by the GM based on the spell's [[Ranks and Levels|level]] and rarity.
   * ❗**Critical Success:** Identify the spell, become familiar. Gain a +1 bonus if you Cast this spell with your next Action.
   * ✅ **Success:** Identify the spell, become familiar.

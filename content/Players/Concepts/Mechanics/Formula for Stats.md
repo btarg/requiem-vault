@@ -13,7 +13,7 @@ $$ \text{Stat Bonus} = \lfloor (\text{Stock} \times \text{Spell Rank}) / 5 \rflo
 
 ## Example
 
-If you have 10 copies of a **Rank 2 spell** Linked to [[Stats#FasHandFist Strength|Strength]]:
+If you have 10 copies of a **Rank 2 spell** Linked to [[Stats#✊Strength|Strength]]:
 
 $$ \text{Bonus} = \lfloor (10 \times 2) / 5 \rfloor = \lfloor 20 / 5 \rfloor = +4 \text{ Strength} $$
 

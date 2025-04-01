@@ -42,7 +42,7 @@ Players handle critical hits and knockdowns differently:
 
 * **Not Immediately Downed:** When an enemy critically hits a player, the player is **not** automatically knocked Prone.
 * **Fortitude Save vs. Knockdown:** The player must immediately roll a **Fortitude save** to resist being knocked down.
-  * **Luck Bonus:** Add a flat bonus equal to the player's [[Stats#Luck|Luck]] stat to this Fortitude save roll. There is no hard cap on this bonus.
+  * **Luck Bonus:** Add a flat bonus equal to the player's [[Stats#🍀 Luck|Luck]] stat to this Fortitude save roll. There is no hard cap on this bonus.
   * **Save DC:** See [[Difficulty Classes]] for how DCs are determined.
   * **Save Outcomes:**
     * ❗ **Critical Success:** Avoid being knocked down AND automatically succeed on the _next_ Fortitude save against being knocked down in this encounter.

@@ -3,7 +3,9 @@ aliases:
   - Element
   - element
 ---
-Elemental types are simplified from standard Pathfinder 2E.
+> [!tip] See [[Elemental Affinities]] for interactions.
+
+Elemental types in this campaign are simplified from standard Pathfinder 2E.
 ## ⚔️ Physical (PHYS)
 Combined Bludgeoning, Piercing, Slashing.
 ## 💥 Force
@@ -18,8 +20,6 @@ Combined Spirit and Mental (from PF2E context, often representing mental/emotion
 ## ✨ Vitality
 ## 🌌 Void
 
-
-See [[Elemental Affinities]] for interactions.
 
 ---
 Back to: [[index]]

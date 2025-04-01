@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Players/Concepts/Mechanics/Saving Throws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Saving Throws"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "campaign 1",
+                "query": "Stats#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,6 +175,15 @@
   },
   "active": "7d8d67db8a19c7b8",
   "lastOpenFiles": [
+    "content/Players/Concepts/Mechanics/Formula for Stats.md",
+    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
+    "content/Players/Concepts/Mechanics/Drawing Spells.md",
+    "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
+    "content/Players/Concepts/Mechanics/Stats.md",
+    "content/Players/Concepts/Mechanics/Familiarity With Spells.md",
+    "content/Players/Concepts/Mechanics/Elements.md",
+    "content/Players/Concepts/Mechanics/Baton Pass.md",
+    "content/index.md",
     "quartz/quartz/static/giscus/dark.css",
     "quartz/quartz/static/giscus/light.css",
     "quartz/quartz/plugins/transformers/toc.ts",
@@ -184,7 +194,6 @@
     "quartz/quartz/plugins/transformers/links.ts",
     "quartz/quartz/plugins/transformers/linebreaks.ts",
     "quartz/quartz/plugins/transformers/latex.ts",
-    "quartz/quartz/plugins/transformers/lastmod.ts",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/tags/plugin.md",
@@ -204,14 +213,6 @@
     "quartz/docs/plugins/GitHubFlavoredMarkdown.md",
     "quartz/docs/plugins/Frontmatter.md",
     "quartz/docs/plugins/FolderPage.md",
-    "quartz/docs/plugins/ExplicitPublish.md",
-    "quartz/docs/plugins/Description.md",
-    "quartz/docs/plugins/CustomOgImages.md",
-    "quartz/docs/plugins/CreatedModifiedDate.md",
-    "quartz/docs/plugins/CrawlLinks.md",
-    "quartz/docs/plugins/ContentPage.md",
-    "quartz/docs/plugins/ContentIndex.md",
-    "quartz/docs/plugins/ComponentResources.md",
     "quartz/docs/images/social-image-preview-light.png",
     "quartz/docs/images/social-image-preview-dark.png",
     "quartz/docs/images/quartz-layout-tablet.png",

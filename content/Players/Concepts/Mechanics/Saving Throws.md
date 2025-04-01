@@ -3,12 +3,10 @@ aliases:
   - Saves
   - Save
 ---
-Every Saving Throw is linked to a [[Stats|Stat]] by default.
-
-The formulas are as follows:
+Every Saving Throw applies a [[Stats|Stat]]'s value as a flat bonus.
 ## Fortitude
-:FasDiceD20: 1d20 + :FasShieldHalved: [[Stats#FasShieldHalved Vitality|Vitality]].
+🎲 1d20 + [[Stats#🛡️Vitality]]
 ## Will
-:FasDiceD20: 1d20 + :FasShieldHeart: [[Stats#FasShieldHeart Spirit|Spirit]].
+🎲 1d20 + [[Stats#💙 Spirit]]
 ## Reflex
-:FasDiceD20: 1d20 + :FasPersonRunning: [[Stats#FasPersonRunning Speed|Speed]].
+🎲 1d20 + [[Stats#🏃 Speed]].

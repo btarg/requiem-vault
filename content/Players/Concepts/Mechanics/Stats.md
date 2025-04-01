@@ -1,31 +1,31 @@
 These are the core stats modified by [[Soul Linking Overview|Soul Linking]].
 
-## :FasHandFist: Strength
+## ✊Strength
 
 > [!tip] STR
 
 Increases [[Elements#⚔️ Physical (PHYS)|Physical]] attack damage (flat bonus). Bypassed by resistance, absorption, or immunity.
-## :FasShieldHalved: Vitality
+## 🛡️Vitality
 
 > [!tip] VIT
 
 Reduces incoming [[Elements#⚔️ Physical (PHYS)|Physical]] damage when the attack is [[Elemental Affinities#Resist|Resisted]]. Does not affect neutral or absorbed damage. Applied as a flat bonus to [[Saving Throws#Fortitude|Fortitude Saves]].
-## :FasHandSparkles: Magic
+## ✨ Magic
 
 > [!tip] MAG
 
 Increases magical attack damage (flat bonus). Bypassed by resistance, absorption, or immunity.
-## :FasShieldHeart: Spirit
+## 💙 Spirit
 
 > [!tip] SPR
 
 Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality.
-## :FasPersonRunning: Speed
+## 🏃 Speed
 
 > [!tip] SPD
 
 Adds a flat bonus to **Initiative** rolls and movement distance (in metres per turn).
-## :RaClover: Luck
+## 🍀 Luck
 
 > [!tip] LCK
 
