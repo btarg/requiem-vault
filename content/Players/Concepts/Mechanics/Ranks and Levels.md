@@ -22,5 +22,5 @@ As the party levels up, you will unlock the ability to Link more [[Stats]]. When
 You are able to Soul Link a number of Stats corresponding to the party's Level. (Level 5 party = 5 linkable stats at a time)
 
 ---
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]
 Related: [[Formula for Stats]], [[Soul Linking Overview]]

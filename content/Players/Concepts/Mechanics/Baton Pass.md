@@ -31,5 +31,5 @@ If an ally is [[Critical Hits and Knockdowns#Knockdown (Prone/Downed) Status|Dow
 
 ---
 
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]
 Related: [[Critical Hits and Knockdowns]], [[Actions]]

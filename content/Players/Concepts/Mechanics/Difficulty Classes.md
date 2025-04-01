@@ -18,5 +18,5 @@ $$ DC = 10 + \text{Soul Link Rank} $$
 
 **Navigation:**
 
-* Back to: [[Soul Linking One-Shot Main Page]]
+* Back to: [[index]]
 * Related: [[Saving Throws]], [[Critical Hits and Knockdowns]], [[Ranks and Levels]]

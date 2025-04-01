@@ -58,5 +58,5 @@ Players handle critical hits and knockdowns differently:
 ---
 **Navigation:**
 
-* Back to: [[Soul Linking One-Shot Main Page]]
+* Back to: [[index]]
 * Related: [[Elemental Affinities]], [[Stats]], [[Baton Pass]], [[Actions]], [[Difficulty Classes]]

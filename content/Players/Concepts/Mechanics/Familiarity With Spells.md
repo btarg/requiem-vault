@@ -24,5 +24,5 @@ Make an Arcana skill check. The DC is set by the GM based on the spell's [[Ranks
   * **Failure or Critical Failure on Will Save:** You are forced to Cast the spell immediately (if possible with remaining Actions).
 
 ---
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]
 Related: [[Drawing Spells]], [[Ranks and Levels]]

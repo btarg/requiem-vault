@@ -1,3 +1,8 @@
+---
+aliases:
+  - Soul Linking One-Shot Main Page
+title: Soul Linking One-Shot Main Page
+---
 This vault contains the rules for the Soul Linking One-Shot campaign.
 *This system is a draft and subject to change.*
 

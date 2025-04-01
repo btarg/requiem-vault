@@ -18,5 +18,5 @@ If you have 10 copies of a **Rank 2 spell** Linked to [[Stats#FasHandFist Streng
 $$ \text{Bonus} = \lfloor (10 \times 2) / 5 \rfloor = \lfloor 20 / 5 \rfloor = +4 \text{ Strength} $$
 
 ---
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]
 Related: [[Soul Linking Overview]], [[Ranks and Levels]], [[Stats]]

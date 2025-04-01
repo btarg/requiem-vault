@@ -22,5 +22,5 @@ Combined Spirit and Mental (from PF2E context, often representing mental/emotion
 See [[Elemental Affinities]] for interactions.
 
 ---
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]
 Related: [[Elemental Affinities]]

@@ -34,5 +34,5 @@ Provides various bonuses:
 *   Decreases the chance of being knocked down via a [[Critical Hits and Knockdowns#Player Character Differences|Fortitude save]] when critically hit (flat bonus).
 
 ---
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]
 Related: [[Formula for Stats]], [[Soul Linking Overview]], [[Drawing Spells]], [[Critical Hits and Knockdowns]], [[Difficulty Classes]]

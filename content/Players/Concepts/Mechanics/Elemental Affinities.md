@@ -13,5 +13,5 @@ Absorbs incoming damage as HP.
 Attack is bounced back to the caster. An attack can only be reflected once per instance (no ping-ponging).
 
 ---
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]
 Related: [[Elements]], [[Stats]], [[Drawing Spells]], [[Critical Hits and Knockdowns]] (for Weakness interaction)

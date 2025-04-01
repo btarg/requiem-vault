@@ -20,5 +20,5 @@ When you choose to **Stock** (Option 2 above):
 * The maximum flat bonus from Luck added to the roll is **4**.
 
 ---
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]
 Related: [[Soul Linking Overview]], [[Familiarity with Spells]], [[Stats]], [[Elemental Affinities]]

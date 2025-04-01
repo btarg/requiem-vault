@@ -12,4 +12,4 @@ aliases:
 \* *This limit is not final and may change.*
 
 ---
-Back to: [[Soul Linking One-Shot Main Page]]
+Back to: [[index]]

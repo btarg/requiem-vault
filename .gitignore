@@ -1,1 +1,7 @@
-GM/*
+.DS_Store
+node_modules
+public
+.obsidian
+.quartz-cache
+private/
+.vscode/
