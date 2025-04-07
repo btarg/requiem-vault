@@ -24,6 +24,6 @@ Upon stepping into the building, you are immediately surrounded by bright blue, 
 - **(when close enough) Investigate the blue flame**
 	- At the far end of the long room, a large, spiralling blue flame flickers and twists. As you draw closer, you realize the wisp-like creatures are converging here, forming a cyclone of Ichor that sweeps up and then scatters torn pages.
 
-Their **(GM Note: call them Ichor Wraiths if the players know this)** frantic movements have inexplicably begun to slow, shifting into something more deliberate, more calculating, like a wary animal sizing up a potential threat. The circling overhead has taken on a new meaning. You are their prey.
+The air suddenly feels a lot less still. Their **(GM Note: call them Ichor Wraiths if the players know this)** frantic movements have inexplicably begun to slow, shifting into something more deliberate, more calculating, like a wary animal sizing up a potential threat. The circling overhead has taken on a new meaning. You are their prey.
 
 
