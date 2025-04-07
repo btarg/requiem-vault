@@ -31,8 +31,9 @@ Upon stepping into the building, you are immediately surrounded by bright blue, 
 >[!tip]- **(when close enough) Investigate the blue flame**
 >At the far end of the long room, a large, spiralling blue flame flickers and twists. As you draw closer, you realize the wisp-like creatures are converging here, forming a cyclone of Ichor that sweeps up and then scatters torn pages. Despite its fiery appearance, the air around the flame is cold. Touching it is sure to threaten them. You should probably back away slowly.
 >>[!question]- If the players know enough about the Wraiths...
->>Before you move away, however, you notice something else. The Ichor Wraiths that have been gliding into the blue flame have begun to coalesce into one large mass, anticipating danger and bolstering their strength significantly in response.
+>>Before you move away, however, you notice something else. More Ichor Wraiths glide into the blue flame, beginning to coalesce into one writhing mass. They are anticipating danger, and bolstering their strength significantly in response. The room feels much, much colder.
 
 The air suddenly feels a lot less still. Their **(GM Note: call them Ichor Wraiths if the players know this)** frantic movements have inexplicably begun to slow, shifting into something more deliberate, more calculating, like a wary animal sizing up a potential threat. The circling overhead has taken on a new meaning. You are their prey.
 
+***ROLL INITIATIVE***
 
