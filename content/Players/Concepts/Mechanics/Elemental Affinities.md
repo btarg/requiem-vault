@@ -7,7 +7,6 @@ Each player will be able to choose the following when creating their character:
 ## Resistance Factor
 
 Each of the affinities are listed in order from lowest to highest resistance factor. When levelling up, you can choose an [[Elements|Element]] and increase your resistance factor for that particular element.
-However, you cannot increase
 
 ## Affinity Types
 ### 0. WEAK
