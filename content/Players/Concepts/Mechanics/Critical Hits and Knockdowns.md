@@ -4,8 +4,10 @@ aliases:
   - Knockdown
   - Downed
   - Prone
-  - crit
   - Crit
+  - Critical Hit
+  - Critical Hits
+  - Crits
 ---
 ## Triggering a Critical Hit
 

@@ -19,7 +19,8 @@ Pathfinder spell levels correspond to *[[Soul Linking Overview|Soul Link]] Ranks
 
 As the party levels up, you will unlock the ability to Link more [[Stats]]. Whenever you rest, you will be able to swap out which Spells are Linked to which Stats.
 
-You are able to Soul Link a number of Stats corresponding to the party's Level. (Level 5 party = 5 linkable stats at a time)
+You are able to Soul Link a number of Stats corresponding to the party's Level. (Level 5 party = 5 linkable stats at a time).
+Since your party will start at Level 1, one stat will be available for Soul Linking from the start of the campaign.
 
 ---
 Back to: [[index]]
