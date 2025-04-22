@@ -9,6 +9,8 @@ aliases:
 * **Linking Spells to Stats:** Spells can be Linked to a specific [[Stats|Stat]] to modify the stat's value. Initially, you can only Link to one stat, gaining more linkable stats as you level up. [[Ranks and Levels]].
 * **Managing Spell Inventory:** Gaining more of a linked spell increases the corresponding stat bonus. Casting the spell consumes one copy, reducing the bonus. Balancing spell stock is key to maintaining stat boosts. See [[Formula for Stats]].
 
+You will use these spells to exploit the [[Elemental Affinities#WEAK|Weaknesses]] of your enemies.
+
 \* *This limit is not final and may change.*
 
 ---
