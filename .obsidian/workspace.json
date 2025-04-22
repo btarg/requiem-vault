@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Stats.md",
+                "file": "GM/Enemies/Ichor Wraith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Ichor Wraith"
             }
           },
           {
-            "id": "b8aaa86fd0fa2c7e",
+            "id": "cceb1ba67b762d59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "GM/First Session/First session start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "First session start"
             }
           }
         ],
@@ -187,28 +187,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8aaa86fd0fa2c7e",
+  "active": "cceb1ba67b762d59",
   "lastOpenFiles": [
+    "content/Players/Concepts/Mechanics/Elements.md",
+    "GM/Enemies/Ichor Wraith.md",
+    "content/Players/Concepts/Mechanics/Drawing Spells.md",
+    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
+    "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
+    "GM/Familiarity Tracker.md",
+    "GM/Enemies",
+    "GM/First Session/First session start.md",
+    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/Players/Concepts/Mechanics/Stats.md",
     "conflict-files-obsidian-git.md",
     "library-source2.jpg",
     "content/Players/Lore/Backstory.md",
     "content/Players/Lore",
     "content/Players/Concepts/Mechanics/Initiative.md",
-    "GM/First Session/First session start.md",
     "GM/First Session",
     "content/Players/Concepts/Mechanics/Saving Throws.md",
     "content/Players/Concepts/Mechanics/Baton Pass.md",
-    "GM/Familiarity Tracker.md",
     "content/index.md",
-    "content/Players/Concepts/Mechanics/Drawing Spells.md",
     "content/Players/Concepts/Mechanics/Familiarity With Spells.md",
     "content/Players/Concepts/Mechanics/Formula for Stats.md",
     "content/Players/Soul Linking Overview.md",
-    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
-    "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
-    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
-    "content/Players/Concepts/Mechanics/Elements.md",
     "quartz/quartz/static/giscus/dark.css",
     "quartz/quartz/static/giscus/light.css",
     "quartz/quartz/plugins/transformers/toc.ts",
@@ -216,7 +218,6 @@
     "quartz/quartz/plugins/transformers/roam.ts",
     "quartz/quartz/plugins/transformers/oxhugofm.ts",
     "quartz/quartz/plugins/transformers/ofm.ts",
-    "quartz/quartz/plugins/transformers/links.ts",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/tags/plugin.md",
@@ -227,7 +228,6 @@
     "quartz/docs/plugins/Static.md",
     "quartz/docs/plugins/RoamFlavoredMarkdown.md",
     "quartz/docs/plugins/RemoveDrafts.md",
-    "quartz/docs/plugins/OxHugoFlavoredMarkdown.md",
     "quartz/docs/images/social-image-preview-light.png",
     "quartz/docs/images/social-image-preview-dark.png",
     "quartz/docs/images/quartz-layout-tablet.png",

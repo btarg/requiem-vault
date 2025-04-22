@@ -17,10 +17,10 @@ Upon stepping into the building, you are immediately surrounded by bright blue, 
 ### Actions for the players:
 
 >[!question]- **Investigate candles**
->The library's candles have somewhat recently been relit, presumably by intrepid urban explorers who have no regard for their own safety. The hyperactive wispy creatures flying above you seem to have stayed so far back from the flames that not even their drifting breaths have not blown them out. Most of the candles have burned near to their wicks.
->
+>The library's candles have somewhat recently been re-lit, presumably by intrepid urban explorers who have no regard for their own safety. The drifting breaths of the hyperactive creatures flying above you have not managed to extinguish a single flame; most of the candles have burned near to their wicks.
+
 >[!question]- **Look at the books**
->Strewn across the tables in front of you are several open books. They seem to be emanating a pale mist which sparkles the same colour as the wisp creatures.
+>Strewn across the tables in front of you are several open books. They seem to be emanating a pale mist which sparkles with the same vivid blue colour as the wisps.
 
 >[!question]- **Observe the wisps**
 >You watch cautiously as the wisps absorb the raw Ichor contained within the words of long-dead mages. The wisps' translucent forms pulsate with newfound energy, shimmering and thrumming, alive with stolen power. They are *feeding.*

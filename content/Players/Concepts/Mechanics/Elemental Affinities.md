@@ -6,7 +6,9 @@ Each player will be able to choose the following when creating their character:
 
 ## Resistance Factor
 
-Each of the affinities are listed in order from lowest to highest resistance factor. When levelling up, you can choose an [[Elements|Element]] and increase your resistance factor for that particular element.
+Each of the affinities are listed in order from lowest to highest resistance factor. Every time you level up you gain 1 Affinity Point.
+
+With 1 Affinity Point, you can choose an [[Elements|Element]] and increase your resistance factor for that particular element by 1 (e.g. from neutral to resist). However, if you are Weak to an element, you will need **3* Affinity Points** to move to Neutral.
 
 ## Affinity Types
 ### 0. WEAK
@@ -15,11 +17,11 @@ Target takes double damage. Attacker gains 1 additional Action.
 No special effect. [[Critical Hits and Knockdowns|Critical Hits]] against the target will act like they are **WEAK,** knocking them down. (See [[Critical Hits and Knockdowns]])
 ### 2. RESIST
 Target reduces incoming damage.
-[[Elements#⚔️ Physical (PHYS)|Physical]] damage is reduced by [[Stats#🛡️Vitality|Vitality]] the character's stat, while Magical damage (any element other than PHYS) is reduced by the character's [[Stats#💙 Spirit|Spirit]] stat.
+[[Elements#⚔️ Physical (PHYS)|Physical]] damage is reduced by [[Stats#🛡️Vitality|Vitality]] the character's stat, while Magical damage (any element other than PHYS) is reduced by the character's [[Stats#💙 Spirit|Spirit]] stat. Critical Hits still act the same.
 ### 3. NULL
-Immune to damage from this element. It does nothing, wasting the attacker's turn.
+Immune to damage from this element, including Crits. It does nothing, wasting the attacker's turn.
 ### 4. DRAIN
-The target absorbs incoming damage as HP.
+Same as Null, but the target absorbs the incoming damage as HP.
 ### 5. REFLECT
 Damage is bounced back at the attacker. An attack can only be reflected once per instance (no ping-ponging).
 

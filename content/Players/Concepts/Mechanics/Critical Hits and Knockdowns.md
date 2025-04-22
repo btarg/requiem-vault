@@ -29,7 +29,7 @@ You can use the Action yourself, or you can choose to [[Baton Pass|Pass the Bato
 
 ## Knockdown (Prone/Downed) Status
 
-Characters who are critically hit are knocked **Prone** (also referred to as "Downed").
+Characters who are critically hit are knocked **Prone** (also referred to as "Downed"). Any **sustain** spells will be disrupted.
 
 ### Rules for Downed Enemies
 
