@@ -12,7 +12,12 @@ Near-blindly treading through mud and bracken, you push through layers of barbed
 >You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert, but more like the objects which are glowing themselves are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
 
 ## Entering the Library
-Upon stepping into the building, you are immediately surrounded by bright blue, flame-like creatures. They swirl overhead in graceful arcs, wispy and gaseous, flickering like living embers. Lighting the dark room with their eerie neon glow, they dive toward dusty, leather-bound tomes, devour them with an insatiable hunger. They leave an icy breeze in their wake.![[library-source2.jpg]]
+
+Upon stepping into the building, you are immediately surrounded by bright blue, flame-like creatures. They swirl overhead in graceful arcs, wispy and gaseous, flickering like living embers. Lighting the dark room with their eerie neon glow, they dive toward dusty, leather-bound tomes, phasing through the pages. Then, leaving an icy breeze in their wake, they dart toward a dancing blue flame at the end of the room.
+
+The candles are unusually lit. Someone has been here before.
+
+![[library-source2.jpg]]
 
 ### Actions for the players:
 
