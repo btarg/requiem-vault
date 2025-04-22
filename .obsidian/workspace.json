@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Backstory"
             }
+          },
+          {
+            "id": "131b27802b4d4042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +187,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d8d67db8a19c7b8",
+  "active": "131b27802b4d4042",
   "lastOpenFiles": [
+    "content/Players/Lore/Backstory.md",
+    "conflict-files-obsidian-git.md",
+    "GM/Spells/Ray of Frost.md",
+    "GM/Spells/Personal Blizzard.md",
+    "GM/Spells",
+    "GM/Enemies/Ichor Wraith.md",
+    "GM/Enemies",
     "GM/First Session/First session start.md",
     "content/Players/Concepts/Mechanics/Elemental Affinities.md",
     "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
@@ -181,7 +203,6 @@
     "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "GM/Familiarity Tracker.md",
     "content/Players/Soul Linking Overview.md",
-    "content/Players/Lore/Backstory.md",
     "content/Players/Concepts/Mechanics/Elements.md",
     "content/Players/Concepts/Mechanics/Stats.md",
     "content/index.md",
@@ -200,8 +221,6 @@
     "quartz/quartz/plugins/transformers/toc.ts",
     "quartz/quartz/plugins/transformers/syntax.ts",
     "quartz/quartz/plugins/transformers/roam.ts",
-    "quartz/quartz/plugins/transformers/oxhugofm.ts",
-    "quartz/quartz/plugins/transformers/ofm.ts",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/tags/plugin.md",
@@ -209,10 +228,6 @@
     "quartz/docs/plugins/TagPage.md",
     "quartz/docs/plugins/TableOfContents.md",
     "quartz/docs/plugins/SyntaxHighlighting.md",
-    "quartz/docs/plugins/Static.md",
-    "quartz/docs/plugins/RoamFlavoredMarkdown.md",
-    "quartz/docs/plugins/RemoveDrafts.md",
-    "quartz/docs/plugins/OxHugoFlavoredMarkdown.md",
     "quartz/docs/images/social-image-preview-light.png",
     "quartz/docs/images/social-image-preview-dark.png",
     "quartz/docs/images/quartz-layout-tablet.png",

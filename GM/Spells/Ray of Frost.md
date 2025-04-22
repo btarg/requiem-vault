@@ -1,0 +1,1 @@
+`pf2:2` Ray of Frost: 1d4 cold damage to one target (120ft range)

@@ -12,15 +12,20 @@ Near-blindly treading through mud and bracken, you push through layers of barbed
 >You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert, but more like the objects which are glowing themselves are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
 
 ## Entering the Library
-Upon stepping into the building, you are immediately surrounded by bright blue, flame-like creatures. They swirl overhead in graceful arcs, wispy and gaseous, flickering like living embers. Lighting the dark room with their eerie neon glow, they dive toward dusty, leather-bound tomes, devour them with an insatiable hunger. They leave an icy breeze in their wake.![[library-source2.jpg]]
+
+Upon stepping into the building, you are immediately surrounded by bright blue, flame-like creatures. They swirl overhead in graceful arcs, wispy and gaseous, flickering like living embers. Lighting the dark room with their eerie neon glow, they dive toward dusty, leather-bound tomes, phasing through the pages. Then, leaving an icy breeze in their wake, they dart toward a dancing blue flame at the end of the room.
+
+The candles are unusually lit. Someone has been here before.
+
+![[library-source2.jpg]]
 
 ### Actions for the players:
 
 >[!question]- **Investigate candles**
->The library's candles have somewhat recently been relit, presumably by intrepid urban explorers who have no regard for their own safety. The hyperactive wispy creatures flying above you seem to have stayed so far back from the flames that not even their drifting breaths have not blown them out. Most of the candles have burned near to their wicks.
->
+>The library's candles have somewhat recently been re-lit, presumably by intrepid urban explorers who have no regard for their own safety. The drifting breaths of the hyperactive creatures flying above you have not managed to extinguish a single flame; most of the candles have burned near to their wicks.
+
 >[!question]- **Look at the books**
->Strewn across the tables in front of you are several open books. They seem to be emanating a pale mist which sparkles the same colour as the wisp creatures.
+>Strewn across the tables in front of you are several open books. They seem to be emanating a pale mist which sparkles with the same vivid blue colour as the wisps.
 
 >[!question]- **Observe the wisps**
 >You watch cautiously as the wisps absorb the raw Ichor contained within the words of long-dead mages. The wisps' translucent forms pulsate with newfound energy, shimmering and thrumming, alive with stolen power. They are *feeding.*
