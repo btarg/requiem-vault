@@ -1,7 +1,7 @@
 **Level:** 4 ([[Ranks and Levels#Soul Link Ranks|SL Rank 3]])
 **Actions:** `pf2:2` (2 Actions)
 **Element:** [[Elements#💥 Force|💥 Force]]
-**Source:** [[Blue Flame]] Draw List
+
 
 ---
 

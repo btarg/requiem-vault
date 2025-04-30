@@ -1,10 +1,7 @@
 **Level:** 3 ([[Ranks and Levels#Soul Link Ranks|SL Rank 2]])
 **Actions:** `pf2:1` (1 Action)
 **Element:** [[Elements#❄️ Cold|❄️ Cold]]
-**Range:** 30 feet
-**Target:** 1 creature
-**Duration:** Sustained up to 1 minute
-**Saving Throw:** [[Saving Throws#Fortitude|Fortitude Save]]
+
 
 ---
 
@@ -14,6 +11,8 @@ Your patron’s breath becomes a swirling blizzard of obscuring, scouring ice th
 
 ## Mechanics
 
+- **Range:** 30 feet
+- **Target:** 1 creature
 - **Sustain:** Requires a single action (`pf2:1`) each round to maintain the effect. If not sustained, the spell ends immediately (including any persistent damage).
 
 ## Effects

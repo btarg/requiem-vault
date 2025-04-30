@@ -9,7 +9,7 @@ Increases [[Elements#⚔️ Physical (PHYS)|Physical]] attack damage (flat bonus
 
 > [!tip] VIT
 
-Reduces incoming [[Elements#⚔️ Physical (PHYS)|Physical]] damage when the attack is [[Elemental Affinities#Resist|Resisted]]. Does not affect neutral or absorbed damage. Applied as a flat bonus to [[Saving Throws#Fortitude|Fortitude Saves]].
+Reduces incoming [[Elements#⚔️ Physical (PHYS)|Physical]] damage when the attack is [[Elemental Affinities#Resist|Resisted]]. Does not affect neutral or absorbed damage. [[Saving Throws#Fortitude|Fortitude Saves]] use this stat.
 ## ✨ Magic
 
 > [!tip] MAG
@@ -19,7 +19,7 @@ Increases magical attack damage (flat bonus). Bypassed by resistance, absorption
 
 > [!tip] SPR
 
-Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality.
+Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality. [[Saving Throws#Will|Will Saves]] use this stat.
 ## 🏃 Speed
 
 > [!tip] SPD
