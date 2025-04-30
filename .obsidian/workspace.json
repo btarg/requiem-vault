@@ -39,22 +39,14 @@
             "id": "a663d7f029538810",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "GM/Familiarity Tracker.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "content/Players/Concepts/Spells/Dispel Magic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Familiarity Tracker"
+              "icon": "lucide-file",
+              "title": "Dispel Magic"
             }
           }
         ],
@@ -211,6 +203,8 @@
   },
   "active": "a663d7f029538810",
   "lastOpenFiles": [
+    "content/Players/Concepts/Spells/Cone of Cold.md",
+    "GM/Familiarity Tracker.md",
     "GM/Enemies/Ichor Wraith.md",
     "content/Players/Concepts/Spells/Phantasmal Killer.md",
     "content/Players/Concepts/Mechanics/Ranks and Levels.md",
@@ -220,11 +214,9 @@
     "content/Players/Concepts/Spells/Dispel Magic.md",
     "content/Players/Concepts/Spells/Resilient Sphere.md",
     "content/Players/Concepts/Spells/Shadow Blast.md",
-    "content/Players/Concepts/Spells/Cone of Cold.md",
     "content/Players/Concepts/Mechanics/Elements.md",
     "GM/Conditions.md",
     "quartz/README.md",
-    "GM/Familiarity Tracker.md",
     "GM/First Session/Library/Blue Flame.md",
     "content/Players/Concepts/Mechanics/Saving Throws.md",
     "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
