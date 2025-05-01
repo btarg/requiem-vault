@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Spells/Haste.md",
+                "file": "GM/First Session/Club/Celebration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haste"
+              "title": "Celebration"
             }
           },
           {
@@ -27,26 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Ranks and Levels.md",
+                "file": "GM/First Session/Library/Aftermath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ranks and Levels"
+              "title": "Aftermath"
             }
           },
           {
-            "id": "a663d7f029538810",
+            "id": "ba68a3cc1e0e3ef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Stats.md",
+                "file": "content/Players/Lore/Backstory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Backstory"
+            }
+          },
+          {
+            "id": "7b544a759569f090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/First Session/First session start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First session start"
             }
           }
         ]
@@ -202,8 +216,16 @@
   },
   "active": "7d8d67db8a19c7b8",
   "lastOpenFiles": [
-    "content/Players/Concepts/Spells/Dispel Magic.md",
+    "GM/First Session/Library/Aftermath.md",
+    "content/Players/Lore/Backstory.md",
+    "GM/First Session/First session start.md",
+    "GM/First Session/Club/Celebration.md",
+    "Library Entrance.md",
+    "GM/First Session/Library/Blue Flame.md",
+    "GM/First Session/Club",
+    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/Players/Concepts/Spells/Haste.md",
+    "content/Players/Concepts/Spells/Dispel Magic.md",
     "content/Players/Concepts/Spells/Cone of Cold.md",
     "content/Players/Concepts/Spells/Personal Blizzard.md",
     "content/Players/Concepts/Spells/Phantasmal Killer.md",
@@ -214,22 +236,15 @@
     "content/Players/Concepts/Spells/Shadow Blast.md",
     "content/Players/Concepts/Mechanics/Elements.md",
     "content/Players/Concepts/Mechanics/Elemental Affinities.md",
-    "GM/First Session/Library/Blue Flame.md",
     "GM/Familiarity Tracker.md",
     "GM/Enemies/Ichor Wraith.md",
-    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "GM/Conditions.md",
     "quartz/README.md",
     "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
     "content/Players/Concepts/Mechanics/Drawing Spells.md",
-    "GM/First Session/First session start.md",
     "conflict-files-obsidian-git.md",
-    "content/Players/Lore/Backstory.md",
     "content/Players/Concepts/Spells",
     "GM/Enemies",
-    "Element.md",
-    "content/Players/Soul Linking Overview.md",
-    "content/index.md",
     "library-source2.jpg",
     "GM/First Session/Library",
     "GM/First Session",
@@ -238,7 +253,6 @@
     "quartz/quartz/static/giscus/light.css",
     "quartz/quartz/plugins/transformers/toc.ts",
     "quartz/quartz/plugins/transformers/syntax.ts",
-    "quartz/quartz/plugins/transformers/roam.ts",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/social-image-preview-light.png",

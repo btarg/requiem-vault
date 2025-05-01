@@ -107,5 +107,7 @@ The players can take time to study the Blue Flame, learning more about its natur
 - **2 Failures:** The flame destabilises, increasing the DCs of all future interactions by +2.
 - **3 Failures:** This has the same effect as 2 failures, while summoning an [[Ichor Wraith]].
 
+> [!tip] When players are finished interacting with the Blue Flame, they move to [[Aftermath]]
+
 ---
 *Tags: #encounter #drawpoint #ichor #hazard*
