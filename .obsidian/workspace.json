@@ -55,15 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/First Session/First session start.md",
+                "file": "GM/First Session/Library/Blue Flame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First session start"
+              "title": "Blue Flame"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,12 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d8d67db8a19c7b8",
+  "active": "7b544a759569f090",
   "lastOpenFiles": [
-    "GM/First Session/Library/Aftermath.md",
-    "content/Players/Lore/Backstory.md",
     "GM/First Session/First session start.md",
+    "content/Players/Lore/Backstory.md",
     "GM/First Session/Club/Celebration.md",
+    "GM/First Session/Library/Aftermath.md",
     "Library Entrance.md",
     "GM/First Session/Library/Blue Flame.md",
     "GM/First Session/Club",
