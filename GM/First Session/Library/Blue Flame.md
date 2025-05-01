@@ -51,23 +51,21 @@ The players can attempt to destroy the Blue Flame outright. This requires a coor
 
 #### Stats
 
-HP: 50
+HP: 35
 
 **Resistances:**
-⚔️ Phys: Resist 10
-❄️ Cold: Resist 10
-⚡ Elec: Resist 5
-🧪 Chem: Resist 5
-🌀 Psy: Resist 5
-✨ Vit: Resist 5
+⚔️ Phys: Reflect *(You can't punch a flame, ouch)*
+🧪 Chem: Resist *(Acid and poison won't do much here, but splashing the flame has a small effect on the Ichor Wraiths within)*
+🌀 Psy: Null *(It doesn't have a mind or soul, therefore is immune to Psychic)*
+✨ Vit: Resist *(This damages the flame, but not as much as you thought it would)*
 
 **Weaknesses:**
-💥 Force: Weakness 10
-🌌 Void: Weakness 10 *(Special interaction, see [[#3. **Study the Flame**]])*
+💥 Force: Weak *(You successfully attempt to blow out the flame with wind-based attacks)*
+🌌 Void: Weak *(Special interaction, see [[#3. **Study the Flame**]])*
 
 **Immunities/Drain:**
-🔥 Fire: Drain *(The flame absorbs Fire energy, healing for the amount of damage dealt)*
-
+🔥 Fire *(The flame absorbs Fire energy, healing for the amount of damage dealt)*
+❄️ Cold *(The flame and the Ichor Wraiths are composed of the same magical substance)*
 #### **Successes**
 
 - **1 Success:** The flame flickers but remains intact.
