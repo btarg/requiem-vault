@@ -22,7 +22,10 @@ The candles are unusually lit. Someone has been here before.
 ### Actions for the players:
 
 >[!question]- **Investigate candles**
->The library's candles have somewhat recently been re-lit, presumably by intrepid urban explorers who have no regard for their own safety. The drifting breaths of the hyperactive creatures flying above you have not managed to extinguish a single flame; most of the candles have burned near to their wicks.
+>The library's candles have somewhat recently been re-lit, presumably by intrepid urban explorers who have no regard for their own safety.
+>**Roll a perception check against DC 8.**
+>>[!success]- Perception success
+>>The drifting breaths of the hyperactive creatures flying above you have not managed to extinguish a single flame; most of the candles have burned near to their wicks. They appear to be *avoiding* the candles.
 
 >[!question]- **Look at the books**
 >Strewn across the tables in front of you are several open books. They seem to be emanating a pale mist which sparkles with the same vivid blue colour as the wisps.
