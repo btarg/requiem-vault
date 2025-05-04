@@ -6,10 +6,10 @@ Near-blindly treading through mud and bracken, you push through layers of barbed
 ### Actions for the players:
 
 >[!warning]- **Look closer at the signs**
->Looking closer at the signs surrounding the Library, you see that a majority of them warn of rabid animals, with vicious-looking depictions of wolves on several blood-red metal plates. There are also a few triangular signs with trefoils and biohazard symbols. You see "RISK OF DEATH" written in at least ten languages.
+>Looking closer at the signs surrounding the Library, you see that a majority of them warn of rabid animals, with vicious-looking depictions of wolves printed on several blood-red metal plates. There are also a few triangular signs with trefoils and biohazard symbols. The words "RISK OF DEATH" are written in at least ten languages on another.
 
 >[!note]- **Study the lights**
->You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert, but more like the objects which are glowing themselves are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
+>You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert; it looks more like many glowing objects are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
 
 ## Entering the Library
 

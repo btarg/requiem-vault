@@ -1,4 +1,5 @@
 HP: 25
+AC: 5
 Bounty Value: 5gp
 
 ⚔️ Phys: resist

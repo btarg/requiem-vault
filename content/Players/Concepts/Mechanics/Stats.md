@@ -40,6 +40,12 @@ Provides various bonuses:
 Used for social rolls, such as Deception, Intimidation and Persuasion.
 This might change in the future to be more like regular Pathfinder with multiple separate social stats, but for the one-shot all social stats are rolled into one to make the stat a more appealing choice when [[Ranks and Levels#Levelling up|levelling up]].
 
+## 👁️ Perception
+
+>[!tip] PERC
+
+Used for noticing weak points, hidden treasure, hidden enemies etc.
+
 ---
 Back to: [[index]]
 Related: [[Formula for Stats]], [[Soul Linking Overview]], [[Drawing Spells]], [[Critical Hits and Knockdowns]], [[Difficulty Classes]]

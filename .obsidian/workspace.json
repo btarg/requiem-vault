@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/First Session/Club/Celebration.md",
+                "file": "GM/First Session/First session start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celebration"
+              "title": "First session start"
             }
           },
           {
@@ -34,8 +34,51 @@
               "icon": "lucide-file",
               "title": "Ranks and Levels"
             }
+          },
+          {
+            "id": "fe10921572c38977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/First Session/Library/Library final encounter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Library final encounter"
+            }
+          },
+          {
+            "id": "8938f713178630e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Concepts/Mechanics/Elements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elements"
+            }
+          },
+          {
+            "id": "870ca0221ce131f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Concepts/Spells/Dispel Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dispel Magic"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[Actions",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +229,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d8d67db8a19c7b8",
+  "active": "110d51ea871c4ad3",
   "lastOpenFiles": [
-    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
-    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
+    "GM/First Session/Library/Aftermath.md",
+    "GM/First Session/Library/Library final encounter.md",
+    "content/Players/Concepts/Mechanics/Elements.md",
+    "content/Players/Concepts/Spells/Dispel Magic.md",
     "content/Players/Concepts/Mechanics/Stats.md",
-    "GM/First Session/Club/Celebration.md",
     "GM/Enemies/Ichor Wraith.md",
+    "GM/First Session/First session start.md",
+    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
+    "content/Players/Concepts/Mechanics/Saving Throws.md",
+    "GM/Conditions.md",
+    "GM/First Session/Library/Blue Flame.md",
+    "content/Players/Lore/Backstory.md",
+    "GM/First Session/Club/Celebration.md",
+    "library-source2.jpg",
+    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
     "conflict-files-obsidian-git.md",
     "content/Players/Concepts/Spells/Shadow Blast.md",
     "content/Players/Concepts/Spells/Resilient Sphere.md",
@@ -200,26 +253,16 @@
     "content/Players/Concepts/Spells/Phantasmal Killer.md",
     "content/Players/Concepts/Spells/Personal Blizzard.md",
     "content/Players/Concepts/Spells/Haste.md",
-    "content/Players/Concepts/Spells/Dispel Magic.md",
     "content/Players/Concepts/Spells/Cone of Cold.md",
     "content/Players/Concepts/Spells",
-    "GM/First Session/Library/Blue Flame.md",
-    "GM/First Session/Library/Aftermath.md",
     "GM/First Session/Library",
     "GM/First Session/Club",
-    "GM/Conditions.md",
     "content/Players/Soul Linking Overview.md",
     "GM/Spells/Personal Blizzard.md",
     "content/Players/Concepts/Mechanics/Formula for Stats.md",
-    "content/Players/Concepts/Mechanics/Elements.md",
     "GM/Familiarity Tracker.md",
-    "GM/Spells/Ray of Frost.md",
     "GM/Spells",
-    "GM/First Session/First session start.md",
-    "content/Players/Concepts/Mechanics/Drawing Spells.md",
-    "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
     "GM/Enemies",
-    "library-source2.jpg",
     "content/Players/Lore",
     "GM/First Session",
     "quartz/quartz/static/giscus/dark.css",
