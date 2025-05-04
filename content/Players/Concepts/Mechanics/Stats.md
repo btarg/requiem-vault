@@ -33,6 +33,13 @@ Provides various bonuses:
 *   Increases the number of spells Drawn when choosing to [[Drawing Spells#Draw Amount|Stock]] (flat bonus, max +4).
 *   Decreases the chance of being knocked down via a [[Critical Hits and Knockdowns#Player Character Differences|Fortitude save]] when critically hit (flat bonus).
 
+## 🗣️ Charisma
+
+>[!tip] CHA
+
+Used for social rolls, such as Deception, Intimidation and Persuasion.
+This might change in the future to be more like regular Pathfinder with multiple separate social stats, but for the one-shot all social stats are rolled into one to make the stat a more appealing choice when [[Ranks and Levels#Levelling up|levelling up]].
+
 ---
 Back to: [[index]]
 Related: [[Formula for Stats]], [[Soul Linking Overview]], [[Drawing Spells]], [[Critical Hits and Knockdowns]], [[Difficulty Classes]]
