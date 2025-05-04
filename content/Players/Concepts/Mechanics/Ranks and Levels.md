@@ -23,6 +23,8 @@ Everyone in the party is always at the same level. As the party levels up, you w
 You are able to Soul Link a number of Stats corresponding to the party's Level. (Level 5 party = 5 linkable stats at a time).
 Since your party will start at Level 1, one stat will be available for Soul Linking from the start of the campaign.
 
+When levelling up, players will also gain **5 skill points,** see [[Stats]].
+
 ### The Hoard
 Honing your abilities is an investment. All players can pool together money into a "hoard" - permanently investing it into levelling up.
 

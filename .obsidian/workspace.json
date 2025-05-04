@@ -69,12 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Scanning.md",
+                "file": "GM/Enemies/Ichor Wraith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scanning"
+              "title": "Ichor Wraith"
+            }
+          },
+          {
+            "id": "5ad7defc975df894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Concepts/Mechanics/Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
             }
           }
         ],
@@ -231,18 +245,19 @@
   },
   "active": "8938f713178630e1",
   "lastOpenFiles": [
-    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
-    "content/Players/Concepts/Mechanics/Elements.md",
+    "GM/Enemies/Ichor Wraith.md",
     "content/Players/Concepts/Mechanics/Scanning.md",
     "content/Players/Concepts/Mechanics/Stats.md",
+    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
+    "content/Players/Concepts/Spells/Ray of Frost.md",
+    "content/Players/Concepts/Mechanics/Elements.md",
+    "GM/First Session/Library/Library final encounter.md",
+    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
     "content/Players/Concepts/Mechanics/Drawing Spells.md",
     "GM/First Session/Library/Blue Flame.md",
     "content/Players/Concepts/Spells/Shadow Blast.md",
-    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/Players/Concepts/Spells/Dispel Magic.md",
-    "GM/Enemies/Ichor Wraith.md",
     "GM/First Session/First session start.md",
-    "GM/First Session/Library/Library final encounter.md",
     "GM/First Session/Library/Aftermath.md",
     "content/Players/Concepts/Mechanics/Saving Throws.md",
     "GM/Conditions.md",
@@ -251,7 +266,6 @@
     "library-source2.jpg",
     "conflict-files-obsidian-git.md",
     "content/Players/Concepts/Spells/Resilient Sphere.md",
-    "content/Players/Concepts/Spells/Ray of Frost.md",
     "content/Players/Concepts/Spells/Phantasmal Killer.md",
     "content/Players/Concepts/Spells/Personal Blizzard.md",
     "content/Players/Concepts/Spells/Haste.md",

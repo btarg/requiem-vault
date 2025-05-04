@@ -1,4 +1,6 @@
 These are the core stats modified by [[Soul Linking Overview|Soul Linking]]. They replace the normal Pathfinder 2E stats.
+Players will start out with **15 points to allocate to their stats how they wish.**
+See [[Ranks and Levels#Levelling up]]
 
 ## ✊Strength
 
@@ -19,7 +21,7 @@ Increases magical attack damage (flat bonus). Bypassed by resistance, absorption
 
 > [!tip] SPR
 
-Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality. [[Saving Throws#Will|Will Saves]] use this stat.
+Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality. [[Saving Throws#Will|Will Saves]] and [[Scanning]] also use this stat.
 ## 🏃 Speed
 
 > [!tip] SPD
