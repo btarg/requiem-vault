@@ -1,4 +1,4 @@
-All characters possess strengths and weaknesses based on [[Elements]], similar to *Shin Megami Tensei/Persona*.
+All characters possess strengths and weaknesses to [[Elements]]. Combat revolves around exploiting your enemy's weaknesses, and defending against your own.
 
 Each player will be able to choose the following when creating their character:
 - One element to be **WEAK** to
@@ -9,7 +9,7 @@ Each player will be able to choose the following when creating their character:
 
 Each of the affinities are listed in order from lowest to highest resistance factor. Every time you [[Ranks and Levels#Levelling up||level up]] you gain 1 Affinity Point.
 
-With 1 Affinity Point, you can choose an [[Elements|Element]] and increase your resistance factor for that particular element by 1 (e.g. from neutral to resist). However, if you are Weak to an element, you will need **5 (amount not final) Affinity Points** to move to Neutral.
+With 1 Affinity Point, you can choose an [[Elements|Element]] and increase your resistance factor for that particular element by 1 (e.g. from neutral to resist). However, if you are Weak to an element, you will need **3 (amount not final) Affinity Points** to move to Neutral.
 
 ## Affinity Types
 ### 0. WEAK
