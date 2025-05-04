@@ -3,8 +3,8 @@
 ---
 
 **Stats:**
-*   **HP:** 15
-*   **AC:** 8
+*   **HP:** 20
+*   **AC:** 10
 *   **Speed:** 0 ft., Fly 40 ft. (hover) - *Incorporeal Movement*
 *   **Bounty Value:** 5gp
 
