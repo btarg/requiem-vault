@@ -23,9 +23,9 @@ Looking closer at the environment, you notice subtle but disturbing signs that g
 
 ### The sealed door
 
-It is not safe to remain here. You begin moving to the door, attempting calling in your success on your way out.
-(Random player), you pull out your phone from your jacket to call for an evac team. The moment the screen flickers to life, thin tendrils of acrid smoke begin to curl from its seams. It grows unnaturally hot in your hand within seconds.
+Even with your enemies defeated, it is not safe to remain here for much longer. You begin moving to the door, attempting to call in your success on your way out.
 
+(Random player), you pull out your phone from your jacket to call for an evac team. The moment the screen flickers to life, thin tendrils of acrid smoke begin to curl from its seams. It grows unnaturally hot in your hand within seconds.
 You instinctively drop the device. It clatters onto the dusty stone floor, smoke now pouring out more thickly, before sputtering out, leaving it completely dead. The air around the phone shimmers faintly for a moment. The others also quickly abandon their electronics.
 
 The sheer concentration of Ichor and residual Catalyst contamination in the area is far higher than anticipated. Using complex technology is hazardous within these walls. It will be hours until anyone outside becomes concerned enough to evacuate you from the Library. You're cut off.
@@ -64,9 +64,10 @@ It has no weakness, but is immune to PSY, ELEC, COLD and CHEM.
 
 ### Breaking through
 
-Just as you destroy the magical seal cast on the door, a low, guttural snarl echoes from the far end of the entrance hall, from behind one of the many bookshelves. The sound is followed by the scrape of claws on stone, much closer now. It is filled with an unnatural aggression, pure hate. Hunger.
+Just as you destroy the magical seal cast on the door, a low, guttural snarl echoes from the far end of the entrance hall, from behind one of the many bookshelves. The sound is followed by the scrape of claws on stone, much closer now. Then another growl, closer still, filled with an unnatural aggression. Pure hate. Hunger.
 
 The hairs on the back of your neck stand up. You are not alone, and it knows you are here. Running into the open field in the dead of night would put you at a disadvantage. There is no choice but to stand your ground.
 
+***ROLL INITIATIVE***
 
 > [!success] Once the players are finished, move to the [[Library final encounter]] scene

@@ -45,4 +45,6 @@ The air suddenly feels a lot less still. Their **(GM Note: call them Ichor Wrait
 
 ***ROLL INITIATIVE***
 
+*The players will be greeted with **five** [[Ichor Wraith]]s*
+
 >[!tip] After defeating the Wraiths, the players move to [[Blue Flame]]
