@@ -26,6 +26,8 @@ Same as Null, but the target absorbs the incoming damage as HP.
 ### 5. REFLECT
 Damage is bounced back at the attacker. An attack can only be reflected once per instance (no ping-ponging).
 
+>[!tip] See [[Scanning]] for how players can discover another character's affinities
+
 ---
 Back to: [[index]]
 Related: [[Elements]], [[Stats]], [[Drawing Spells]], [[Critical Hits and Knockdowns]] (for Weakness interaction)

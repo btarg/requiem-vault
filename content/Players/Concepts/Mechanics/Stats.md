@@ -44,7 +44,10 @@ This might change in the future to be more like regular Pathfinder with multiple
 
 >[!tip] PERC
 
-Used for noticing weak points, hidden treasure, hidden enemies etc.
+Used for [[Scanning]] for an enemy's [[Elemental Affinities]].
+
+
+Also used for noticing weak points, hidden treasure, hidden enemies etc.
 
 ---
 Back to: [[index]]

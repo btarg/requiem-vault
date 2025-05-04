@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Elements.md",
+                "file": "content/Players/Concepts/Mechanics/Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elements"
+              "title": "Scanning"
             }
           },
           {
@@ -69,15 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Drawing Spells.md",
+                "file": "content/Players/Concepts/Mechanics/Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawing Spells"
+              "title": "Scanning"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,20 +229,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d8d67db8a19c7b8",
+  "active": "8938f713178630e1",
   "lastOpenFiles": [
+    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
+    "content/Players/Concepts/Mechanics/Elements.md",
+    "content/Players/Concepts/Mechanics/Scanning.md",
     "content/Players/Concepts/Mechanics/Stats.md",
+    "content/Players/Concepts/Mechanics/Drawing Spells.md",
     "GM/First Session/Library/Blue Flame.md",
     "content/Players/Concepts/Spells/Shadow Blast.md",
     "content/Players/Concepts/Mechanics/Ranks and Levels.md",
-    "content/Players/Concepts/Mechanics/Drawing Spells.md",
-    "content/Players/Concepts/Mechanics/Elemental Affinities.md",
     "content/Players/Concepts/Spells/Dispel Magic.md",
     "GM/Enemies/Ichor Wraith.md",
     "GM/First Session/First session start.md",
     "GM/First Session/Library/Library final encounter.md",
     "GM/First Session/Library/Aftermath.md",
-    "content/Players/Concepts/Mechanics/Elements.md",
     "content/Players/Concepts/Mechanics/Saving Throws.md",
     "GM/Conditions.md",
     "content/Players/Lore/Backstory.md",
@@ -259,7 +261,6 @@
     "GM/First Session/Club",
     "content/Players/Soul Linking Overview.md",
     "GM/Spells/Personal Blizzard.md",
-    "content/Players/Concepts/Mechanics/Formula for Stats.md",
     "GM/Spells",
     "GM/Enemies",
     "content/Players/Lore",
