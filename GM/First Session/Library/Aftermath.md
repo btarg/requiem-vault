@@ -26,15 +26,15 @@ Looking closer at the environment, you notice subtle but disturbing signs that g
 It is not safe to remain here. You begin moving to the door, attempting calling in your success on your way out.
 (Random player), you pull out your phone from your jacket to call for an evac team. The moment the screen flickers to life, thin tendrils of acrid smoke begin to curl from its seams. It grows unnaturally hot in your hand within seconds.
 
-You instinctively drop the device. It clatters onto the dusty stone floor, smoke now pouring out more thickly before sputtering out, leaving it completely dead. The air around it shimmers faintly for a moment. The others also quickly abandon their electronics.
+You instinctively drop the device. It clatters onto the dusty stone floor, smoke now pouring out more thickly, before sputtering out, leaving it completely dead. The air around the phone shimmers faintly for a moment. The others also quickly abandon their electronics.
 
-The ambient magical energy, the sheer concentration of Ichor and residual Catalyst contamination in this Library, is far higher than anticipated. Complex technology is unreliable at best, and potentially hazardous, within these walls. You're cut off.
+The sheer concentration of Ichor and residual Catalyst contamination in the area is far higher than anticipated. Using complex technology is hazardous within these walls. It will be hours until anyone outside becomes concerned enough to evacuate you from the Library. You're cut off.
 
 Reaching the massive, ornate doors through which you entered, you find your exit barred. Where before there was only heavy, mundane wood and metal, intricate, glowing blue runes now crawl across the door's surface like icy veins. A low, resonant hum emanates from them, and the air before the doors feels thick and resistant.
 
 **Interacting with the Door (Before or During Combat):**
 
-The door has 25 HP.
+The warded door has 25 HP.
 It has no weakness, but is immune to PSY, ELEC, COLD and CHEM.
 
 
@@ -62,10 +62,11 @@ It has no weakness, but is immune to PSY, ELEC, COLD and CHEM.
 >**Critical Failure:** The same as a regular failure, but you strain yourself, taking an extra 1d4 [[Elements#⚔️ Physical (PHYS)|Phys]] damage from the rebound.
 >
 
+### Breaking through
 
-Just as you begin to grapple with the problem of the sealed door, a low, guttural snarl echoes from the far end of the entrance hall, near one of the archways leading deeper into the Library. It's followed by the scrape of claws on stone, much closer than any sounds you heard before. The sound is filled with unnatural hunger and aggression.
+Just as you destroy the magical seal cast on the door, a low, guttural snarl echoes from the far end of the entrance hall, from behind one of the many bookshelves. The sound is followed by the scrape of claws on stone, much closer now. It is filled with an unnatural aggression, pure hate. Hunger.
 
-The hairs on the back of your neck stand up. You are not alone, and it knows you are here.
+The hairs on the back of your neck stand up. You are not alone, and it knows you are here. Running into the open field in the dead of night would put you at a disadvantage. There is no choice but to stand your ground.
 
 
 > [!success] Once the players are finished, move to the [[Library final encounter]] scene
