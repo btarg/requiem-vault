@@ -6,10 +6,10 @@ Near-blindly treading through mud and bracken, you push through layers of barbed
 ### Actions for the players:
 
 >[!warning]- **Look closer at the signs**
->Looking closer at the signs surrounding the Library, you see that a majority of them warn of rabid animals, with vicious-looking depictions of wolves on several blood-red metal plates. There are also a few triangular signs with trefoils and biohazard symbols. You see "RISK OF DEATH" written in at least ten languages.
+>Looking closer at the signs surrounding the Library, you see that a majority of them warn of rabid animals, with vicious-looking depictions of wolves printed on several blood-red metal plates. There are also a few triangular signs with trefoils and biohazard symbols. The words "RISK OF DEATH" are written in at least ten languages on another.
 
 >[!note]- **Study the lights**
->You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert, but more like the objects which are glowing themselves are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
+>You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert; it looks more like many glowing objects are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
 
 ## Entering the Library
 
@@ -22,7 +22,10 @@ The candles are unusually lit. Someone has been here before.
 ### Actions for the players:
 
 >[!question]- **Investigate candles**
->The library's candles have somewhat recently been re-lit, presumably by intrepid urban explorers who have no regard for their own safety. The drifting breaths of the hyperactive creatures flying above you have not managed to extinguish a single flame; most of the candles have burned near to their wicks.
+>The library's candles have somewhat recently been re-lit, presumably by intrepid urban explorers who have no regard for their own safety.
+>**Roll a perception check against DC 8.**
+>>[!success]- Perception success
+>>The drifting breaths of the hyperactive creatures flying above you have not managed to extinguish a single flame; most of the candles have burned near to their wicks. They appear to be *avoiding* the candles.
 
 >[!question]- **Look at the books**
 >Strewn across the tables in front of you are several open books. They seem to be emanating a pale mist which sparkles with the same vivid blue colour as the wisps.
@@ -41,5 +44,7 @@ The candles are unusually lit. Someone has been here before.
 The air suddenly feels a lot less still. Their **(GM Note: call them Ichor Wraiths if the players know this)** frantic movements have inexplicably begun to slow, shifting into something more deliberate, more calculating, like a wary animal sizing up a potential threat. The circling overhead has taken on a new meaning. You are their prey.
 
 ***ROLL INITIATIVE***
+
+*The players will be greeted with **five** [[Ichor Wraith]]s*
 
 >[!tip] After defeating the Wraiths, the players move to [[Blue Flame]]

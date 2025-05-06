@@ -1,4 +1,6 @@
 These are the core stats modified by [[Soul Linking Overview|Soul Linking]]. They replace the normal Pathfinder 2E stats.
+Players will start out with **15 points to allocate to their stats how they wish.**
+See [[Ranks and Levels#Levelling up]]
 
 ## ✊Strength
 
@@ -19,7 +21,7 @@ Increases magical attack damage (flat bonus). Bypassed by resistance, absorption
 
 > [!tip] SPR
 
-Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality. [[Saving Throws#Will|Will Saves]] use this stat.
+Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality. [[Saving Throws#Will|Will Saves]] and [[Scanning]] also use this stat.
 ## 🏃 Speed
 
 > [!tip] SPD
@@ -32,6 +34,22 @@ Adds a flat bonus to **Initiative** rolls and movement distance (in metres per t
 Provides various bonuses:
 *   Increases the number of spells Drawn when choosing to [[Drawing Spells#Draw Amount|Stock]] (flat bonus, max +4).
 *   Decreases the chance of being knocked down via a [[Critical Hits and Knockdowns#Player Character Differences|Fortitude save]] when critically hit (flat bonus).
+
+## 🗣️ Charisma
+
+>[!tip] CHA
+
+Used for social rolls, such as Deception, Intimidation and Persuasion.
+This might change in the future to be more like regular Pathfinder with multiple separate social stats, but for the one-shot all social stats are rolled into one to make the stat a more appealing choice when [[Ranks and Levels#Levelling up|levelling up]].
+
+## 👁️ Perception
+
+>[!tip] PERC
+
+Used for [[Scanning]] for an enemy's [[Elemental Affinities]].
+
+
+Also used for noticing weak points, hidden treasure, hidden enemies etc.
 
 ---
 Back to: [[index]]

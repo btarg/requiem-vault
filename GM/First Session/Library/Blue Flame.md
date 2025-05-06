@@ -10,19 +10,19 @@ The players can attempt to Draw raw magical energy or knowledge from the Blue Fl
 
 #### **Skill Checks**
 
-- **Arcana (Intelligence):** To understand and manipulate the magical energy.
-- **Willpower (Wisdom):** To resist the mental strain of the flame's chaotic power.
-- **Constitution:** To endure the physical toll of interacting with the unstable energy.
+- **[[Stats#✨ Magic|Magic]]:** To understand and manipulate the magical energy.
+- **[[Stats#💙 Spirit|Spirit]]** To resist the mental strain of the flame's chaotic power.
+- **[[Stats#✊Strength|Strength]]** To endure the physical toll of interacting with the unstable energy.
 
 #### **Successes**
 
-- **1 Success:** The player gains a small amount of Ichor energy, enough to gain a single [[Drawing Spells#Draw Amount|Draw]] of a single spell that they are already [[Familiarity With Spells|Familiar]] with. However, they feel drained, suffering a temporary penalty to [[Stats#💙 Spirit]] (-1 for 1 hour).
+- **1 Success:** The player gains a small amount of Ichor energy, enough to gain a single [[Drawing Spells#Draw Amount|Draw]] of a single spell that they are already [[Familiarity With Spells|Familiar]] with. However, they feel drained, suffering a temporary penalty to [[Stats#💙 Spirit|Spirit]] (-1 for 1 hour).
 - **2 Successes:** The player gains a moderate amount of Ichor energy, enough to power [[Drawing Spells#Draw Amount|Two Draws]] of any Familiar spell.
 - **3 Successes:** The player gains Three Draws, this time from the **Blue Flame Draw List** below. Additionally, they stabilise the flame temporarily, preventing it from lashing out (negating all failures, treating them as single basic successes).
 
 #### **Blue Flame Draw List (3 Successes)**
 
-*Choose one spell from this list per Draw gained (total of three Draws):*
+When drawing from the Blue Flame, the player immediately **Stocks** the spell. Since they should be out of combat when drawing from the flame, this does not have any effect on the amount of actions required.
 
 1. **[[Cone of Cold]] (Level 5):** Unleash a devastating cone of freezing energy.
     - **Element:** ❄️ Cold
@@ -39,9 +39,9 @@ The players can attempt to Draw raw magical energy or knowledge from the Blue Fl
 
 #### **Failures**
 
-- **1 Failure:** The flame lashes out, dealing **2d6 ❄️ Cold damage** to the player and summoning 1 [[Ichor Wraith]].
-- **2 Failures:** The flame explodes outward, dealing **4d6 ❄️ Cold damage** to everyone in the room and summoning 2 [[Ichor Wraith]]s.
-- **3 Failures:** The flame destabilises completely, causing a catastrophic explosion. Everyone in the room takes **6d6 ❄️ Cold damage**, and 3 [[Ichor Wraith]]s are summoned. The flame becomes even more unstable, making future attempts to interact with it more dangerous (all DCs increase by +2).
+- **1 Failure:** The flame lashes out, dealing **2d6 ❄️ Cold damage** to the player.
+- **2 Failures:** The flame explodes outward, dealing **4d6 ❄️ Cold damage** to everyone in the room and summoning 1 [[Ichor Wraith]].
+- **3 Failures:** The flame destabilises completely, causing a catastrophic explosion. Everyone in the room takes **6d6 ❄️ Cold damage**, and 2 [[Ichor Wraith]]s are summoned. The flame becomes even more unstable, making future attempts to interact with it more dangerous (all DCs increase by +2).
 
 ---
 
