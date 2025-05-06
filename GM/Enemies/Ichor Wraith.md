@@ -36,15 +36,10 @@
 **Chilling Touch:** *Melee Spell Attack:* +3 to hit (uses Magic), reach 5 ft., one target.
 *Hit:* 5 (1d8) ❄️ Cold damage.
 
-**Draw Spell:** The Ichor Wraith uses its action to Draw and cast one spell from its Draw List. Its spellcasting ability is Magic (Spell save DC 11, +3 to hit with spell attacks).
+## Spells
 
-## Draw List
-*   [[Ray of Frost]] (`pf2:2`)
-*   [[Personal Blizzard]] (`pf2:1`, Sustained)
-
-## Reactions
-
-**Flicker:** When targeted by an attack, the Ichor Wraith can use its reaction to flicker erratically, imposing disadvantage on the attack roll against it.
+*   5x [[Ray of Frost]] (`pf2:2`)
+*   5x [[Personal Blizzard]] (`pf2:1`, Sustained)
 
 ---
 *Tags: #creature #undead #incorporeal #ichor*
