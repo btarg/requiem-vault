@@ -1,4 +1,5 @@
 ## Outside the Library
+
 The Great Library stands as a breathtakingly imposing Art Nouveau bastion, once a proud symbol of the nation's conquest over magical knowledge. Now, it lies in decay, its grandeur consumed by creeping overgrowth and weathered stone. As far as you know, nobody has been here in a very long time.
 
 Near-blindly treading through mud and bracken, you push through layers of barbed wire-topped fences, each adorned with screaming black-and-yellow signs, their rusted metal warped and twisted. You grasp the hilts of your blades as you approach the entrance, already tasting the Ichor in the air. Through the beautiful stained-glass windows, rapid flashes of blue outshine your flashlights for brief, intermittent moments, like the strobe of a police car.
@@ -33,11 +34,11 @@ The candles are unusually lit. Someone has been here before.
 >[!question]- **Observe the wisps**
 >You watch cautiously as the wisps absorb the raw Ichor contained within the words of long-dead mages. The wisps' translucent forms pulsate with newfound energy, shimmering and thrumming, alive with stolen power. They are *feeding.*
 
->[!question]- **Recall knowledge about the wisps**
+>[!question]- **Recall knowledge about the wisps** ([[Stats#🧠 Wisdom|WIS]] DC 8)
 >You have read about these creatures before. **Ichor Wraiths** are the arcane world's corpse-flies. They feed on the magic which begins to seep from mages' books and Draw Points as they begin to degrade. They are not as frail as they look.
 
 >[!tip]- **(when close enough) Investigate the blue flame**
->At the far end of the long room, a large, spiralling blue flame flickers and twists. As you draw closer, you realize the wisp-like creatures are converging here, forming a cyclone of Ichor that sweeps up and then scatters torn pages. Despite its fiery appearance, the air around the flame is cold. Touching it is sure to threaten them. You should probably back away slowly.
+>At the far end of the long room, a large, spiralling blue flame flickers and twists. As you draw closer, you realize the wisp-like creatures are converging here, forming a cyclone of Ichor that sweeps up and then scatters torn pages. Despite its fiery appearance, the air around the flame is cold. Touching it is sure to threaten them.
 >>[!question]- If the players know enough about the Wraiths...
 >>Before you move away, however, you notice something else. More Ichor Wraiths glide into the blue flame, beginning to coalesce into one writhing mass. They are anticipating danger, and bolstering their strength significantly in response. The room feels much, much colder.
 

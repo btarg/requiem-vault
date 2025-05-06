@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75325febab02e41e",
+        "id": "7071ebf6486148ca",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8d67db8a19c7b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/First Session/Club/Celebration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Celebration"
-            }
-          },
-          {
-            "id": "7b49ce0a8c7a89de",
+            "id": "f6d4b2fb3338923e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,63 +22,35 @@
             }
           },
           {
-            "id": "ba68a3cc1e0e3ef6",
+            "id": "6bdf1aede0895fd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Lore/Backstory.md",
+                "file": "GM/First Session/First session start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstory"
+              "title": "First session start"
             }
           },
           {
-            "id": "7b544a759569f090",
+            "id": "fc7abe302b949b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GM/First Session/First session start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "97b5be6ff5daf281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "538ac38740689d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/Enemies/Ichor Wraith.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ichor Wraith"
+              "title": "First session start"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,8 +201,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b5be6ff5daf281",
+  "active": "fc7abe302b949b29",
   "lastOpenFiles": [
+    "content/Players/Lore/Backstory.md",
+    "content/Players/Concepts/Mechanics/Stats.md",
+    "GM/First Session/First session start.md",
+    "GM/First Session/Library/Aftermath.md",
+    "GM/Enemies/Ichor Wraith.md",
+    "content/Players/Concepts/Mechanics/Elements.md",
+    "GM/First Session/Club/Celebration.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "content/Players/Concepts/Mechanics/Scanning.md",
@@ -253,11 +218,6 @@
     "quartz/README.md",
     "GM/First Session/Library/Blue Flame.md",
     "quartz/CODE_OF_CONDUCT.md",
-    "GM/Enemies/Ichor Wraith.md",
-    "GM/First Session/First session start.md",
-    "content/Players/Lore/Backstory.md",
-    "GM/First Session/Club/Celebration.md",
-    "GM/First Session/Library/Aftermath.md",
     "Library Entrance.md",
     "GM/First Session/Club",
     "content/Players/Concepts/Mechanics/Ranks and Levels.md",
@@ -266,12 +226,10 @@
     "content/Players/Concepts/Spells/Cone of Cold.md",
     "content/Players/Concepts/Spells/Personal Blizzard.md",
     "content/Players/Concepts/Spells/Phantasmal Killer.md",
-    "content/Players/Concepts/Mechanics/Stats.md",
     "content/Players/Concepts/Mechanics/Saving Throws.md",
     "content/Players/Concepts/Spells/Ray of Frost.md",
     "content/Players/Concepts/Spells/Resilient Sphere.md",
     "content/Players/Concepts/Spells/Shadow Blast.md",
-    "content/Players/Concepts/Mechanics/Elements.md",
     "content/Players/Concepts/Spells",
     "GM/Enemies",
     "library-source2.jpg",

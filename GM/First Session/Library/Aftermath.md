@@ -38,13 +38,13 @@ The warded door has 25 HP.
 It has no weakness, but is immune to PSY, ELEC, COLD and CHEM.
 
 
->[!question]- **Decipher the Ward (Arcana DC 18 - 1 Action)**
+>[!question]- **Decipher the Ward ([[Stats#🧠 Wisdom|Wisdom]] DC 18 - 1 Action)**
 >You focus your arcane knowledge on the pulsing runes.
 >**Success:** You identify the ward as Abjuration magic, powered directly by the ambient Ichor. You determine it's particularly vulnerable to [[Elements#💥 Force|💥 Force]] damage or effects that specifically counteract magic (like [[Dispel Magic]]). You also spot a primary focusing rune near the centre that seems key to its integrity.
 >**Failure:** The patterns are too complex or alien; you learn nothing useful.
 >**Critical Failure:** Arcane feedback shocks you for 1d4 [[Elements#🌀 Psychic|Psychic]] damage.
 
->[!question]- **Target a Weak Point (Perception DC 16 - 1 Action)**
+>[!question]- **Target a Weak Point ([[Stats#👁️ Perception|Perception]] DC 16 - 1 Action)**
 >You scan the door and runes for physical flaws or inconsistencies in the ward's application.
 >**Success:** You notice one section of runes seems hastily etched, or perhaps a hinge on the door is slightly warped and less protected by the magical field. Attacking this specific spot physically might be more effective **(Gain +1 to all future checks against the door)**
 >**Failure:** The warding seems uniformly applied; no obvious weak points are visible.
