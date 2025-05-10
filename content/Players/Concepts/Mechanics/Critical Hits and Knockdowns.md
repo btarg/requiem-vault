@@ -17,7 +17,7 @@ A Critical Hit occurs under these conditions:
     * _Restriction:_ Does **not** apply to spell attacks, only regular attacks (e.g., weapon strikes).
 2. **AC + 10:** Rolling equal to or greater than the target's Armor Class + 10 on an attack roll.
     * _Restriction:_ Does **not** apply to spell attacks, only regular attacks.
-3. **Elemental Weakness:** Successfully exploiting the target's [[Elemental Affinities|Elemental Weakness]].
+3. **Elemental Weakness:** Successfully exploiting the target's [[Elemental Affinities#0. WEAK|Elemental Weakness]].
     * _Applies to:_ Both regular attacks and spell attacks.
 
 ## One More

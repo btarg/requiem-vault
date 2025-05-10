@@ -17,7 +17,7 @@ Combined Sonic and Force.
 Combined Acid and Poison.
 ## 🌀 Psychic (PSY)
 Combined Spirit and Mental (from PF2E context, often representing mental/emotional effects).
-## ✨ Vitality
+## ✨ Vitality (VIT)
 ## 🌌 Void
 
 
