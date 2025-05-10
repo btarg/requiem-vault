@@ -9,7 +9,7 @@ See [[Ranks and Levels#Levelling up]]
 Increases [[Elements#⚔️ Physical (PHYS)|Physical]] attack damage (flat bonus). Bypassed by [[Elemental Affinities|resistance, absorption, or immunity.]]
 ## 🛡️Vitality
 
-> [!tip] VIT
+> [!tip] VIT - **Your Fortitude DC** is 10 + your Vitality stat.
 
 Reduces incoming [[Elements#⚔️ Physical (PHYS)|Physical]] damage when the attack is [[Elemental Affinities#Resist|Resisted]]. Does not affect neutral or absorbed damage. [[Saving Throws#Fortitude|Fortitude Saves]] use this stat.
 ## ✨ Magic
@@ -19,12 +19,14 @@ Reduces incoming [[Elements#⚔️ Physical (PHYS)|Physical]] damage when the at
 Increases **magical** attack damage (flat bonus). Bypassed by [[Elemental Affinities|resistance, absorption, or immunity.]]
 ## 💙 Spirit
 
-> [!tip] SPR
+> [!tip] SPR - Your **Will DC** is 10 + your Spirit stat.
 
-Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality. [[Saving Throws#Will|Will Saves]] and [[Scanning]] also use this stat.
+Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality.
+
+[[Scanning]] also uses this stat.
 ## 🏃 Speed
 
-> [!tip] SPD
+> [!tip] SPD - Your **reflex DC** is 10 + your Speed stat.
 
 Adds a flat bonus to **Initiative** rolls and determines **movement distance** in Metres Per Action.
 ## 🍀 Luck
@@ -34,11 +36,11 @@ Adds a flat bonus to **Initiative** rolls and determines **movement distance** i
 Provides various bonuses:
 *   Increases the number of spells Drawn when choosing to [[Drawing Spells#Draw Amount|Stock]] (flat bonus, max +4).
 *   Decreases the chance of being knocked down via a [[Critical Hits and Knockdowns#Player Character Differences|Fortitude save]] when critically hit (flat bonus).
-## 🗣️ Charisma
+## 🗣️ Influence
 
->[!tip] CHA
+>[!tip] INF
 
-Used for social rolls, such as Deception, Intimidation and Persuasion.
+Used for social rolls, such as **Deception, Intimidation, Performance, Diplomacy and Persuasion.**
 This might change in the future to be more like regular Pathfinder with multiple separate social stats, but for the one-shot they are rolled into one to make this a more appealing choice when [[Ranks and Levels#Levelling up|levelling up]].
 ## 👁️ Perception
 

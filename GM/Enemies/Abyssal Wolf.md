@@ -19,7 +19,7 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 * **⚔️ Strength:** 15
 * **💙 Spirit:** 0
 * **❤️ Vitality:** 5
-* **🏃 Speed:** 10
+* **🏃 Speed:** 35
 * **✨ Magic:** 0
 * **🍀 Luck:** 0
 * **👁️ Perception:** 0
@@ -37,17 +37,17 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 
 **Abyssal Endurance:** The Abyssal Wolf’s corrupted flesh grants it resistance to non-magical physical damage and immunity to chemical effects.
 
-**Catalyst Corruption:** Any creature that consumes the flesh or blood of an Abyssal Wolf must succeed at a **DC 15** [[Saving Throws#Fortitude|Fortitude save]] or become enfeebled 1 for 1 hour.
-
 ---
 
 ## Actions
 
-**Bite:** *Melee Attack, 2 Actions:* reach 5 ft., one target.  
+`pf2:2` **Corrupted Jaws:** *Melee Attack:* reach 5 ft., one target.  
 *Hit:* 1d8+3 ⚔️ Physical damage plus **Abyssal Wolf Fangs (poison)**.
 
-**Claw:** *Melee Attack, 1 Action:* reach 5ft., one target.
+`pf2:1` **Claw:** *Melee Attack:* reach 5ft., one target.
 *Hit:* 1d6 ⚔️ Physical damage
+
+`pf2:2` **Howl**: The wolf unleashes a terrifying howl, allowing it to [Demoralize](https://app.demiplane.com/nexus/pathfinder2e/actions/demoralize-rm) all enemies within 30 feet. Wolves within 100 feet can spend a reaction to join the howl, causing the effect to emanate from them as well. This affects additional enemies within 30 feet of them and uses the caustic wolf’s [[Stats#🗣️ Influence|Intimidation (Influence)]] check with a –4 circumstance penalty. Enemies cannot be affected by the howl more than once, even if they are near more than one howling wolf. All creatures targeted by this effect are temporarily immune for 24 hours. 
 
 ### Abyssal Wolf Fangs (Poison):  
 *Injury, Chemical*  
@@ -63,5 +63,3 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 
 ---
 *Tags: #creature #animal #abyssal #wolf #corruption*
-
----

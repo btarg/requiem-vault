@@ -17,7 +17,7 @@ A small, bright blue, wispy creature that feeds on magic energy.
 *   **⚔️ Strength:** 5
 *   **💙 Spirit:** 5
 *   **❤️ Vitality:** 0
-*   **🏃 Speed:** 15 - *Reflected in Fly Speed* (ft per action)
+*   **🏃 Speed:** 20
 *   **✨ Magic:** 5
 *   **🍀 Luck:** 0
 *   **👁️ Perception:** 0
