@@ -23,10 +23,10 @@ Increases **magical** attack damage (flat bonus). Bypassed by [[Elemental Affini
 
 Reduces incoming magical damage when the attack is resisted. Does not affect neutral or absorbed damage. Used for [[Elemental Affinities|RESIST (Magic)]]. This is the magical counterpart to Vitality.
 
-[[Scanning]] also uses this stat.
+The DC for [[Scanning]] is the target's AC + their Spirit stat.
 ## 🏃 Speed
 
-> [!tip] SPD - Your **reflex DC** is 10 + your Speed stat.
+> [!tip] SPD - Your **Reflex DC** is 10 + your Speed stat.
 
 Adds a flat bonus to **Initiative** rolls and determines **movement distance** in Metres Per Action.
 ## 🍀 Luck
@@ -51,7 +51,7 @@ Used for [[Scanning]] for an enemy's [[Elemental Affinities]], for noticing weak
 
 >[!tip] WIS
 
-Used for Recalling Knowledge of any kind: essentially every Pathfinder 2E knowledge skill rolled into one. May also be used in social situations.
+Used for Recalling Knowledge of any kind: essentially every Pathfinder 2E lore skill rolled into one. Also useful in social situations.
 
 ---
 Back to: [[index]]
