@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4100f63a252338e8",
+  "active": "f61b3d7e2a0ec215",
   "lastOpenFiles": [
-    "GM/Enemies/Ichor Wraith.md",
     "GM/Enemies/Abyssal Wolf.md",
+    "GM/Enemies/Ichor Wraith.md",
     "content/Players/Concepts/Mechanics/Elements.md",
     "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
     "GM/Familiarity Tracker.md",

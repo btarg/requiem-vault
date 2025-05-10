@@ -19,7 +19,8 @@ Combined Acid and Poison.
 Combined Spirit and Mental (from PF2E context, often representing mental/emotional effects).
 ## ✨ Vitality (VIT)
 ## 🌌 Void
-
+## ☄️Almighty
+Some attacks will do "Almighty" damage, which means they ignore all [[Elemental Affinities]], acting like NEUTRAL.
 
 ---
 Back to: [[index]]
