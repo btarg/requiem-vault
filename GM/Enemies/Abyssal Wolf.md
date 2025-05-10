@@ -22,7 +22,9 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 * **🏃 Speed:** 35
 * **✨ Magic:** 0
 * **🍀 Luck:** 0
+* **🗣️ Influence:** 8
 * **👁️ Perception:** 0
+* **🧠 Wisdom:** 0
 
 **Resistances, Weaknesses, Immunities:**
 

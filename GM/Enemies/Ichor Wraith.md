@@ -20,7 +20,9 @@ A small, bright blue, wispy creature that feeds on magic energy.
 *   **🏃 Speed:** 20
 *   **✨ Magic:** 5
 *   **🍀 Luck:** 0
+*   **🗣️ Influence:** 0
 *   **👁️ Perception:** 0
+*   **🧠 Wisdom:** 0
 
 **Resistances, Weaknesses, Immunities:**
 *   **Resistances:** ⚔️ Physical (Bludgeoning, Piercing, Slashing from non-magical attacks)
