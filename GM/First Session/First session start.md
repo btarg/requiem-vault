@@ -2,7 +2,7 @@
 
 The Great Library stands as a breathtakingly imposing Art Nouveau bastion, once a proud symbol of the nation's conquest over magical knowledge. Now, it lies in decay, its grandeur consumed by creeping overgrowth and weathered stone. As far as you know, nobody has been here in a very long time.
 
-Near-blindly treading through mud and bracken, you push through layers of barbed wire-topped fences, each adorned with screaming black-and-yellow signs, their rusted metal warped and twisted. You grasp the hilts of your blades as you approach the entrance, already tasting the Ichor in the air. Through the beautiful stained-glass windows, rapid flashes of blue outshine your flashlights for brief, intermittent moments, like the strobe of a police car.
+Near-blindly treading through mud, leaves and bracken, you push through layers of barbed wire-topped fences, each adorned with screaming black-and-yellow signs, their rusted metal warped and twisted. You grasp the hilts of your blades as you approach the entrance, already tasting the Ichor in the air. Through the beautiful stained-glass windows, rapid flashes of blue outshine your flashlights for brief, intermittent moments, like the strobe of a police car.
 
 ### Actions for the players:
 

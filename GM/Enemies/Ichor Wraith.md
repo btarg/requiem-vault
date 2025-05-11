@@ -8,10 +8,10 @@ A small, bright blue, wispy creature that feeds on magic energy.
 ---
 
 **Stats:**
-*   **HP:** 20
+*   **HP:** 25
 *   **AC:** 8
 *   **Speed:** 0 ft., Fly 15 ft. per action
-*   **Bounty Value:** 5gp
+*   **Bounty Value:** 10gp
 
 **Attributes:**
 *   **⚔️ Strength:** 5

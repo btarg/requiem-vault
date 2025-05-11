@@ -1,10 +1,8 @@
 **Level:** 3 ([[Ranks and Levels#Soul Link Ranks|SL Rank 2]])
 **Actions:** `pf2:1` (1 Action)
 **Element:** [[Elements#💥 Force|💥 Force]] *(Often considered Transmutation, but Force fits the energy infusion aspect)*
-**Source:** [[Blue Flame]] Draw List
 
 ---
-
 ## Description
 
 You infuse a target with magical speed, allowing them to act faster and move quicker.

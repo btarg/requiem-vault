@@ -1,4 +1,4 @@
-In the wake of the [[Blue Flame]]'s destruction, you have been invited to the unofficial celebration by their fellow mercenaries, who are eager to toast your success. The atmosphere is electric, and for a moment, it seems like they can finally relax. The celebratory party is being held at a popular underground club, a vibrant and chaotic space packed with people.
+In the wake of the [[Blue Flame]]'s destruction, you have been invited to the unofficial celebration by the Captain and their fellow mercs, who are eager to toast your success. The atmosphere is electric, and for a moment, it seems like they can finally relax. The celebratory party is being held at a popular underground club, a vibrant and chaotic space packed with people.
 
 ### Outside
 
@@ -17,10 +17,14 @@ However, only a few minutes into your night of celebration, something begins to 
 ### Actions for the players:
 
 >[!question]- **Ask around about the professor**
->You bounce between a few small crowds, showing each a picture of the professor on your phone. Your comrades yield little information. Most shrug and say they haven’t seen her, but one of the earliest to arrive mentions seeing her earlier in the night, before hastily leaving, as if she was scared off by someone.
+>You bounce between a few small crowds, showing each a picture of the professor on your phone. Your comrades yield little information. Most shrug and say they haven’t seen her. You hear a wave of laughter coming from a large crowd of very well-dressed, high society types. Despite their numbers, the group seems pretty tight-knit and is visibly walled off from the rest of the crowd. It would certainly take someone with a lot of [[Stats#🗣️ Influence|Influence]] to speak to them.
+>>[!success]- DC 10 Influence check succeeds
+>>A posh-sounding, flamboyant man takes his arm from around a blonde woman's shoulder, turns to you and raises his glass with a cheer. Your party have managed to quickly garner a reputation - after all, the Library had been the subject of everyone's nightmares for years now, him included.
+>>"Have I seen the Professor? Of course, she was here about twenty minutes ago. She did seem a bit spooked by something, I must say; she left in quite a hurry. Perhaps it was those dodgy-looking chaps over there."
+>>He points toward a group of suspicious mercenaries.
 
 >[!question]- **Notice the suspicious mercenaries**
->At the edge of the club, a group of mercenaries catches your attention. They look familiar, but something about them seems off. Their movements are stiff, and their faces seem unnaturally blank, as though they’re wearing masks. Their threatening aura has clearly been noticed, as the crowd has thinned around them.
+>At the edge of the club, a group of mercenaries catches your attention. They look familiar, but something about them seems off. Their movements are stiff, and their faces seem unnaturally blank, as though they’re wearing masks. Their unsettling aura has clearly been noticed, as the crowd has thinned around them.
 >>[!question]- **Ask them about the professor:**
 >> On closer inspection, they look uncannily similar to a group you know...
 >> (Here, describe the player characters. E.g. One of the mercs has X coloured hair, is X feet tall...)
@@ -29,15 +33,17 @@ However, only a few minutes into your night of celebration, something begins to 
 
 ---
 
-### Combat Encounter: 
+### Fight, Fight, Fight
 
-%% TODO: write character sheets for the doppelgangers %%
-The fight is fast-paced and dynamic, with the crowded club providing opportunities for creative combat. The flashing lights and pounding music disorient everyone, making the environment as much of a challenge as the mercenaries themselves. The players can use the environment to their advantage, such as throwing enemies into the crowd, using furniture as shields, or leveraging the chaos to escape dangerous situations.
+The air shimmers around the mercs, as if they have been transposed onto reality itself via green-screen. There is something deeply wrong about them, something threatening which triggers your fight-or-flight.
+One of them raises his tone condescendingly, addressing (Random Player), with a shooing gesture "Go on, fuck off then."
 
-#### **Combat Notes:**
-- **Improvised Weapons:** Players can grab bottles, chairs, or other objects to use as weapons. These deal less damage than their usual gear but can be effective in the chaos.
-- **Environmental Hazards:** The flashing lights and loud music impose disadvantage on perception checks and ranged attacks.
-- **Crowd Interference:** The crowd may accidentally get in the way, causing confusion or even aiding the players by blocking the mercenaries’ movements.
+>[!success]- DC 10 [[Stats#🧠 Wisdom|Wisdom]] check
+>Staring back at him, you feel as though you are looking into a mirror. You've seen this trick before. Each one of them is using an [[Illusory Disguise]], attempting to look more like you. The cracks in the illusion are beginning to show.
+>>[!question]- DC 15 [[Stats#👁️ Perception|Perception]] check
+>>You are able to see right through their cheap party tricks. You notice bubble-like distortions in the shape of holstered blades, around each of their waists. They have been concealing weapons, clearly looking for a fight. Judging by their agitated expressions and use of disguise, it appears that they were planning to jump you.
+
+
 
 ---
 
