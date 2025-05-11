@@ -38,12 +38,29 @@ However, only a few minutes into your night of celebration, something begins to 
 The air shimmers around the mercs, as if they have been transposed onto reality itself via green-screen. There is something deeply wrong about them, something threatening which triggers your fight-or-flight.
 One of them raises his tone condescendingly, addressing (Random Player), with a shooing gesture "Go on, fuck off then."
 
->[!success]- DC 10 [[Stats#🧠 Wisdom|Wisdom]] check
+>[!success]- DC 10 [[Stats#🧠 Wisdom|Wisdom]] check, from the most well-studied party member
 >Staring back at him, you feel as though you are looking into a mirror. You've seen this trick before. Each one of them is using an [[Illusory Disguise]], attempting to look more like you. The cracks in the illusion are beginning to show.
->>[!question]- DC 15 [[Stats#👁️ Perception|Perception]] check
+>>[!question]- DC 15 [[Stats#👁️ Perception|Perception]] check, from the same party member
 >>You are able to see right through their cheap party tricks. You notice bubble-like distortions in the shape of holstered blades, around each of their waists. They have been concealing weapons, clearly looking for a fight. Judging by their agitated expressions and use of disguise, it appears that they were planning to jump you.
 
+*(Here, the player should be allowed to use [[Dispel Magic]] or something similar to dispel the illusion, starting the fight and being able to predict their attacks. If the players have not dispelled the illusion, then the player party will be **flat-footed.**)*
 
+One by one, the mercenaries draw their blades, seemingly from out of nowhere. The crowd quickly scatters.
+
+Pointing the tip of a blade against (Random player)'s throat, one of the mercs says through gritted teeth:
+"You've fucked up my whole life, taken everything from me. It'll be a fuckin' pleasure to watch you bleed."
+
+
+>[!success]- [[Saving Throws#Will|Will save]] vs DC 18
+>You resist the urge to do the unthinkable, instead looking for another way to resolve this conflict fast.
+
+>[!failure]- Will save failed
+>You know exactly what the consequences are for Drawing from another living human being. But you also know deep down, that this fucker deserves it.
+>[[Drawing Spells|Draw]] from the mercenary as your first action.
+
+
+***ROLL INITIATIVE***
+*(there are three [[Doppelganger Merc]]s in total)*
 
 ---
 
