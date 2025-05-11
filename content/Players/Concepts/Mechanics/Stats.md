@@ -1,6 +1,7 @@
 These are the core stats modified by [[Soul Linking Overview|Soul Linking]]. They replace the normal Pathfinder 2E stats.
-Players will start out with **15 points to allocate to their stats how they wish.**
-See [[Ranks and Levels#Levelling up]]
+
+Players will start out with **20 base HP,** and **8 points to allocate to their stats how they wish.**
+(See [[Ranks and Levels#Levelling up]])
 
 ## ✊Strength
 
@@ -28,7 +29,8 @@ The DC for [[Scanning]] is the target's AC + their Spirit stat.
 
 > [!tip] SPD - Your **Reflex DC** is 10 + your Speed stat.
 
-Adds a flat bonus to **Initiative** rolls and determines **movement distance** in Metres Per Action.
+Adds a flat bonus to **Initiative** rolls and **movement distance** in Feet Per Action.
+Your base movement is **30 ft:** with a SPD stat of 5, you would have 35 ft of movement.
 ## 🍀 Luck
 
 > [!tip] LCK
