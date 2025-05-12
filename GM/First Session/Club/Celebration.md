@@ -45,13 +45,13 @@ One of them raises his tone condescendingly, addressing (Random Player), with a 
 
 *(Here, the player should be allowed to use [[Dispel Magic]] or something similar to dispel the illusion, starting the fight and being able to predict their attacks. If the players have not dispelled the illusion, then the player party will be **flat-footed.**)*
 
-One by one, the mercenaries draw their blades, seemingly from out of nowhere. The crowd quickly scatters.
+As you begin to walk away from the doppelgangers, an all-to-familiar sound stops you in your tracks. The crowd quickly scatters. One by one, the mercenaries draw their blades, seemingly from out of nowhere.
 
 Pointing the tip of a blade against (Random player)'s throat, one of the mercs says through gritted teeth:
 "You've fucked up my whole life, taken everything from me. It'll be a fuckin' pleasure to watch you bleed."
 
 
->[!success]- [[Saving Throws#Will|Will save]] vs DC 18
+>[!success]- (another player from the party, upon seeing this) [[Saving Throws#Will|Will save]] vs DC 18
 >You resist the urge to do the unthinkable, instead looking for another way to resolve this conflict fast.
 
 >[!failure]- Will save failed
