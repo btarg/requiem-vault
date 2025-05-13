@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Spells/Illusory Disguise.md",
+                "file": "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Illusory Disguise"
+              "title": "Critical Hits and Knockdowns"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "Saving Throws"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,24 +242,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ea4eb8734cac2e2",
+  "active": "f6d4b2fb3338923e",
   "lastOpenFiles": [
+    "content/Players/Concepts/Mechanics/Difficulty Classes.md",
+    "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
+    "GM/Enemies/Abyssal Wolf.md",
+    "content/Players/Concepts/Spells/Illusory Disguise.md",
+    "GM/First Session/Club/Celebration.md",
     "GM/First Session/Library/Library final encounter.md",
     "GM/First Session/Library/Aftermath.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Scanning.md",
     "GM/Familiarity Tracker.md",
     "content/Players/Concepts/Spells/Haste.md",
-    "content/Players/Concepts/Spells/Illusory Disguise.md",
     "GM/Enemies/Doppelganger Merc.md",
-    "GM/Enemies/Abyssal Wolf.md",
-    "GM/First Session/Club/Celebration.md",
     "content/Players/Concepts/Mechanics/Stats.md",
     "content/Players/Concepts/Mechanics/Saving Throws.md",
     "content/Players/Concepts/Spells/Dispel Magic.md",
     "GM/First Session/Library/Blue Flame.md",
     "content/Players/Concepts/Spells/Personal Blizzard.md",
-    "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
-    "content/Players/Concepts/Mechanics/Difficulty Classes.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities",
     "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
     "content/Players/Concepts/Mechanics/Magic/Familiarity With Spells.md",

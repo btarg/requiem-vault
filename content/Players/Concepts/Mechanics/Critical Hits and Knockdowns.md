@@ -44,21 +44,25 @@ Players handle critical hits and knockdowns differently:
 
 * **Not Immediately Downed:** When an enemy critically hits a player, the player is **not** automatically knocked Prone.
 * **Fortitude Save vs. Knockdown:** The player must immediately roll a **Fortitude save** to resist being knocked down.
-  * **Luck Bonus:** Add a flat bonus equal to the player's [[Stats#🍀 Luck|Luck]] stat to this Fortitude save roll. There is no hard cap on this bonus.
-  * **Save DC:** See [[Difficulty Classes]] for how DCs are determined.
-  * **Save Outcomes:**
-    * ❗ **Critical Success:** Avoid being knocked down AND automatically succeed on the _next_ Fortitude save against being knocked down in this encounter.
-    * ✅ **Success:** Avoid being knocked down.
-    * ❌ **Failure:** Knocked Prone/Downed.
-    * 💔 **Critical Failure:** Knocked Prone/Downed and become **Frightened II**.
-* `pf2:1` **Standing Up (Player):**
-  * Costs **1 Action** for the player to stand up themselves.
-  * An adjacent ally can use **1 Action** to help the downed player stand up.
-  * [[Baton Pass|Passing the Baton]] to an adjacent downed ally helps them stand up _and_ grants them the passed Action. (This does not apply if the ally is Dying or Dead).
-* **Resistance to Repeated Knockdowns (Player):** Players also gain the cumulative **+2 Fortitude save bonus** against further knockdowns in the same encounter each time they are knocked down.
+	* **Luck Bonus:** Add a flat bonus equal to the player's [[Stats#🍀 Luck|Luck]] stat to this Fortitude save roll. There is no hard cap on this bonus.
+	* **Save DC:** See [[Difficulty Classes]] for how DCs are determined.
+
+#### Save Outcomes:
+
+- ❗ **Critical Success:** Avoid being knocked down AND automatically succeed on the _next_ Fortitude save against being knocked down in this encounter.
+- ✅ **Success:** Avoid being knocked down.
+- ❌ **Failure:** Knocked Prone/Downed.
+- 💔 **Critical Failure:** Knocked Prone/Downed and become **Frightened II**.
+
+#### Standing Up (Player):
+
+* Costs **1 Action** for the player to stand up themselves.
+* An adjacent ally can use **1 Action** to help the downed player stand up.
+* [[Baton Pass|Passing the Baton]] to an adjacent downed ally helps them stand up _and_ grants them the passed Action. (This does not apply if the ally is Dying or Dead).
+* Players also gain the cumulative **+2 Fortitude save bonus** against further knockdowns in the same encounter each time they are knocked down.
 
 ---
 **Navigation:**
 
 * Back to: [[index]]
-* Related: [[Elemental Affinities]], [[Stats]], [[Baton Pass]], ActionsDifficulty Classes]]
+* Related: [[Elemental Affinities]], [[Stats]], [[Baton Pass]], [[Difficulty Classes]]
