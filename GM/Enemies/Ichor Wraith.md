@@ -40,16 +40,16 @@ A small, bright blue, wispy creature that feeds on magic energy.
 ---
 ## Actions
 
-**Chilling Touch:** *Melee Spell Attack:* (uses Magic), reach 5 ft., one target.
+`pf2:2` **Chilling Touch:** *Melee Spell Attack:* (uses Magic), reach 5 ft., one target.
 *Hit:* 1d8 ❄️ Cold damage.
 
-**Swoop:** *Melee Attack:* +3 to hit (uses STR), reach 10 ft., one target.
+`pf2:1` **Swoop:** *Melee Attack:* +3 to hit (uses STR), reach 10 ft., one target.
 *Hit:* 1d6 ⚔️ Physical damage.
 
 ## Spells
 
-*   5x [[Ray of Frost]] (`pf2:2`)
-*   5x [[Personal Blizzard]] (`pf2:1`, Sustained)
+*   `pf2:2` [[Ray of Frost]]
+*   `pf2:1` [[Personal Blizzard]] (Sustained)
 
 ---
 *Tags: #creature #undead #incorporeal #ichor*
