@@ -52,10 +52,9 @@ Used for [[Scanning]] for an enemy's [[Elemental Affinities]], for noticing weak
 Perception checks are a D20 + your Perception stat.
 ## 🧠 Wisdom
 
->[!tip] WIS
+>[!tip] WIS - **Wisdom checks** are a D20 + your Wisdom stat.
 
 Used for Recalling Knowledge of any kind: essentially every Pathfinder 2E lore skill rolled into one. Also useful in social situations.
-Wisdom checks are a D20 + your Wisdom stat.
 
 ---
 Back to: [[index]]
