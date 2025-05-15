@@ -1,13 +1,12 @@
 **Level:** 5 ([[Ranks and Levels#Soul Link Ranks|SL Rank 3]])
 **Actions:** `pf2:2` (2 Actions)
 **Element:** [[Elements#❄️ Cold|❄️ Cold]]
-**Source:** [[Blue Flame]] Draw List
 
 ---
 
 ## Description
 
-You unleash a devastating cone of freezing energy from your fingertips, dealing significant ❄️ Cold damage to all creatures within the area.
+You unleash a devastating cone of freezing energy from your fingertips, dealing significant Cold damage to all creatures within the area.
 
 ## Mechanics
 

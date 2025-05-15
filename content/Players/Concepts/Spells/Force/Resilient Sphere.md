@@ -2,7 +2,6 @@
 **Actions:** `pf2:2` (2 Actions)
 **Element:** [[Elements#💥 Force|💥 Force]]
 
-
 ---
 
 ## Description

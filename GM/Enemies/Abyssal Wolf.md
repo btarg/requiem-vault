@@ -34,7 +34,6 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 * **Condition Immunities:** Poisoned
 
 ---
-
 ## Abilities
 
 **Abyssal Endurance:** The Abyssal Wolf’s corrupted flesh grants it resistance to non-magical physical damage and immunity to chemical effects.
@@ -62,6 +61,15 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 - *Stage 3:* 3d6 🧪 Chemical damage (1 round) 
 
 *Description:* The wolf’s bite injects a glowing blue toxin that burns and corrodes flesh, dealing chemical damage each round as the corruption spreads.
+
+___
+
+## Draw List
+
+1. **[[Phantasmal Killer]] (Level 4):** Manifest a creature of nightmare in the target's mind, potentially frightening them to death.
+	- **Element:** 🌀 Psychic
+
+
 
 ---
 *Tags: #creature #animal #abyssal #wolf #corruption*
