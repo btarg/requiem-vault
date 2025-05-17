@@ -11,6 +11,8 @@ aliases:
 ---
 ## Triggering a Critical Hit
 
+Critical Hits do double damage.
+
 A Critical Hit occurs under these conditions:
 
 1. **Natural 20:** Rolling a natural 20 on an attack roll.
@@ -33,8 +35,8 @@ Characters who are critically hit are knocked **Prone** (also referred to as "Do
 
 ### Rules for Downed Enemies
 
-* **Cannot Be Critically Hit Again:** While Prone, an enemy **cannot** suffer another Critical Hit. Exploiting weaknesses or rolling high against their AC will only result in normal damage while they are Downed.
-* `pf2:1` **Standing Up:** Requires the enemy to spend **1 Action**.
+* While Prone, an enemy **cannot** suffer another Critical Hit. Exploiting weaknesses or rolling high against their AC will only result in normal damage while they are Downed.
+* **Standing Up** requires the enemy to spend **1 Action**.
 * **Critically Hitting a Downed Enemy:** May cause them to stand up if they succeed on a Fortitude save. See [[Difficulty Classes]] for how DCs are determined.
 * **Resistance to Repeated Knockdowns:** Each time an enemy is knocked down _within the same encounter_, they gain a cumulative **+2 bonus** to their [[Saving Throws#Fortitude|Fortitude]] saves against subsequent effects that would knock them down.
 
@@ -42,10 +44,8 @@ Characters who are critically hit are knocked **Prone** (also referred to as "Do
 
 Players handle critical hits and knockdowns differently:
 
-* **Not Immediately Downed:** When an enemy critically hits a player, the player is **not** automatically knocked Prone.
-* **Fortitude Save vs. Knockdown:** The player must immediately roll a **Fortitude save** to resist being knocked down.
+* When an enemy critically hits a player, the player is **not** automatically knocked Prone. Instead, they must immediately roll a **Fortitude save** to resist being knocked down. See [[Difficulty Classes#Saving Throws against Spells]] for the DC
 	* **Luck Bonus:** Add a flat bonus equal to the player's [[Stats#🍀 Luck|Luck]] stat to this Fortitude save roll. There is no hard cap on this bonus.
-	* **Save DC:** See [[Difficulty Classes]] for how DCs are determined.
 
 #### Save Outcomes:
 

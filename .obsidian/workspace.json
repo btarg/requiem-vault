@@ -25,22 +25,14 @@
             "id": "a601ed284819fe25",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "GM/Familiarity Tracker.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Familiarity Tracker"
+              "icon": "lucide-file",
+              "title": "Critical Hits and Knockdowns"
             }
           }
         ],
@@ -197,6 +189,13 @@
   },
   "active": "a601ed284819fe25",
   "lastOpenFiles": [
+    "content/Players/Concepts/Mechanics/Difficulty Classes.md",
+    "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
+    "content/Players/Concepts/Mechanics/Stats.md",
+    "content/Players/Concepts/Mechanics/Elements and Affinities/Elemental Affinities.md",
+    "GM/First Session/Library/Aftermath.md",
+    "GM/Familiarity Tracker.md",
+    "GM/Enemies/Ichor Wraith.md",
     "quartz/quartz/components/styles/readermode.scss",
     "quartz/quartz/components/ReaderMode.tsx",
     "quartz/docs/plugins/Favicon.md",
@@ -207,7 +206,6 @@
     "content/Players/Concepts/Spells/Chemical/Acidic Burst.md",
     "content/Players/Concepts/Spells/Chemical/Corrosive Body.md",
     "content/Players/Concepts/Spells/Psychic/Phantasmal Killer.md",
-    "GM/Enemies/Ichor Wraith.md",
     "content/Players/Concepts/Spells/Cold/Personal Blizzard.md",
     "content/Players/Concepts/Spells/Cold/Ray of Frost.md",
     "content/Players/Concepts/Spells/Fire/Blazing Bolt.md",
@@ -217,14 +215,9 @@
     "content/Players/Concepts/Mechanics/Magic/Familiarity With Spells.md",
     "content/Players/Concepts/Mechanics/Magic/Mastery.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
-    "content/Players/Concepts/Mechanics/Elements and Affinities/Elemental Affinities.md",
     "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
-    "content/Players/Concepts/Mechanics/Difficulty Classes.md",
     "content/Players/Concepts/Spells/Cold/Petrify.md",
-    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/Players/Concepts/Spells/Chemical",
-    "content/Players/Concepts/Spells/Cold/Cone of Cold.md",
-    "content/Players/Concepts/Spells/Radiant/Cloak of Light.md",
     "content/Players/Concepts/Spells/Force",
     "content/Players/Concepts/Spells/Fire",
     "content/Players/Concepts/Spells/Void",
@@ -232,7 +225,6 @@
     "content/Players/Concepts/Spells/Cold",
     "content/Players/Concepts/Spells/Psychic",
     "content/Players/Concepts/Mechanics/Elements and Affinities",
-    "content/Players/Concepts/Mechanics/Magic",
     "library-source2.jpg",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
