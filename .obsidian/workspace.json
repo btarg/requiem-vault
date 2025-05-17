@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
+                "file": "content/Players/Concepts/Mechanics/Stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawing Spells"
+              "title": "Stats"
             }
           }
         ],
@@ -189,6 +189,7 @@
   },
   "active": "a601ed284819fe25",
   "lastOpenFiles": [
+    "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
     "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
     "content/Players/Concepts/Mechanics/Difficulty Classes.md",
     "content/Players/Concepts/Mechanics/Stats.md",
@@ -215,7 +216,6 @@
     "content/Players/Concepts/Mechanics/Magic/Familiarity With Spells.md",
     "content/Players/Concepts/Mechanics/Magic/Mastery.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
-    "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
     "content/Players/Concepts/Spells/Cold/Petrify.md",
     "content/Players/Concepts/Spells/Chemical",
     "content/Players/Concepts/Spells/Force",

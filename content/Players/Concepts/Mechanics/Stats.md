@@ -46,10 +46,9 @@ Used for social rolls, such as **Deception, Intimidation, Performance, Diplomacy
 This might change in the future to be more like regular Pathfinder with multiple separate social stats, but for the one-shot they are rolled into one to make this a more appealing choice when [[Ranks and Levels#Levelling up|levelling up]].
 ## 👁️ Perception
 
->[!tip] PER
+>[!tip] PER - **Perception checks** are a D20 + your Perception stat.
 
 Used for [[Scanning]] for an enemy's [[Elemental Affinities]], for noticing weak points, hidden treasure, hidden enemies etc.
-Perception checks are a D20 + your Perception stat.
 ## 🧠 Wisdom
 
 >[!tip] WIS - **Wisdom checks** are a D20 + your Wisdom stat.
