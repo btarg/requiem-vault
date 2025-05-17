@@ -8,10 +8,11 @@ Players will start out with **20 base HP,** and **8 points to allocate to their 
 > [!tip] STR
 
 Added as a flat bonus to [[Elements#⚔️ Physical (PHYS)|Physical]] attack rolls.
+
 With a STR stat of 5, you'll roll **d20+5** to hit a target with a spell.
 ## 🛡️Vitality
 
-> [!tip] VIT - **Your Fortitude DC** is 10 + your Vitality stat.
+> [!tip] VIT - Your **Fortitude DC** is 10 + your Vitality stat.
 
 Reduces incoming [[Elements#⚔️ Physical (PHYS)|Physical]] damage when the attack is [[Elemental Affinities#Resist|Resisted]]. Does not affect neutral or absorbed damage. [[Saving Throws#Fortitude|Fortitude Saves]] use this stat.
 ## ✨ Magic
@@ -19,6 +20,7 @@ Reduces incoming [[Elements#⚔️ Physical (PHYS)|Physical]] damage when the at
 > [!tip] MAG
 
 Added as a flat bonus to **Magical** attack rolls.
+
 With a MAG stat of 5, you'll roll **d20+5** to hit a target with a spell.
 ## 💙 Spirit
 
@@ -37,20 +39,21 @@ Your base movement is **30 ft:** with a SPD stat of 5, you would have 35 ft of m
 
 > [!tip] LCK
 
-Provides various bonuses:
-*   Increases the number of spells Drawn when choosing to [[Drawing Spells#Draw Amount|Stock]] (flat bonus, max +4).
-*   Decreases the chance of being knocked down via a [[Critical Hits and Knockdowns#Player Character Differences|Fortitude save]] when critically hit (flat bonus).
+Luck increases the number of spells Drawn when choosing to [[Drawing Spells#Draw Amount|Stock]] (flat bonus, max +4).
+
+It also decreases the chance of being knocked down via a [[Critical Hits and Knockdowns#Player Character Differences|Fortitude save]] when critically hit, being applied as a **flat bonus.**
 ## 🗣️ Influence
 
 >[!tip] INF
 
 Used for social rolls, such as **Deception, Intimidation, Performance, Diplomacy and Persuasion.**
+
 This might change in the future to be more like regular Pathfinder with multiple separate social stats, but for the one-shot they are rolled into one to make this a more appealing choice when [[Ranks and Levels#Levelling up|levelling up]].
 ## 👁️ Perception
 
 >[!tip] PER - **Perception checks** are a D20 + your Perception stat.
 
-Used for [[Scanning]] for an enemy's [[Elemental Affinities]], for noticing weak points, hidden treasure, hidden enemies etc.
+Used for [[Scanning]] for an enemy's [[Elemental Affinities]], and for observing your environment closely.
 ## 🧠 Wisdom
 
 >[!tip] WIS - **Wisdom checks** are a D20 + your Wisdom stat.
