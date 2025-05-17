@@ -12,6 +12,9 @@ Near-blindly treading through mud, leaves and bracken, you push through layers o
 >[!note]- **Study the lights**
 >You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert; it looks more like many glowing objects are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
 
+>[!question]- Examine the entrance
+>The towering, ornate wooden doors have been boarded up, the flimsy planks hastily bolted to them beginning to rot. Entering through the main doors will be trivial.
+
 ## Entering the Library
 
 Upon stepping into the building, you are immediately surrounded by bright blue, flame-like creatures. They swirl overhead in graceful arcs, wispy and gaseous, flickering like living embers. Lighting the dark room with their eerie neon glow, they dive toward dusty, leather-bound tomes, phasing through the pages. Then, leaving an icy breeze in their wake, they dart toward a dancing blue flame at the end of the room.
@@ -38,7 +41,7 @@ The candles are unusually lit. Someone has been here before.
 >You have read about these creatures before. **Ichor Wraiths** are the arcane world's corpse-flies. They feed on the magic which begins to seep from mages' books and Draw Points as they begin to degrade. They are not as frail as they look.
 
 >[!tip]- **(when close enough) Investigate the blue flame**
->At the far end of the long room, a large, spiralling blue flame flickers and twists. As you draw closer, you realize the wisp-like creatures are converging here, forming a cyclone of Ichor that sweeps up and then scatters torn pages. Despite its fiery appearance, the air around the flame is cold. Touching it is sure to threaten them.
+>At the far end of the long room, a large, spiralling blue flame flickers and twists. As you draw closer, you realize the wisp-like creatures are converging here, forming a cyclone of Ichor that sweeps up and then scatters torn pages. Despite its fiery appearance, the flame exudes a chilling breeze. Moving to close to it is sure to be perceived as a threat.
 >>[!question]- If the players know enough about the Wraiths...
 >>Before you move away, however, you notice something else. More Ichor Wraiths glide into the blue flame, beginning to coalesce into one writhing mass. They are anticipating danger, and bolstering their strength significantly in response. The room feels much, much colder.
 
@@ -46,6 +49,6 @@ The air suddenly feels a lot less still. Their **(GM Note: call them Ichor Wrait
 
 ***ROLL INITIATIVE***
 
-*The players will be greeted with **five** [[Ichor Wraith]]s*
+*The players will be greeted with **five** [[Ichor Wraith]]s. If the players stick to the candles, they will not be attacked directly by Ichor Wraiths, forcing them to instead use spells.*
 
 >[!tip] After defeating the Wraiths, the players move to [[Blue Flame]]

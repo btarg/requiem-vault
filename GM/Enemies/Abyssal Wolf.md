@@ -29,7 +29,7 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 **Resistances, Weaknesses, Immunities:**
 
 * **Resistances:** ⚔️ Physical, ❄️ Cold
-* **Weaknesses:** 🌀Psychic, ✨ Vitality
+* **Weaknesses:** 🌀Psychic, ✨ Radiant
 * **Immunities:** 🧪 Chemical
 * **Condition Immunities:** Poisoned
 
@@ -53,22 +53,28 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 ### Abyssal Wolf Fangs (Poison):  
 *Injury, Chemical*  
 *Saving Throw:* **DC 15** [[Saving Throws#Fortitude|Fortitude]]  
-*Maximum Duration:* 4 rounds  
-*Onset:* Immediate  
-*Frequency:* 1/round  
-- *Stage 1:* 1d6 🧪 Chemical damage (1 round)  
-- *Stage 2:* 2d6 🧪 Chemical damage (1 round)  
-- *Stage 3:* 3d6 🧪 Chemical damage (1 round) 
+*Maximum Duration:* 4 rounds
+*Onset:* Immediate
+*Frequency:* 1/round
+- *Stage 1:* **1d6** 🧪 Chemical damage (1 round)
+- *Stage 2:* **2d6** 🧪 Chemical damage (1 round)
+- *Stage 3:* **3d6** 🧪 Chemical damage (1 round)
 
 *Description:* The wolf’s bite injects a glowing blue toxin that burns and corrodes flesh, dealing chemical damage each round as the corruption spreads.
 
 ___
 
-## Draw List
+## Usable spells
 
-1. **[[Phantasmal Killer]] (Level 4):** Manifest a creature of nightmare in the target's mind, potentially frightening them to death.
-	- **Element:** 🌀 Psychic
+1. `pf2:2` [[Acidic Burst]] **(Level 1):** Create a shell of acid around yourself that immediately bursts outward.
+	-  **Element:** 🧪 Chemical
 
+## Reserve Spells (Only for Draw List)
+
+1. `pf2:2` [[Phantasmal Killer]] **(Level 4):** Manifest a creature of nightmare in the target's mind, potentially frightening them to death.
+	- **Element:** 🧪 Chemical
+2. `pf2:2` [[Corrosive Body]] **(Level 7):** Transform your body into a shifting form of living, highly reactive chemicals.
+	- **Element:** 🧪 Chemical
 
 
 ---

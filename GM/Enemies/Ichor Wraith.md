@@ -48,8 +48,8 @@ A small, bright blue, wispy creature that feeds on magic energy.
 
 ## Spells
 
-*   `pf2:2` [[Ray of Frost]]
-*   `pf2:1` [[Personal Blizzard]] (Sustained)
+*   `pf2:2` [[Ray of Frost]] **(Level 1)**
+*   `pf2:1` [[Personal Blizzard]] **(Level 3, Sustained)**
 
 ---
 *Tags: #creature #undead #incorporeal #ichor*

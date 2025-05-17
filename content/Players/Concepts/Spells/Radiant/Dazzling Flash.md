@@ -1,6 +1,6 @@
 **Level:** 1 ([[Ranks and Levels#Soul Link Ranks|SL Rank 1]])
 **Actions:** `pf2:2` (2 Actions)
-**Element:** [[Elements#✨ Vitality|✨ Vitality]]
+**Element:** [[Elements#✨ Radiant|✨ Radiant]]
 **Source:** Player Core pg. 379 2.0
 
 ---
@@ -27,4 +27,4 @@ You unleash a blinding flash of pure, overwhelming light that can disorient foes
 
 
 ---
-*Tags: #focus #level1 #vitality #light #visual #area #control #debuff #cleric #uncommon #pfsstandard #playercore*
+*Tags: #focus #level1 #Radiant #light #visual #area #control #debuff #cleric #uncommon #pfsstandard #playercore*

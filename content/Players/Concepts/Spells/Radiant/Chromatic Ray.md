@@ -1,6 +1,6 @@
 **Level:** 4 ([[Ranks and Levels#Soul Link Ranks|SL Rank 3]])
 **Actions:** `pf2:2` (2 Actions)
-**Element:** [[Elements#✨ Vitality (VIT)|✨ Vitality]]
+**Element:** [[Elements#✨ Radiant (RAD)|✨ Radiant]]
 **Source:** Secrets of Magic pg. 95 2.0 (Adapted for custom elemental system)
 
 ---
@@ -22,8 +22,8 @@ You send out a ray of shimmering, coloured light streaming toward your enemy, wi
 
 1.  **Red Ray** ([[Elements#🔥 Fire|🔥 Fire]])
     *   The ray deals 30 fire damage to the target.
-2.  **Orange Ray** ([[Elements#✨ Vitality (VIT)|✨ Vitality]])
-    *   The ray deals 40 vitality damage to the target.
+2.  **Orange Ray** ([[Elements#✨ Radiant (RAD)|✨ Radiant]])
+    *   The ray deals 40 Radiant damage to the target.
 3.  **Yellow Ray** ([[Elements#⚡ Electricity (ELEC)|⚡ Electricity]])
     *   The ray deals 50 electricity damage to the target.
 4.  **Green Ray** ([[Elements#🧪 Chemical (CHEM)|🧪 Chemical]])
@@ -37,7 +37,7 @@ You send out a ray of shimmering, coloured light streaming toward your enemy, wi
 7.  **Violet Ray** ([[Elements#💥 Force|💥 Force]], Teleportation)
     *   The target is slowed 1 for 1 minute.
     *   It must also succeed at a [[Saving Throws#Will|Will save]] or be teleported 120 feet directly away from you (if there isn't room for it to appear there, it appears in the nearest open space).
-8.  **Intense Colour Ray** ([[Elements#✨ Vitality (VIT)|✨ Vitality]])
+8.  **Intense Colour Ray** ([[Elements#✨ Radiant (RAD)|✨ Radiant]])
     *   The target is **Dazzled** until the end of your next turn, or blinded if your attack roll was a critical hit.
     *   Roll again on this table (rerolling any result of 8) and apply the effects of the new colour ray in addition to the **Dazzled** condition. The additional ray uses the original attack roll and its own elemental type.
 

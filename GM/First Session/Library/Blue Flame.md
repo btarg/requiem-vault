@@ -17,7 +17,7 @@ The players can attempt to Draw raw magical energy or knowledge from the Blue Fl
 
 - **[[Stats#✨ Magic|Magic]]:** To understand and manipulate the magical energy.
 - **[[Stats#💙 Spirit|Spirit]]** To resist the mental strain of the flame's chaotic power.
-- **[[Stats#✊Strength|Strength]]** To endure the physical toll of interacting with the unstable energy.
+- **[[Stats#🛡️Vitality|Vitality]]** To endure the physical toll of interacting with the unstable energy.
 
 #### **Successes**
 
@@ -38,26 +38,26 @@ While you could reach out into the swirling mass of Ichor and leave it entirely 
 >The player now considers themselves lucky, and has the option to roll 1d10 to choose a random spell. They will gain an **extra draw.**
 
 
-1. **[[Resilient Sphere]] (Level 4):** Create an immobile sphere of shimmering force around a creature or object, protecting it or trapping it.
-    - **Element:** 💥 Force
-2. **[[Shadow Blast]] (Level 4):** Hurl a projectile of solidified shadow that damages and potentially drains strength.
-    - **Element:** 🌌 Void
-3. **[[Haste]] (Level 3):** Infuse a target with incredible speed, granting extra actions and bonuses.
-    - **Element:** 💥 Force
-4. **[[Dispel Magic]] (Level 3):** Attempt to counteract a magical effect, potentially ending it prematurely.
-    - **Element:** 🌌 Void
-5. [[Blazing Bolt]] **(Level 2):** A searing ray of fire.
+1. [[Blazing Bolt]] **(Level 2):** A searing ray of fire.
     - **Element:** 🔥Fire
-6. [[Ash Cloud]] **(Level 2):** Conjure a swirling, tumultuous cloud of hot ash and acrid smoke.
+2. [[Ash Cloud]] **(Level 2):** Conjure a swirling, tumultuous cloud of hot ash and acrid smoke.
 	- **Element:** 🔥Fire
-7. [[Breathe Fire]] **(Level 1):** Breathe a 15-foot cone of fire.
+3. [[Breathe Fire]] **(Level 1):** Breathe a 15-foot cone of fire.
     - **Element:** 🔥Fire
-8. [[Holy Light]] **(Level 3):** Unleash a blazing ray of intense light, infused with holy power.
-	- **Element:** ✨Vitality
-9. [[Cloak of Light]] **(Level 4):** Surround yourself in holy light that restores the living and rebuffs undead. 
-	- **Element:** ✨Vitality
-10. [[Chromatic Ray]] **(Level 4):**  Send out a ray of shimmering, coloured light streaming toward your enemy, with a magical effect depending on the ray's colour and its manifested elemental nature.
-	  - Element: ✨ Vitality
+4. [[Holy Light]] **(Level 3):** Unleash a blazing ray of intense light, infused with holy power.
+	- **Element:** ✨Radiant
+5. [[Cloak of Light]] **(Level 4):** Surround yourself in holy light that restores the living and rebuffs undead. 
+	- **Element:** ✨Radiant
+6. [[Chromatic Ray]] **(Level 4):**  Send out a ray of shimmering, coloured light streaming toward your enemy, with a magical effect depending on the ray's colour and its manifested elemental nature.
+	  - Element: ✨ Radiant
+7. **[[Haste]] (Level 3):** Infuse a target with incredible speed, granting extra actions and bonuses.
+    - **Element:** 💥 Force
+8. **[[Resilient Sphere]] (Level 4):** Create an immobile sphere of shimmering force around a creature or object, protecting it or trapping it.
+    - **Element:** 💥 Force
+9. **[[Shadow Blast]] (Level 4):** Hurl a projectile of solidified shadow that damages and potentially drains strength.
+    - **Element:** 🌌 Void
+10. **[[Dispel Magic]] (Level 3):** Attempt to counteract a magical effect, potentially ending it prematurely.
+    - **Element:** 🌌 Void
 	
 #### **Failures**
 

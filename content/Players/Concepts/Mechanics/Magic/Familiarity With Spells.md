@@ -10,15 +10,15 @@ A spell is considered **familiar** if:
 ## Identifying and Misidentifying Spells
 
 If a spell is unfamiliar, you can attempt to identify it.
-#### `pf2:1` Recall Knowledge (One Action)
-Make an Arcana skill check. The DC is set by the GM based on the spell's [[Ranks and Levels|level]] and rarity.
+#### Recall Knowledge (One Action)
+Make an [[Stats#🧠 Wisdom|🧠 Wisdom]] skill check. The DC is set by the GM based on the spell's [[Ranks and Levels|level]].
   * ❗**Critical Success:** Identify the spell, become familiar. Gain a +1 bonus if you Cast this spell with your next Action.
   * ✅ **Success:** Identify the spell, become familiar.
   * ❌ **Failure:** Fail to identify; the spell remains unknown.
   * 💔 **Critical Failure:** Misidentify the spell (you think it's something else). You become familiar with the *wrong* spell. Misidentified spells are forgotten after combat.
 
 * **Consequences of Misidentification:** If a spell is misidentified, you lose control over whether to Stock or Cast it upon Drawing. You must make a Will save.
-  * **[[Saving Throws#Will|Will Save]] DC:** \( 10 + the Spell's Level \)
+  * **[[Saving Throws#Will|Will Save]] DC:** ( 10 + the Spell's Level )
   * **Failure or Critical Failure on Will Save:** You are forced to Cast the spell immediately (if possible with remaining Actions).
 
 ---

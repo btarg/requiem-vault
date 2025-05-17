@@ -32,4 +32,4 @@ A successful save **reduces the slowed condition by 1** as some ice cracks away.
 -   **Critical Failure:** As failure, but the target is initially slowed 2 as a layer of ice immediately encases them.
 
 ---
-*Tags: #spell #level6 #cold #incapacitation #concentrate #manipulate #arcane #primal #pfsstandard #playercore #adapted*
+*Tags: #spell #level6 #cold #incapacitation #concentrate #manipulate #arcane #primal
