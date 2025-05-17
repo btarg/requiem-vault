@@ -72,18 +72,19 @@ While you could reach out into the swirling mass of Ichor and leave it entirely 
 The players can attempt to destroy the Blue Flame outright. This requires a coordinated effort, as the flame is resistant to most forms of damage. The Ichor Wraiths will attack relentlessly to protect it.
 
 **Resistances:**
-⚔️ Phys: Reflect *(You can't punch a flame, ouch)*
-🧪 Chem: Resist *(Acid and poison won't do much here, but splashing the flame has a small effect on the Ichor Wraiths within)*
-✨ Vit: Resist *(This damages the flame, but not as much as you thought it would)*
+⚔️ Phys: **Reflect** *(You can't punch a flame, ouch)*
+🧪 Chem: **Resist** *(Acid and poison won't do much here, but splashing the flame has a small effect on the Ichor Wraiths within)*
+✨ Rad: **Resist** *(This damages the flame, but not as much as you thought it would)*
 
 **Weaknesses:**
-💥 Force: Weak *(You successfully attempt to blow out the flame with wind-based attacks)*
-🌌 Void: Weak *(Special interaction, see [[#3. **Study the Flame**]])*
+💥 Force: **Weak** *(You successfully attempt to blow out the flame with wind-based attacks)*
+🌌 Void: **Weak** *(Special interaction, see [[#3. **Study the Flame**]])*
 
 **Immunities:**
-🔥 Fire: Drain *(The flame absorbs Fire energy, healing for the amount of damage dealt)*
-❄️ Cold: Null *(The flame and the Ichor Wraiths are composed of the same magical substance)*
-🌀 Psy: Null *(It doesn't have a mind or soul, therefore is immune to Psychic)*
+🔥 Fire: **Drain** *(The flame absorbs Fire energy, healing for the amount of damage dealt)*
+❄️ Cold: **Null** *(The flame and the Ichor Wraiths are composed of the same magical substance)*
+🌀 Psy: **Null** *(It doesn't have a mind or soul, therefore is immune to Psychic)*
+
 #### **Successes**
 
 These occur when an attack connects.
@@ -96,7 +97,7 @@ These occur when an attack connects.
 
 #### **Failures**
 
-These occur when an attack misses.
+These occur when an attack does no damage (either from missing, or being drained, nullified or reflected.)
 
 - **1 Failure:** The flame retaliates, dealing **2d6 ❄️ Cold damage** to the attacker.
 - **2 Failures:** The flame surges with power, summoning 1 [[Ichor Wraith]] and dealing **2d6 ❄️ Cold damage** once again.
