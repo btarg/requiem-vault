@@ -7,7 +7,8 @@ Players will start out with **20 base HP,** and **8 points to allocate to their 
 
 > [!tip] STR
 
-Increases [[Elements#⚔️ Physical (PHYS)|Physical]] attack damage (flat bonus). Bypassed by [[Elemental Affinities|resistance, absorption, or immunity.]]
+Added as a flat bonus to [[Elements#⚔️ Physical (PHYS)|Physical]] attack rolls.
+With a STR stat of 5, you'll roll **d20+5** to hit a target with a spell.
 ## 🛡️Vitality
 
 > [!tip] VIT - **Your Fortitude DC** is 10 + your Vitality stat.
@@ -17,7 +18,8 @@ Reduces incoming [[Elements#⚔️ Physical (PHYS)|Physical]] damage when the at
 
 > [!tip] MAG
 
-Increases **magical** attack damage (flat bonus). Bypassed by [[Elemental Affinities|resistance, absorption, or immunity.]]
+Added as a flat bonus to **Magical** attack rolls.
+With a MAG stat of 5, you'll roll **d20+5** to hit a target with a spell.
 ## 💙 Spirit
 
 > [!tip] SPR - Your **Will DC** is 10 + your Spirit stat.

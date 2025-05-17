@@ -10,17 +10,16 @@ The players are greeted by one [[Abyssal Wolf]]
 
 ## Defeating the Wolf
 
-The Wolf twists and contorts violently in its death throes. Once still, the corrupted carcass oozes a dark blue fluid. The beast's suffering has been put to an end.
+The Wolf is knocked to the ground. Unable to stand and fight, it accepts defeat, twisting and contorting violently in its death throes. Once it finally stops convulsing, the corrupted carcass oozes a dark blue fluid. The beast's suffering has been put to an end.
 
-You make your way back to the main entrance, the magically sealed doors now standing inert, the glowing runes faded and cold. The hours crawl by as you keep watch, the adrenaline slowly ebbing away, replaced by a bone-deep weariness. Outside, the world has plunged into inky blackness.
+You make your way back to the main entrance, where the magically sealed doors now stand inert, the ward's empty veins faded and cold. Hours crawl by as you sit on the steps and keep watch, the adrenaline slowly ebbing away, replaced by a bone-deep weariness. Outside, the world has plunged into inky blackness.
 
-Finally, the distant rumble of an engine grows louder, and twin headlights cut through the darkness, sweeping across the overgrown grounds. A heavy-duty, unmarked truck pulls to a stop near the broken fences. Three figures in full hazmat gear jump out, weapons at the ready, their movements tense and professional. They advance cautiously towards the Library entrance, then visibly halt as they take in your presence and the lack of immediate, overt hostility.
+You stand to attention as the distant rumble of an engine grows louder, twin headlights cutting through the darkness, sweeping across the overgrown grounds. A heavy-duty, unmarked military truck pulls to a stop on the cracked concrete path which connects the Library to the main road. Three figures in full hazmat gear leap out of the vehicle, weapons at the ready, their movements tense and aggressive. They advance cautiously towards the entrance, then visibly halt as they take in your presence and the lack of immediate, overt hostility.
 
-The truck's driver-side door opens, and a figure in a more standard military jacket, a respirator hanging around their neck, steps out. They have a weary but sharp look about them. They approach, their gaze sweeping over you, then to the now-darkened entrance of the Library.
-
-*(The Captain addresses a Random Player)*
+The truck's driver-side door opens, and a figure in a more standard military jacket, albeit with a respirator hanging around their neck, steps out. They have a weary but sharp look about them. They approach, their gaze sweeping over you, then to the now-darkened entrance of the Library.
 
 **Captain:** "Well, look at you lot. What the hell was in there?"
+The driver is a Captain, judging by the patch on their jacket. Wide-eyed, the Captain stares at (Random player), waiting for an answer.
 
 *(The players explain that the enemies within have been dealt with)*
 
@@ -28,13 +27,13 @@ The truck's driver-side door opens, and a figure in a more standard military jac
 
 >[!question]- Explain to the Captain about the Catalyst in the brazier
 >You explain to the Captain that you found a depleted, albeit large, amount of Abyssal Catalyst beneath the flame.
->**Captain:** "So those attacks, that kid who got mauled back in May... this was all premeditated? Some kind of terrorist attack? Shit, this might be a lot bigger than we thought. I'm gonna need all the details before I call this one in."
+>**Captain:** "So those attacks, that kid who got mauled back in May... this was all some kind of terrorist attack? Shit, this looks bigger than us. I'm gonna need all the details before I call this one in."
 
 >[!question]- Mention the ward on the door 
 >You explain to the Captain that you were locked in the library by some kind of red magical ward. Their expression turns to one of distress.
->**Captain:** "So... there was another person in there with you? Where are they now"
+>**Captain:** "Another person was with you? Where are they now?"
 >*(Players answer no/huh?)*
->**Captain:** "...there *was* someone else in there with you, right? Red runes, that's Arcane. No wraiths or wolves can cast a ward like that, regardless of whatever radioactive shite they've been exposed to." (The Captain signals to the team to stay alert.) "You should probably come with us."
+>**Captain:** "...there *was* someone else in there with you, right? Red runes, that's Arcane. No Corrupted creature can cast a ward like that, regardless of whatever radioactive shite they've been exposed to." (The Captain signals to the team to stay alert.) "You should probably come with us."
 
 **Soldier:** (A soldier interrupts before the Captain can speak more, showing them the readings on a device) "Ichor levels are down by 89 per cent. Once cleanup's done, we'll be at background levels in a matter of days."
 
