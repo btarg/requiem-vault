@@ -15,7 +15,7 @@ Acquiring spells involves *Drawing* them from enemies.
 
 When you choose to **Stock** (Option 2 above):
 
-* Roll \(1d4\) to determine the number of spell copies gained.
+* Roll \(1d4\) to determine the number of spell charges gained.
 * If you have [[Elemental Affinities#Mastery|Mastery]] over the spell's element, roll \(2d4\) instead.
 * Add your [[Stats#🍀 Luck|Luck]] stat as a flat bonus to the roll result.
   * Example (3 Luck, no Mastery): Roll \(1d4 + 3\).
