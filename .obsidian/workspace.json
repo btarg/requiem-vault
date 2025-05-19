@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "4874b18bd8c0bdb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/Enemies/Doppelganger Merc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Doppelganger Merc"
-            }
-          },
-          {
             "id": "2edf7d6095c9cee8",
             "type": "leaf",
             "state": {
@@ -53,26 +39,39 @@
             "id": "30635200db4bc3af",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "GM/Familiarity Tracker.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "GM/Enemies/Doppelganger Merc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Familiarity Tracker"
+              "icon": "lucide-file",
+              "title": "Doppelganger Merc"
             }
           },
           {
             "id": "3233bdbb966f2cb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/Enemies/Abyssal Wolf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abyssal Wolf"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8aa5aef6be5b3d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb7c278751df2d9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,16 +90,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Spells/Electricity/Thunderstrike.md",
+                "file": "content/Players/Concepts/Spells/Electricity/Chain Lightning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thunderstrike"
+              "title": "Chain Lightning"
+            }
+          },
+          {
+            "id": "cb13a2162f23c7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Concepts/Spells/Psychic/Illusory Disguise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Illusory Disguise"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,18 +266,20 @@
   },
   "active": "30635200db4bc3af",
   "lastOpenFiles": [
-    "content/Players/Concepts/Spells/Electricity/Thunderstrike.md",
+    "content/Players/Concepts/Spells/Psychic/Illusory Disguise.md",
+    "GM/Enemies/Doppelganger Merc.md",
+    "GM/Enemies/Abyssal Wolf.md",
+    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
+    "content/Players/Concepts/Spells/Electricity/Chain Lightning.md",
+    "content/Players/Concepts/Spells/Electricity/Live Wire.md",
+    "GM/First Session/Library/Library final encounter.md",
     "GM/Familiarity Tracker.md",
+    "content/Players/Concepts/Spells/Electricity/Thunderstrike.md",
     "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
     "content/Players/Concepts/Mechanics/Magic/Casting Spells.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
     "content/Players/Concepts/Spells/Fire/Ash Cloud.md",
-    "content/Players/Concepts/Spells/Electricity/Chain Lightning.md",
-    "content/Players/Concepts/Spells/Electricity/Live Wire.md",
-    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/Players/Concepts/Spells/Electricity",
-    "GM/Enemies/Doppelganger Merc.md",
-    "GM/First Session/Library/Library final encounter.md",
     "GM/First Session/Library/Aftermath.md",
     "GM/First Session/Library/Blue Flame.md",
     "GM/First Session/First session start.md",
@@ -273,7 +288,6 @@
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elemental Affinities.md",
     "content/Players/Concepts/Spells/Cold/Cone of Cold.md",
     "content/Players/Lore/Backstory.md",
-    "GM/Enemies/Abyssal Wolf.md",
     "GM/Enemies/Ichor Wraith.md",
     "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
     "content/Players/Concepts/Mechanics/Difficulty Classes.md",
@@ -281,7 +295,6 @@
     "quartz/quartz/components/ReaderMode.tsx",
     "quartz/docs/plugins/Favicon.md",
     "quartz/docs/features/reader mode.md",
-    "content/Players/Concepts/Spells/Radiant/Dazzling Flash.md",
     "content/Players/Concepts/Spells/Chemical",
     "content/Players/Concepts/Spells/Force",
     "content/Players/Concepts/Spells/Fire",
