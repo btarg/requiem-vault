@@ -1,6 +1,4 @@
-# Doppelganger Merc
-
-> Each Doppelganger Merc will replicate the stats, spells, etc., of a player character, only with a **-1 penalty to every stat, and -10 to HP and AC.** They are unstable and prone to errors, reflecting a flawed creation process or intoxication.
+> Each Doppelganger Merc will replicate the stats of a player character, only with a **-1 penalty to every stat, and -10 to HP and AC.** They are unstable and prone to errors, reflecting a flawed creation process or intoxication.
 
 ---
 
