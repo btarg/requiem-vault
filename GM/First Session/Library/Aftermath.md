@@ -25,12 +25,11 @@ Looking closer at the environment, you notice a subtle - yet disturbing - damage
 
 Even with your enemies defeated, it is not safe to remain here for much longer. You begin moving to the door, attempting to call in your success on your way out.
 
-(Random player), you pull out your phone from your jacket to call for an evac team. The moment the screen flickers to life, thin tendrils of acrid smoke begin to curl from its seams. It grows unnaturally hot in your hand within seconds.
-You instinctively drop the device. It clatters onto the dusty stone floor, smoke now pouring out more thickly, before sputtering out, leaving it completely dead. The air around the phone shimmers faintly for a moment. Seeing this, the rest of you also quickly abandon your electronics.
+(Random player), you pull out your phone from your jacket to call for an evac team. The moment the screen flickers to life, thin tendrils of acrid smoke begin to curl from its seams. It grows unnaturally hot in your hand within seconds, clattering onto the dusty stone floor, increasingly thick smoke pouring out of it, before sputtering out. The air around you shimmers faintly for a moment. The rest of you also quickly abandon your electronics.
 
 The sheer concentration of Ichor and residual Catalyst contamination in the area is far higher than anticipated. Using complex technology is hazardous within these walls. It will be hours until anyone outside becomes concerned enough to evacuate you from the Library. You're cut off.
 
-Reaching the massive, ornate doors through which you entered, you find your exit barred. Before, there was only solid, heavy wood - but now, intricately carved runes crawl across the door's surface like bloody veins, pulsing with a red glow. A low, resonant hum emanates from them, and the air before the doors feels thick and resistant.
+Reaching the massive, ornate steel-and-glass doors through which you entered, you find your exit barred. Before, there was only solid, heavy wood - but now, intricately carved runes crawl across the door's surface like bloody veins, weaving through shattered glass, pulsing with a red glow. A low, resonant hum emanates from them, and the air before the doors feels thick and resistant.
 
 
 **Interacting with the Door (Before or During Combat):**
@@ -56,9 +55,9 @@ It has no weakness, but is immune to PSY, ELEC, COLD and CHEM.
 >**Miss/No Effect:** Your magic harmlessly dissipates against the ward.
 
 >[!question]- **Breach with Force (Strength DC 20)**
->You attempt to physically smash through the door or the ward protecting it.
+>You attempt to physically slash through the veins which hold the door shut.
 >
->**Success:** A loud crack echoes as the wood splinters or the ward flickers violently, momentarily weakening. Roll damage based on what you're using to break through.
+>**Success:** A loud screech echoes as the metal warps with the impact, the ward flickering violently, momentarily weakening. Roll damage based on what you're using to break through.
 >**Failure:** Your effort rebounds harmlessly. Magical energy surges outwards like lightning. Roll a [[Saving Throws#Reflex|Reflex saving throw]] against DC 8, where on any failure you are knocked back 10ft and take 1d4 of [[Elements#⚡ Electricity (ELEC)|Elec]] damage.
 >**Critical Failure:** The same as a regular failure, but you strain yourself, taking an extra 1d4 [[Elements#⚔️ Physical (PHYS)|Phys]] damage from the rebound.
 >
