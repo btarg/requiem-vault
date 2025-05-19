@@ -6,10 +6,15 @@ kanban-plugin: board
 
 ## ❓Unfamiliar
 
+- [ ] `pf2:3` 🔥 [[Ash Cloud]]
+- [ ] `pf2:2` 🔥 [[Blazing Bolt]]
+- [ ] `pf2:2` 🔥 [[Breathe Fire]]
 - [ ] `pf2:2` ❄️ [[Cone of Cold]]
 - [ ] `pf2:1` ❄️ [[Personal Blizzard]]
 - [ ] `pf2:2` ❄️ [[Ray of Frost]]
 - [ ] `pf2:2` ❄️ [[Petrify]]
+- [ ] `pf2:2` ⚡ [[Chain Lightning]]
+- [ ] `pf2:2` ⚡ [[Live Wire]]
 - [ ] `pf2:2` 🌀 [[Phantasmal Killer]]
 - [ ] `pf2:2` 🌀 [[Illusory Disguise]]
 - [ ] `pf2:2` 🌀 [[Confusion]]
@@ -18,9 +23,6 @@ kanban-plugin: board
 - [ ] `pf2:2` 🌌 [[Shadow Blast]]
 - [ ] `pf2:1` 💥 [[Haste]]
 - [ ] `pf2:2` 💥 [[Resilient Sphere]]
-- [ ] `pf2:2` 🔥 [[Blazing Bolt]]
-- [ ] `pf2:3` 🔥 [[Ash Cloud]]
-- [ ] `pf2:2` 🔥 [[Breathe Fire]]
 - [ ] `pf2:2` ✨ [[Holy Light]]
 - [ ] `pf2:2` ✨ [[Cloak of Light]]
 - [ ] `pf2:2` ✨ [[Dazzling Flash]]

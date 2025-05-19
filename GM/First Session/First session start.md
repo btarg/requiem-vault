@@ -13,7 +13,7 @@ Near-blindly treading through mounds of leaf-mulch, you push through layers of b
 >You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert; it looks more like many glowing objects are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
 
 >[!question]- Examine the entrance
->The towering, ornate wooden doors have been boarded up, the flimsy planks hastily bolted to them beginning to rot. Entering through the main doors will be trivial.
+>The towering, ornate doors have been boarded up. The flimsy planks hastily bolted to door's the warped steel and shards of glass are beginning to rot; entering through here will be trivial.
 
 ## Entering the Library
 

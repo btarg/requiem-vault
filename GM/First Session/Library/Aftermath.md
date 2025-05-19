@@ -29,7 +29,7 @@ Even with your enemies defeated, it is not safe to remain here for much longer. 
 
 The sheer concentration of Ichor and residual Catalyst contamination in the area is far higher than anticipated. Using complex technology is hazardous within these walls. It will be hours until anyone outside becomes concerned enough to evacuate you from the Library. You're cut off.
 
-Reaching the massive, ornate steel-and-glass doors through which you entered, you find your exit barred. Before, there was only solid, heavy wood - but now, intricately carved runes crawl across the door's surface like bloody veins, weaving through shattered glass, pulsing with a red glow. A low, resonant hum emanates from them, and the air before the doors feels thick and resistant.
+Reaching the massive, ornate steel-and-glass doors through which you entered, you find your exit barred. Some time during your fight, the doors had been closed. Before, there was rusted metal, hastily boarded with heavy wood - but now, intricately carved runes crawl across the door's surface like bloody veins, weaving through shattered glass and pulsing with a red glow. A low, resonant hum emanates from them, and the air before the doors feels thick and resistant.
 
 
 **Interacting with the Door (Before or During Combat):**
@@ -38,10 +38,10 @@ The warded door has 25 HP.
 It has no weakness, but is immune to PSY, ELEC, COLD and CHEM.
 
 
->[!question]- **Decipher the Ward ([[Stats#🧠 Wisdom|Wisdom]] DC 18 )**
+>[!question]- **Decipher the Ward ([[Stats#🧠 Wisdom|Wisdom]] DC 18)**
 >You focus your arcane knowledge on the pulsing runes.
->**Success:** You identify the ward as Abjuration magic, powered directly by the ambient Ichor. You determine it's particularly vulnerable to [[Elements#💥 Force|💥 Force]] damage or effects that specifically counteract magic (like [[Dispel Magic]]). You also spot a primary focusing rune near the centre that seems key to its integrity.
->**Failure:** The patterns are too complex or alien; you learn nothing useful.
+>**Success:** You identify the ward as Abjuration magic, powered directly by the ambient Ichor. You determine it's particularly vulnerable to [[Elements#💥 Force|💥 Force]] damage and effects that specifically counteract magic (like [[Dispel Magic]]). You also spot a primary focusing rune near the centre that seems key to its integrity.
+>**Failure:** The patterns are too complex and alien; you learn nothing useful.
 >**Critical Failure:** Arcane feedback shocks you for 1d4 [[Elements#🌀 Psychic|Psychic]] damage.
 
 >[!question]- **Target a Weak Point ([[Stats#👁️ Perception|Perception]] DC 16)**
