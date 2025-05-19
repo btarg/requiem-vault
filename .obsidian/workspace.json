@@ -6,35 +6,8 @@
       {
         "id": "7071ebf6486148ca",
         "type": "tabs",
+        "dimension": 50,
         "children": [
-          {
-            "id": "fb07d38e8bbfbe8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/First Session/Library/Library final encounter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Library final encounter"
-            }
-          },
-          {
-            "id": "2edf7d6095c9cee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elements"
-            }
-          },
           {
             "id": "3233bdbb966f2cb6",
             "type": "leaf",
@@ -50,25 +23,39 @@
             }
           },
           {
-            "id": "9fa9327244af2f65",
+            "id": "a9d733771a755261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/Enemies/Abyssal Wolf.md",
+                "file": "content/Players/Concepts/Mechanics/Stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abyssal Wolf"
+              "title": "Stats"
+            }
+          },
+          {
+            "id": "21d65da63d366133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/First Session/Library/Aftermath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aftermath"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "8aa5aef6be5b3d8e",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "eb7c278751df2d9a",
@@ -125,9 +112,23 @@
               "icon": "lucide-file",
               "title": "Illusory Disguise"
             }
+          },
+          {
+            "id": "34e01810a8423bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/First Session/Club/Celebration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Celebration"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -278,12 +279,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fa9327244af2f65",
+  "active": "3233bdbb966f2cb6",
   "lastOpenFiles": [
+    "GM/Enemies/Abyssal Wolf.md",
+    "content/Players/Concepts/Mechanics/Stats.md",
+    "GM/First Session/Library/Aftermath.md",
+    "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
+    "GM/Enemies/Doppelganger Merc.md",
+    "GM/First Session/Club/Celebration.md",
     "content/Players/Concepts/Spells/Psychic/Illusory Disguise.md",
     "content/Players/Concepts/Spells/Electricity/Chain Lightning.md",
-    "GM/Enemies/Abyssal Wolf.md",
-    "GM/Enemies/Doppelganger Merc.md",
     "Untitled.md",
     "content/Players/Concepts/Spells/Void/Necrotic Radiation.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
@@ -292,21 +297,17 @@
     "GM/First Session/Library/Library final encounter.md",
     "GM/Familiarity Tracker.md",
     "content/Players/Concepts/Spells/Electricity/Thunderstrike.md",
-    "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
     "content/Players/Concepts/Mechanics/Magic/Casting Spells.md",
     "content/Players/Concepts/Spells/Fire/Ash Cloud.md",
     "content/Players/Concepts/Spells/Electricity",
-    "GM/First Session/Library/Aftermath.md",
     "GM/First Session/Library/Blue Flame.md",
     "GM/First Session/First session start.md",
-    "content/Players/Concepts/Mechanics/Stats.md",
     "content/Players/Concepts/Mechanics/Baton Pass.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elemental Affinities.md",
     "content/Players/Concepts/Spells/Cold/Cone of Cold.md",
     "content/Players/Lore/Backstory.md",
     "GM/Enemies/Ichor Wraith.md",
     "content/Players/Concepts/Mechanics/Critical Hits and Knockdowns.md",
-    "content/Players/Concepts/Mechanics/Difficulty Classes.md",
     "quartz/quartz/components/styles/readermode.scss",
     "quartz/quartz/components/ReaderMode.tsx",
     "content/Players/Concepts/Spells/Chemical",
