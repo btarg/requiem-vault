@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,14 +280,14 @@
   },
   "active": "9fa9327244af2f65",
   "lastOpenFiles": [
-    "Untitled.md",
-    "GM/Enemies/Abyssal Wolf.md",
-    "content/Players/Concepts/Spells/Void/Necrotic Radiation.md",
-    "GM/Enemies/Doppelganger Merc.md",
-    "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
-    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/Players/Concepts/Spells/Psychic/Illusory Disguise.md",
     "content/Players/Concepts/Spells/Electricity/Chain Lightning.md",
+    "GM/Enemies/Abyssal Wolf.md",
+    "GM/Enemies/Doppelganger Merc.md",
+    "Untitled.md",
+    "content/Players/Concepts/Spells/Void/Necrotic Radiation.md",
+    "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
+    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/Players/Concepts/Spells/Electricity/Live Wire.md",
     "GM/First Session/Library/Library final encounter.md",
     "GM/Familiarity Tracker.md",
