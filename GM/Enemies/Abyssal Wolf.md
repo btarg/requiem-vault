@@ -68,6 +68,8 @@ ___
 
 1. `pf2:2` [[Acidic Burst]] **(Level 1):** Create a shell of acid around yourself that immediately bursts outward.
 	-  **Element:** 🧪 Chemical
+2. `pf2:2` [[Necrotic Radiation]] **(Level 4):** Imbue a touched object or a small area with slow-acting, harmful void radiation.
+	- **Element:** [[Elements#🌌 Void|🌌 Void]]
 
 ## Reserve Spells (Only for Draw List)
 

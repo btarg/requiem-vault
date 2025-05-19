@@ -20,6 +20,7 @@ Combined Spirit and Mental from PF2E context, representing mental/emotional effe
 ## ✨ Radiant (RAD)
 Represents all Light-based spells - including Vitality spells - from PF2E.
 ## 🌌 Void
+Represents all Void, Dark and Negative spells.
 ## ☄️Almighty
 Some attacks will do "Almighty" damage, which means they ignore all [[Elemental Affinities]], acting like NEUTRAL.
 

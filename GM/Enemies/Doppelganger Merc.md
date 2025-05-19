@@ -1,6 +1,6 @@
 Each Doppelganger Merc will replicate the stats, spells, etc. of a player, only with a **-1 penalty to every stat, and -10 to HP and AC (like they're a level below).**
 
-## Draw List
+## Spells
 
 1. `pf2:2` [[Live Wire]] **(Cantrip):** Conjure a whip-like length of sharp, electrified copper filament that lashes out to cut and shock your foe.
 	- **Element:** ⚡ Electricity
