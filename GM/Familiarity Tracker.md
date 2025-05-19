@@ -15,6 +15,7 @@ kanban-plugin: board
 - [ ] `pf2:2` ❄️ [[Petrify]]
 - [ ] `pf2:2` ⚡ [[Chain Lightning]]
 - [ ] `pf2:2` ⚡ [[Live Wire]]
+- [ ] `pf2:2` ⚡ [[Thunderstrike]]
 - [ ] `pf2:2` 🌀 [[Phantasmal Killer]]
 - [ ] `pf2:2` 🌀 [[Illusory Disguise]]
 - [ ] `pf2:2` 🌀 [[Confusion]]

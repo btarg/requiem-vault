@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,13 +251,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8d52c06fb6b66c5",
+  "active": "30635200db4bc3af",
   "lastOpenFiles": [
-    "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
     "content/Players/Concepts/Spells/Electricity/Thunderstrike.md",
+    "GM/Familiarity Tracker.md",
+    "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
     "content/Players/Concepts/Mechanics/Magic/Casting Spells.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
-    "GM/Familiarity Tracker.md",
     "content/Players/Concepts/Spells/Fire/Ash Cloud.md",
     "content/Players/Concepts/Spells/Electricity/Chain Lightning.md",
     "content/Players/Concepts/Spells/Electricity/Live Wire.md",
