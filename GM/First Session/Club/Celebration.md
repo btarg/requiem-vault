@@ -79,6 +79,21 @@ Pointing the tip of a blade against (nearest player)'s throat, one of the mercs 
 ***ROLL INITIATIVE***
 *(there are three [[Doppelganger Merc]]s in total)*
 
+### Improvised Weapons
+
+Improvised weapons will require a **Luck check vs DC 10** on every attack, where on failure, the weapon breaks, and on a Critical failure, the weapon breaks and deals 1d4 Phys damage to the user.
+
+**The Luck DC increases with the attack penalty**, e.g. Attack #2 with a Club would do 1d6+2 damage to the enemy on success, or 1d4-1 damage to the player on a Crit fail.
+
+To obtain an Improvised Weapon (e.g. a bottle or barstool), succeed these checks:
+- **Luck vs DC 8, or Perception DC 12** - you need to be close to something you can use
+- **Speed vs DC 15** - you need to be quick to pick it up, or you open yourself to a **Reactive Strike**
+
+
+`pf2:1` **Improvised Club:** 1d6+3 [[Elements#⚔️ Physical (PHYS)|Phys]], range 5ft. (-1 penalty for each attack)
+`pf2:1` **Improvised Projectile:** 1d4+3 [[Elements#⚔️ Physical (PHYS)|Phys]], range 15ft. (-1 penalty for each attack)
+
+
 ---
 
 ### Outcome:
