@@ -1,6 +1,6 @@
 
 >[!tip] Back at the [[First session start#Entering the Library|Library Entrance]]...
->As the last of the [[Ichor Wraith]]s dissipate into nothing more than fading motes of cold blue light, a tense quiet falls over the grand entrance hall of the Library. The frantic energy of the battle subsides, leaving behind the eerie stillness of the abandoned space.
+>As the last of the [[Ichor Wraith]]s dissipate into nothing more than fading motes of cold blue light, a tense quiet falls over the grand entrance hall of the Library. The frantic energy of the battle has subsided, leaving behind the eerie stillness of the abandoned space.
 
 The air remains unnaturally cold, a lingering chill left by the defeated Wraiths. The candles, miraculously undisturbed by the arcane struggle, continue to burn low, casting long, flickering shadows across the dusty tables. The books strewn across them still emanate a faint, residual blue mist, the last vestiges of the Ichor the Wraiths were feeding upon.
 
@@ -36,6 +36,7 @@ Reaching the massive, ornate steel-and-glass doors through which you entered, yo
 
 The warded door has 25 HP.
 It has no weakness, but is immune to PSY, ELEC, COLD and CHEM.
+It resists everything else, except FORCE.
 
 
 >[!question]- **Decipher the Ward ([[Stats#🧠 Wisdom|Wisdom]] DC 18)**

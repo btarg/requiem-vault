@@ -1,4 +1,4 @@
-In the wake of the [[Blue Flame]]'s destruction, you have been invited to the unofficial celebration by the Captain and their fellow mercs, who are eager to toast your success. The atmosphere is electric, and for a moment, it seems like they can finally relax. The celebratory party is being held at a popular underground club, a vibrant and chaotic space packed with people.
+In the wake of the [[Blue Flame]]'s destruction, you have been invited to the unofficial celebration by the Captain and their fellow mercs, who are eager to toast your success. The party is being held at a popular underground club - The Lux Aeterna: a vibrant and chaotic space, increasingly packed with people. Mere hours after your victory, the atmosphere is electric, and for a moment, it seems like they can finally relax. 
 
 ### Outside
 

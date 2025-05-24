@@ -19,32 +19,38 @@ You stand to attention as the distant rumble of an engine grows louder, twin hea
 The truck's driver-side door opens, and a figure in a more standard military jacket, albeit with a respirator hanging around their neck, steps out. They have a weary but sharp look about them. They approach, their gaze sweeping over you, then to the now-darkened entrance of the Library.
 
 **Captain:** "Well, look at you lot. What the hell was in there?"
-The driver is a Captain, judging by the patch on their jacket. Wide-eyed, the Captain stares at (Random player), waiting for an answer.
+The driver is a Captain, judging by the patch on their jacket. Wide-eyed, the Captain stares at (Most injured/affected player), waiting for an answer.
 
 *(The players explain that the enemies within have been dealt with)*
 
 **Captain:** (Lets out a slow breath, some tension leaving their shoulders. They gesture to their team, who visibly relax a notch.) "Good. Damn good. We were expecting a full-on firefight just to get you out."
 
 >[!question]- Explain to the Captain about the Catalyst in the brazier
->You explain to the Captain that you found a depleted, albeit large, amount of Abyssal Catalyst beneath the flame.
->**Captain:** "So those attacks, that kid who got mauled back in May... this was all some kind of terrorist attack? Shit, this looks bigger than us. I'm gonna need all the details before I call this one in."
+>You explain to the Captain that you found a depleted, albeit large, amount of Abyssal Catalyst beneath the flame. A darkness befalls them; the kind that clings to someone who has seen death, and who is now reliving that memory.
+>**Captain:** "So the creatures, that kid who got mauled back in May... this was all some kind of terrorist attack? Shit, this is way bigger than us. I'm gonna need all the details before I call this one in."
 
 >[!question]- Mention the ward on the door 
->You explain to the Captain that you were locked in the library by some kind of red magical ward. Their expression turns to one of distress.
+>You explain to the Captain that you were locked in the library by some kind of red magical ward. Their expression is one of distress, as they interject in a panic.
+>**Captain:** "Do we need more paramedics?" (they gesture toward two doctors who have also now exited the truck, holding first-aid kits.)
+>*(Players answer no / confirm they're fine)*
 >**Captain:** "Another person was with you? Where are they now?"
->*(Players answer no/huh?)*
->**Captain:** "...there *was* someone else in there with you, right? Red runes, that's Arcane. No Corrupted creature can cast a ward like that, regardless of whatever radioactive shite they've been exposed to." (The Captain signals to the team to stay alert.) "You should probably come with us."
+>*(Players answer with confusion or respond with no)*
+>**Captain:** "...there *was* someone else in there with you, right? Red runes, that's Arcane. No Corrupted creature can cast a ward like that, regardless of whatever radioactive shite they've been exposed to." (The Captain signals to the team to stay alert, looking much more wary.) "Let's get you out of here."
 
 **Soldier:** (A soldier interrupts before the Captain can speak more, showing them the readings on a device) "Ichor levels are down by 89 per cent. Once cleanup's done, we'll be at background levels in a matter of days."
 
 The Captain pulls a radio from their vest.
-**Captain** (into comms): "Command, this is Extraction Lead. Contact made with Unit [Your Unit's Codename/Number]. Initial perimeter threat neutralized. They're clear for evac. Primary local hostile down."
-They listen for a moment, a faint, tinny voice responding from the radio. Looking up, they nod to you, with a grin.
+**Captain** (into comms): "Command, this is Extraction Lead. Contact made with [Your Unit's Codename/Number]. Initial perimeter threat neutralized. They're clear for evac."
 
+>[!tip] If the Captain is now aware of the Ward:
+>**Captain** (into comms): "Requesting backup for unconfirmed secondary hostiles." 
+
+They listen for a moment, a faint, tinny voice responding from the radio. Looking up, they nod to you, with a grin.
 You each step into the back of the evac truck.
+
 **Captain:** "You kids are about to be *very* popular. An achievement like this requires proper celebration. I'll call up the Prof and tell her to meet us at Lux Aeterna, yeah?"
-The Captain's phone rings for an uncomfortably long time. After a second attempt, they turn the key, the truck's engine roaring back to life. The Captain looks visibly puzzled, their brow furrowed.
-**Captain:** "That's unlike your Prof, to take a sick day. I've never seen her miss a call. I'm sure she'll be there."
+Attempting to reach the Professor, the Captain lets their phone ring for an uncomfortably long time. After a second attempt, they turn the key, the truck's engine roaring back to life. The Captain looks visibly puzzled, their brow furrowed.
+**Captain:** "That's unlike your Prof, I've never seen her miss a call. Nah, it's probably all the Ichor in the air. I'm sure she'll be there."
 
 With that, the truck kicks forward.
 
