@@ -6,10 +6,9 @@
       {
         "id": "7071ebf6486148ca",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "3233bdbb966f2cb6",
+            "id": "21d65da63d366133",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,98 +22,34 @@
             }
           },
           {
-            "id": "21d65da63d366133",
+            "id": "3fdb0d6a929be6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/First Session/Library/Aftermath.md",
+                "file": "content/Players/Concepts/Mechanics/Improvised Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aftermath"
+              "title": "Improvised Weapons"
+            }
+          },
+          {
+            "id": "795d07206e3ec99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Concepts/Mechanics/Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
             }
           }
         ]
-      },
-      {
-        "id": "8aa5aef6be5b3d8e",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "eb7c278751df2d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Players/Concepts/Spells/Electricity/Live Wire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Live Wire"
-            }
-          },
-          {
-            "id": "30635200db4bc3af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Players/Concepts/Spells/Void/Necrotic Radiation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Necrotic Radiation"
-            }
-          },
-          {
-            "id": "e8d52c06fb6b66c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Players/Concepts/Spells/Electricity/Chain Lightning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chain Lightning"
-            }
-          },
-          {
-            "id": "cb13a2162f23c7df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Players/Concepts/Spells/Psychic/Illusory Disguise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Illusory Disguise"
-            }
-          },
-          {
-            "id": "ed99b1f04eda4424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elements"
-            }
-          }
-        ],
-        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -265,17 +200,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3233bdbb966f2cb6",
+  "active": "21d65da63d366133",
   "lastOpenFiles": [
-    "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
-    "content/Players/Concepts/Mechanics/Stats.md",
+    "content/Players/Concepts/Mechanics/Improvised Weapons.md",
     "GM/First Session/Club/Celebration.md",
-    "content/Players/Concepts/Mechanics/Elements and Affinities/Scanning.md",
+    "content/Players/Concepts/Mechanics/Saving Throws.md",
+    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
+    "content/Players/Concepts/Mechanics/Formula for Stats.md",
+    "content/Players/Concepts/Mechanics/Stats.md",
+    "GM/Session map.canvas",
     "GM/First Session/Library/Library final encounter.md",
     "GM/First Session/Library/Aftermath.md",
+    "content/Players/Concepts/Spells/Radiant/Chromatic Ray.md",
+    "GM/Characters",
+    "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
+    "content/Players/Concepts/Mechanics/Elements and Affinities/Scanning.md",
     "GM/First Session/Library/Blue Flame.md",
     "GM/First Session/First session start.md",
-    "GM/Session map.canvas",
     "GM/Enemies/Doppelganger Merc.md",
     "GM/Enemies/Abyssal Wolf.md",
     "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
@@ -283,7 +224,6 @@
     "content/Players/Concepts/Spells/Electricity/Chain Lightning.md",
     "Untitled.md",
     "content/Players/Concepts/Spells/Void/Necrotic Radiation.md",
-    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/Players/Concepts/Spells/Electricity/Live Wire.md",
     "GM/Familiarity Tracker.md",
     "content/Players/Concepts/Spells/Electricity/Thunderstrike.md",
@@ -291,10 +231,6 @@
     "content/Players/Concepts/Spells/Fire/Ash Cloud.md",
     "content/Players/Concepts/Spells/Electricity",
     "content/Players/Concepts/Mechanics/Baton Pass.md",
-    "content/Players/Concepts/Mechanics/Elements and Affinities/Elemental Affinities.md",
-    "content/Players/Concepts/Spells/Cold/Cone of Cold.md",
-    "content/Players/Lore/Backstory.md",
-    "GM/Enemies/Ichor Wraith.md",
     "quartz/quartz/components/styles/readermode.scss",
     "quartz/quartz/components/ReaderMode.tsx",
     "content/Players/Concepts/Spells/Chemical",
@@ -303,7 +239,6 @@
     "content/Players/Concepts/Spells/Void",
     "content/Players/Concepts/Spells/Radiant",
     "content/Players/Concepts/Spells/Cold",
-    "content/Players/Concepts/Spells/Psychic",
     "library-source2.jpg",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
