@@ -32,32 +32,36 @@ The players can attempt to Draw raw magical energy or knowledge from the Blue Fl
 If the players have not already successfully studied the flame...
 You hold your palm at arm's length toward the Blue Flame, closing your eyes. You immediately become overwhelmed by the vast expanse of spells which have been forcibly compressed into the thrashing flame, hundreds at a time leaping out at you in flashes, like a videotape on fast-forward.
 
-While you could reach out into the swirling mass of Ichor and leave it entirely up to chance what you Draw from it, if you instead wish to sort through the noise and make sense of all this, you will first need to study the flame closer.
+While you could reach out into the swirling mass of Ichor and leave it entirely up to chance *(1d8)* what you Draw from it, if you instead wish to sort through the noise and make sense of all this, you will first need to [[Blue Flame#3. **Study the Flame**|study the flame]] closer.
 
->[!success]- [[Stats#🍀 Luck|Luck]] DC 20
->The player now considers themselves lucky, and has the option to roll 1d10 to choose a random spell. They will gain an **extra draw.**
+>[!success]- [[Stats#🍀 Luck|Luck]] DC 18
+>The player now considers themselves lucky, and has the option to roll 1d8 to choose a random spell. They will gain an **extra draw** where they do the same again.
 
 
-1. [[Blazing Bolt]] **(Level 2):** A searing ray of fire.
-    - **Element:** 🔥Fire
-2. [[Ash Cloud]] **(Level 2):** Conjure a swirling, tumultuous cloud of hot ash and acrid smoke.
+1. [[Ash Cloud]] **(Level 2):** Conjure a swirling, tumultuous cloud of hot ash and acrid smoke.
 	- **Element:** 🔥Fire
-3. [[Breathe Fire]] **(Level 1):** Breathe a 15-foot cone of fire.
+	- **Actions:**  `pf2:3`
+2. [[Breathe Fire]] **(Level 1):** Breathe a 15-foot cone of fire.
     - **Element:** 🔥Fire
-4. [[Holy Light]] **(Level 3):** Unleash a blazing ray of intense light, infused with holy power.
+    - **Actions:** `pf2:2`
+3. [[Cloak of Light]] **(Level 4):** Surround yourself in holy light that restores the living and rebuffs undead. 
 	- **Element:** ✨Radiant
-5. [[Cloak of Light]] **(Level 4):** Surround yourself in holy light that restores the living and rebuffs undead. 
-	- **Element:** ✨Radiant
-6. [[Chromatic Ray]] **(Level 4):**  Send out a ray of shimmering, coloured light streaming toward your enemy, with a magical effect depending on the ray's colour and its manifested elemental nature.
+	- **Actions:** `pf2:2`
+4. [[Chromatic Ray]] **(Level 4):**  Send out a ray of shimmering, coloured light streaming toward your enemy, with a magical effect depending on the ray's colour and its manifested elemental nature.
 	  - Element: ✨ Radiant
-7. **[[Haste]] (Level 3):** Infuse a target with incredible speed, granting extra actions and bonuses.
+	  - **Actions:** `pf2:2`
+5. **[[Haste]] (Level 3):** Infuse a target with incredible speed, granting extra actions and bonuses.
     - **Element:** 💥 Force
-8. **[[Resilient Sphere]] (Level 4):** Create an immobile sphere of shimmering force around a creature or object, protecting it or trapping it.
+    - **Actions:** `pf2:1`
+6. **[[Resilient Sphere]] (Level 4):** Create an immobile sphere of shimmering force around a creature or object, protecting it or trapping it.
     - **Element:** 💥 Force
-9. **[[Shadow Blast]] (Level 4):** Hurl a projectile of solidified shadow that damages and potentially drains strength.
+    - **Actions:** `pf2:2`
+7. **[[Shadow Blast]] (Level 4):** Hurl a projectile of solidified shadow that damages and potentially drains strength.
     - **Element:** 🌌 Void
-10. **[[Dispel Magic]] (Level 3):** Attempt to counteract a magical effect, potentially ending it prematurely.
+    - **Actions:** `pf2:2`
+8. **[[Dispel Magic]] (Level 3):** Attempt to counteract a magical effect, potentially ending it prematurely.
     - **Element:** 🌌 Void
+    - **Actions:** `pf2:2`
 	
 #### **Failures**
 

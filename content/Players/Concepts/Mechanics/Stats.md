@@ -1,8 +1,5 @@
 These are the core stats modified by [[Soul Linking Overview|Soul Linking]]. They replace the normal Pathfinder 2E stats.
 
-Players will start out with **35 base HP, 10 base AC** and **8 points to allocate to their stats how they wish.**
-(See [[Ranks and Levels#Levelling up]])
-
 ## ✊Strength
 
 > [!tip] STR

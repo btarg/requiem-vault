@@ -7,11 +7,20 @@ The Great Library stands as a breathtakingly imposing Art Nouveau bastion, once 
 Before you begin to walk toward the Library, you take a moment to prepare. You move to the back of your armoured truck, where a Draw Point has been set up for you.
 
 The draw list is as follows:
+*(Players should be given the option to roll 1d4 to pick a random one from the list)*
 
-1. [[Force Barrage]] **(Level 1)** 
+1. [[Force Barrage]] **(Level 1):** manifest and fire shards of solidified magical force toward your enemies, striking with unerring accuracy.
 	- **Element:** 💥 Force
-2. [[Thunderstrike]] **(Level 1)**
+	- **Actions:**  `pf2:1` to `pf2:3`
+2. [[Thunderstrike]] **(Level 1):** A crackling tendril of lightning accompanied by a deafening clap of thunder, shocking and concussing your target.
 	- Element: ⚡Electricity
+	- **Actions:** `pf2:2`
+3. [[Blazing Bolt]] **(Level 2):** A searing ray of fire.
+    - **Element:** 🔥Fire
+    - **Actions:**  `pf2:1` to `pf2:3`
+4. [[Holy Light]] **(Level 3):** A blazing ray of intense light, infused with holy power.
+	- **Element:** ✨Radiant
+	- **Actions:** `pf2:2`
 
 ### Approaching the Library
 

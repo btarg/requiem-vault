@@ -24,9 +24,6 @@ You unleash a searing ray of fire and heat at your foes, with the option to mani
 -   **If you spend 2 or more actions Casting the Spell:**
     -   The damage for *each* ray increases to **4d6** [[Elements#🔥 Fire|🔥 Fire]] damage on a hit.
     -   It still deals double damage on a critical hit.
--   **Heightened (+1):**
-    -   The damage to each target **increases by 1d6** for the 1-action version.
-    -   The damage to each target **increases by 2d6** for the 2- and 3-action versions.
 
 ---
 *Tags: #spell #level2 #fire #attack #concentrate #manipulate #arcane #primal #pfsstandard #playercore*

@@ -19,8 +19,8 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 * **⚔️ Strength:** 15
 * **💙 Spirit:** 0
 * **❤️ Vitality:** 5
-* **🏃 Speed:** 35
-* **✨ Magic:** 0
+* **🏃 Speed:** 30
+* **✨ Magic:** 5
 * **🍀 Luck:** 0
 * **🗣️ Influence:** 8
 * **👁️ Perception:** 0
@@ -68,7 +68,9 @@ ___
 
 1. `pf2:2` [[Acidic Burst]] **(Level 1):** Create a shell of acid around yourself that immediately bursts outward.
 	-  **Element:** 🧪 Chemical
-2. `pf2:2` [[Necrotic Radiation]] **(Level 4):** Imbue a touched object or a small area with slow-acting, harmful void radiation.
+2. `pf2:2` [[Necrotic Radiation]] **(Level 4):** Rapidly accelerate the natural processes of decay and entropy within a creature's body.
+	- **Element:** [[Elements#🌌 Void|🌌 Void]]
+3. `pf2:2` [[Accelerated Decomposition]] **(Level 6):** Imbue a touched object or a small area with slow-acting, harmful void radiation.
 	- **Element:** [[Elements#🌌 Void|🌌 Void]]
 
 ## Reserve Spells (Only for Draw List)

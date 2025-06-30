@@ -10,8 +10,9 @@ Acquiring spells involves *Drawing* them from enemies.
 >[!tip]- First, the target must attempt a [[Saving Throws#Will|Will Save]], with the following DC:
 
 $$ DC = 20 + \text{Caster's Magic stat} $$
+#### Will Save Failed:
 
-  1. Cast **(0 additional Actions):** Immediately attempt to Cast the drawn spell without adding it to inventory. Requires having enough remaining Actions for the **spell's casting cost**, and enough **Mana Points (MP)**. The GM should inform you of the cost beforehand. *See [[Casting Spells]] for more info*
+  1. Cast **(Spell's cost):** Immediately attempt to Cast the drawn spell without adding it to inventory. Requires having enough remaining Actions for the **spell's casting cost**, and enough **Mana Points (MP)**. The GM should inform you of the cost beforehand. *See [[Casting Spells]] for more info*
   2. Stock **(2 additional Actions):** Add multiple copies of the drawn spell to your inventory. This costs a total of 3 Actions (1 to Draw + 2 to Stock). See [[#Draw Amount]].
   3. Relinquish **(0 additional Actions):** Do nothing with the spell, returning it to the target. Useful if you can't Cast it (not enough Actions) and don't want to Stock it.
 

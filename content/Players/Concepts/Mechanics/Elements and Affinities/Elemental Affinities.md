@@ -1,10 +1,5 @@
 All characters possess strengths and weaknesses to [[Elements]]. Combat revolves around exploiting your enemy's weaknesses, and defending against your own.
 
-Each player will be able to choose the following when creating their character:
-- One element to be **WEAK** to
-- One element to **RESIST**
-- One element to have **MASTERY** over, granting extra charges of [[Drawing Spells|Drawn spells]] of this type.
-
 ## Resistance Factor
 
 Each of the affinities are listed in order from lowest to highest resistance factor. Every time you [[Ranks and Levels#Levelling up||level up]] you gain 1 Affinity Point.
