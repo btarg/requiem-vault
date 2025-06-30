@@ -2,7 +2,22 @@
 
 The Great Library stands as a breathtakingly imposing Art Nouveau bastion, once a proud symbol of the nation's conquest over magical knowledge. Now, it lies in decay, its grandeur consumed by creeping overgrowth and weathered stone. As far as you know, nobody has been here in a very long time.
 
-Near-blindly treading through mounds of leaf-mulch, you push through layers of barbed wire-topped fences, each adorned with screaming black-and-yellow signs, their rusted metal warped and twisted. You grasp the hilts of your blades as you approach the entrance, already tasting the Ichor in the air. Through the beautiful stained-glass windows, rapid flashes of blue outshine your flashlights for brief, intermittent moments, like the strobe of a police car.
+### Preparing to enter
+
+Before you begin to walk toward the Library, you take a moment to prepare. You move to the back of your armoured truck, where a Draw Point has been set up for you.
+
+The draw list is as follows:
+
+1. [[Force Barrage]] **(Level 1)** 
+	- **Element:** 💥 Force
+2. [[Thunderstrike]] **(Level 1)**
+	- Element: ⚡Electricity
+
+### Approaching the Library
+
+The air is sombre. This is it. Once you have taken your blades, the truck driver pulls the door shut with a nod and a whisper of, "Good luck".
+
+You push near-blindly through layers of barbed wire-topped fences, each adorned with screaming black-and-yellow signs, rusted metal warped and twisted. You grasp the hilts of your blades as you approach the entrance, already tasting the Ichor in the air. Through the beautiful stained-glass windows, rapid flashes of blue outshine your flashlights for brief, intermittent moments, like the strobe of a police car.
 
 ### Actions for the players:
 

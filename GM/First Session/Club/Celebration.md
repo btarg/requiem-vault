@@ -1,4 +1,4 @@
-In the wake of the [[Blue Flame]]'s destruction, you have been invited to the unofficial celebration by the Captain and their fellow mercs, who are eager to toast your success. The party is being held at a popular underground club - The Lux Aeterna: a vibrant and chaotic space, increasingly packed with people. Mere hours after your victory, the atmosphere is electric, and for a moment, it seems like they can finally relax.
+In the wake of the [[Blue Flame]]'s destruction, you have been invited to the unofficial celebration by the Captain and their unit, who are eager to toast your success. The party is being held at a popular underground club - The Lux Aeterna: a vibrant and chaotic space, increasingly packed with people. Mere hours after your victory, the atmosphere is electric, and for a moment, it seems like they can finally relax.
 
 ### Outside
 
@@ -20,9 +20,9 @@ You've seen others before manage to sneak in concealed arms "just in case" - but
 
 >[!failure]- With the two bouncers blocking your path, you will be unable to enter without relinquishing your weapons.
 
-### Entering the club
+### Entering the club...
 
-Neon lights pulse in time with live music, casting the room in shifting hues of red, blue, and green. You are greeted by your comrades from the Military Academy, who cheer and raise their glasses in your honour as they see you walk in.
+...you are greeted by your comrades from the Military Academy, who cheer and raise their glasses in your honour as they see you walk in.
 
 However, not even ten minutes into your night of celebration, something begins to unnerve you. The professor was supposed to meet you here, yet she is nowhere to be found, and attempts to contact her go unanswered. Your mission is far from over, and you have plenty to discuss. It's also extremely uncharacteristic of her to be late.
 
@@ -30,11 +30,10 @@ However, not even ten minutes into your night of celebration, something begins t
 ### Actions for the players:
 
 >[!question]- **Chat with Your Academy Comrades**
->Your academy friends are eager to celebrate with you. Amidst the revelry, you could ask if they've seen the Professor.
->*(Spend a few minutes catching up and subtly inquiring.)*
+>Your academy friends are eager to celebrate with you. You ask if they've seen the Professor.
 >
 >>[!success]- **DC 12 [[Stats#🗣️ Influence|Influence]] check or good roleplaying:**
->>One of your more observant comrades lowers their voice, "The Prof? Nah, haven't seen her since the briefing. But hey, while you were making your grand entrance, I saw a couple of rough-looking types asking the bartender about 'an academic fitting her description'. Seemed a bit shifty." They gesture vaguely towards the bar.
+>>One of your more observant comrades lowers their voice, "Prof Thorne? Nah, haven't seen her since the briefing. But hey, while you were making your grand entrance, I saw a couple of rough-looking types asking the bartender about 'an academic fitting her description'. Seemed a bit shifty." They gesture vaguely towards the bar.
 >
 >>[!failure]- They're too caught up in the celebration and haven't noticed anything unusual, offering only more congratulations, and to buy you some drinks.
 >>*(Accepting the offer of a few pints will bypass the GP requirement to buy the posh group a round, decreasing the Influence DC significantly.)*
@@ -54,7 +53,7 @@ However, not even ten minutes into your night of celebration, something begins t
 >You spot a wave of laughter coming from a gaggle of very well-dressed, high-society types near a plush, roped-off seating area. Despite their numbers, the group seems pretty tight-knit and is visibly walled off from the rest of the crowd, occasionally glancing disdainfully at the more boisterous party-goers.
 >It would certainly take someone with a lot of [[Stats#🗣️ Influence|Influence]] to speak to them... perhaps buying them some drinks would warm them up to you further.
 >
->*(Buying a round of their preferred expensive-looking cocktails for the group would cost 30GP, with your discount. This will decrease the Influence DC to 5. If the players took free drinks from someone else, they can lie that they bought them specifically for this group.)*
+>*(Buying a round of their preferred expensive-looking cocktails would cost 30GP, with your discount. This will decrease the Influence DC to 5. If the players took free drinks from someone else, they can lie that they bought them specifically for this group.)*
 >
 >>[!success]- **DC 15** [[Stats#🗣️ Influence|Influence]] check succeeds (or DC 5 if drinks are bought)
 >>A posh-sounding, flamboyant man, impeccably dressed, takes his arm from around a blonde woman's shoulder, turns to you and raises his glass with a surprisingly genuine cheer. Your party has managed to quickly garner a reputation – after all, the Library had been the subject of everyone's nightmares for years now, him included.
@@ -63,31 +62,40 @@ However, not even ten minutes into your night of celebration, something begins t
 >
 >>[!failure]- Influence check fails
 >>As you attempt to grab the attention of the 'poshos', they offer a collective, polite but icy, dismissal. If you brought drinks, one might take a delicate sip, raise an eyebrow, and then turn back to their conversation, leaving the drink untouched.
->>"I'm terribly sorry," one of them says without making eye contact, "but we're in the middle of a rather *exclusive* conversation." They might subtly signal a nearby club bouncer if you linger too long.
+>>"I'm terribly sorry," one of them says without making eye contact, "but we're in the middle of a rather *exclusive* conversation." They clearly do not recognise the urgency in your tone.
 >>
 >>**What happens next on a failure? Choose or roll \(1d4\):**
 >>1.  **The Cold Shoulder:** They pointedly ignore further attempts. You'll need a new approach or a different source of information. Perhaps another, less intimidating group, noticed something? (Leads to "Scan for Alternative Observers").
->>2.  **Gossip Spreads:** One of them whispers loudly enough for you to (barely) overhear with a **DC 14 [[Stats#👁️ Perception|Perception]] check**: "...rather uncouth, trying to barge in. Did you *see* their attire?" Your party gains a temporary -1 to social checks with other "high society" NPCs in the club for the next hour as minor, unflattering rumours spread.
+>>2.  **Gossip Spreads:** One of them whispers loudly enough for you to (barely) overhear with a **DC 14 [[Stats#👁️ Perception|Perception]] check**: "...rather uncouth, trying to barge in. Did you *see* their attire?" Your party gains a temporary -1 to social checks with other NPCs in the club for the next hour as minor, unflattering rumours spread.
 >>3.  **A Sympathetic Outlier:** One of the quieter members of the group, perhaps looking a bit bored, catches your eye as you turn away. If approached alone (requiring a player to subtly split off or wait for an opportunity), they might offer a small piece of information with a **DC 10 [[Stats#🗣️ Influence|Influence]] check**: "Sorry, they can be a bit much. I *think* I saw your Professor talking to the bartender earlier. She looked a bit stressed. I don't know where she went after that." (This directly suggests the **"Talk to the Bartender"** option if not already pursued).
->>4.  **Unintentional Distraction:** Your failed attempt, however brief, causes enough of a minor stir that it draws the attention of another group. The *(number of party members)* of them - all somewhat familiar-looking - stare as you awkwardly walk away.
+>>4.  **Unintentional Distraction:** Your failed attempt, however brief, causes enough of a minor stir that it draws the attention of another group. The *(number of party members)* of them - all somewhat familiar-looking - stare as you awkwardly walk away. **(Notice the suspicious mercenaries)**
 
 >[!question]- **Scan for Alternative Observers (The Wallflowers)**
 >Not everyone is part of the main throng. Some people prefer to observe from the side-lines.
 >*(Make a **DC 12 [[Stats#👁️ Perception|Perception]] check** to spot a quiet couple or a lone individual nursing a drink away from the main crowds.)*
 >
 >>[!success]- You spot a quiet individual or small group tucked away in a less crowded corner. Approaching them might yield results.
->>*(Attempt a **DC 10 [[Stats#🗣️ Influence|Influence]] check** to approach without startling them and ask about the Professor.)*
+>>*(Attempt a **DC 8 [[Stats#🗣️ Influence|Influence]] check** to approach without startling them and ask about the Professor.)*
 >>>[!success]- "Oh, the lady with the glasses? Yes, I saw her. She seemed a little startled when she saw the group over there in the corner *(she points to the Suspicious Mercs)*, then she rushed off. They do look a little... intense."
+>>
 >>>[!failure]- They're shy, suspicious, or simply didn't see anything and don't want to talk.
 >
 >>[!failure]- The club is too chaotic, or everyone seems too engrossed in their own affairs to have noticed anything specific.
 
->[!question]- **Notice the suspicious mercenaries**
->At the edge of the club, in a seemingly darkened booth, a group of mercenaries catches your attention. They look familiar, but something about them seems off. Their movements are stiff, and their faces seem unnaturally blank, as though they’re wearing masks. Their unsettling aura has clearly been noticed, as there is an unusual distance of empty space between them and the rest of the partygoers.
->>[!question]- **Ask them about the professor:**
->> On closer inspection, they look uncannily similar to a group you know...
->> *(Here, describe the player character who chose to speak. E.g. The merc has X coloured hair, is X feet tall...)*
->> The familiar merc grimaces with burning anger at the sight of the Professor's picture. **"Yeah, we're looking for her too. That bitch set us up for failure. When I find her, I'll kill her myself."**
+>[!question]- **Notice the suspicious grouo**
+>
+>>[!success]- At the edge of the club, in a seemingly darkened booth, a familiar group catches your attention. You don't recognise them from the Academy, and something about their presence is disturbing. Their movements are stiff, and their faces seem unnaturally blank, as though they're wearing masks. Their unsettling aura has clearly been noticed, as there is an unusual length of empty space between them and the rest of the room.
+>>
+>>>[!question]- **Approach and observe (DC 5 [[Stats#👁️ Perception|Perception]] check)**
+>>> Judging by their attire, the group appear to be mercenaries, rather than military. Some are attempting to hide brightly-coloured tattoos, the designs which you cannot quite make out from this distance. They are all wearing the same uniform, with a distinctive insignia that you vaguely recognise.
+>>> On closer inspection, they look uncannily similar to a group you know...
+>>> *(Here, describe the player character who chose to speak. E.g. The merc has X coloured hair, is X feet tall...)*
+>>
+>>>[!question]- **Ask them about the professor (DC 10 [[Stats#🗣️ Influence|Influence]] check)**
+>>> The familiar merc grimaces with burning anger at the sight of the Professor's picture. **"Yeah, we're looking for her too. That bitch set us up for failure. When I find her, I'll kill her myself."**
+>
+>>[!failure]- The club is too crowded and chaotic for you to notice anything unusual in the shadows.
+
 
 ---
 ### Fight, Fight, Fight
@@ -96,7 +104,7 @@ The air shimmers around the enraged group of mercs, as if they have been transpo
 One of them raises his tone condescendingly, accompanied by a shooing gesture and indignant expressions from the other members of his party. "Go on, fuck off then."
 
 >[!success]- DC 13 [[Stats#🧠 Wisdom|Wisdom]] check, from the most well-studied party member
->Staring back at him, you feel as though you are looking into a mirror. You've seen this trick before. Each one of them is using an [[Illusory Disguise]], attempting to look more like you. The cracks in the illusion are beginning to show.
+>Staring back at one of the group, you feel as though you are looking into a mirror. You've seen this trick before. Each one of them is using an [[Illusory Disguise]]. They are attempting to look more like you, but the cracks in their illusions are beginning to show.
 >>[!question]- DC 10 [[Stats#👁️ Perception|Perception]] check, from any party member (GM whispers)
 >>You are able to see right through their cheap party tricks. You notice subtle, bubble-like distortions manifesting around each of their waists, in the shape of holstered blades. They have been concealing weapons; clearly looking for a fight. Judging by their agitated expressions and specific disguises, it appears that they were planning to ambush your party, avoiding suspicion by using your reputation. Relaying this information to the rest of your party will definitely cause the doppelgangers to attack, but will also provide you an advantageous window of opportunity.
 >>*(Here, the player should be allowed to use [[Dispel Magic]] or something similar to dispel the illusion, starting the fight and being able to predict their attacks. If the players have not dispelled the illusion, then the player party will be **off-guard.**)*
@@ -131,22 +139,22 @@ Pointing the tip of a blade against (nearest player)'s throat, one of the mercs 
 >Beneath them are faces you know well.
 >
 >Faces you’ve trained alongside for years, trusted with your lives in the crucible of the Military Academy.
->There's **Navarre, with the jagged scar above his left eye that he got during the Ashfall Ridge exercise**, now staring blankly at the ornate ceiling of the Lux Aeterna, a dark stain blooming on his chest.
->And **Elara, whose infectious laughter used to fill the mess hall**, her usually vibrant expression slack, a trickle of blood escaping the corner of her lips.
->The third, **Markus, who always had your back in sparring sessions and boasted he'd buy the first round after this mission**, lies twisted at an unnatural angle, his own weapon fallen just out of reach.
+>There's **Navarre**, with the jagged scar above his left eye that he got during the Ashfall Ridge exercise, now staring blankly at the ornate ceiling of the Lux Aeterna, a dark stain blooming on his chest.
+>And **Isabeau**, whose infectious laughter used to fill the mess hall, her usually vibrant expression slack, a trickle of blood escaping the corner of her lips.
+>The third, **Johnathan**, who always had your back in sparring sessions and boasted he'd buy the first round after this mission, lies twisted at an unnatural angle, his own weapon fallen just out of reach.
 >
->Each of them are donning new, unfamiliar tattoos. Crimson thorns wrap around their arms like veins, with bright blue patches appearing throughout, almost dripping like fresh paint.
+>Each of them are donning new, unfamiliar tattoos. Crimson thorns wrap around their arms like veins, with bright blue patches appearing throughout, dripping like fresh paint.
 >
->You hear the sound of frantic footsteps pounding down the corridor outside. The door to the club area bursts open, slamming against the wall with a crack that makes you flinch.
+>You hear the sound of frantic footsteps pounding down the corridor outside. The door to the club area bursts open, slamming against the wall with a crack.
 >
 >Professor Thorne stumbles into the room, chest heaving, her usually composed features etched with a desperate alarm that morphs instantly into wide-eyed horror.
 >She stops dead, a choked sound caught in her throat.
 >
->After a moment that stretches into an eternity, the Professor seems to gather herself, kneeling over Markus. He coughs up small sputters of blood as the Professor places her hands a few inches above his body. With blinding flashes of green light and the sound of crackling energy, his wounds begin to close, his breathing growing calmer.
+>After a moment that stretches into an eternity, the Professor seems to gather herself. She kneels over Johnathan, placing her hands a few inches above his body as he coughs up small sputters of blood. Blinding flashes of green light accompany the sound of crackling energy, and his wounds begin to close, his breathing growing calmer.
 >
->She repeats this process twice, frantically and without another word. The third time, however, the light is dim, the crackling sound unbearably quiet. Thorne lets out an exasperated, defeated gasp.
->Finally, her eyes, glistening with unshed tears and a terrifying clarity, lift to meet yours.
->Her voice, when she finally speaks, is a raw whisper, trembling with a profound, soul-deep betrayal.
+>She repeats this process twice, frantically and without another word. The third time, however, the light is dim, and the crackling sound unbearably quiet. Thorne lets out an exasperated, defeated gasp.
+>Her eyes, glistening with unshed tears and a terrifying clarity, lift to meet yours.
+>Her voice, when she finally speaks, is a raw whisper, trembling with a soul-deep betrayal.
 >
 >"By the gods...
 >What have you *done*?"
@@ -154,5 +162,3 @@ Pointing the tip of a blade against (nearest player)'s throat, one of the mercs 
 
 >[!failure]- **If the players are defeated**
 >The mercenaries escape, leaving you injured and humiliated. The professor arrives too late to intervene in the fight, but just in time to tend to your wounds. The encounter leaves you shaken, and the celebratory mood is completely shattered.
-
----

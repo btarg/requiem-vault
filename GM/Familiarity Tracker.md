@@ -23,6 +23,7 @@ kanban-plugin: board
 - [ ] `pf2:2` 🌌 [[Dispel Magic]]
 - [ ] `pf2:2` 🌌 [[Shadow Blast]]
 - [ ] `pf2:1` 💥 [[Haste]]
+- [ ] `pf2:1` 💥 [[Force Barrage]]
 - [ ] `pf2:2` 💥 [[Resilient Sphere]]
 - [ ] `pf2:2` ✨ [[Holy Light]]
 - [ ] `pf2:2` ✨ [[Cloak of Light]]
@@ -30,6 +31,7 @@ kanban-plugin: board
 - [ ] `pf2:2` ✨ [[Chromatic Ray]]
 - [ ] `pf2:2` 🧪 [[Acidic Burst]]
 - [ ] `pf2:2` 🧪 [[Corrosive Body]]
+- [ ] `pf2:2` 🧪 [[Necrotic Radiation]]
 
 
 ## 🧠 Known

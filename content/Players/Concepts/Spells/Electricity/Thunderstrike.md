@@ -26,8 +26,4 @@ You call down a crackling tendril of lightning accompanied by a deafening clap o
     -   **Critical Failure (on save):** The creature takes double damage.
 
 ---
-**Heightened (+1)**
-- The electricity damage increases by \(1d12\) and the force damage increases by **1d4**
-
----
 *Tags: #spell #level1 #electricity #force #attack #concentrate #manipulate #arcane #primal
