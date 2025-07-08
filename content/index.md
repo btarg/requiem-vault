@@ -6,7 +6,11 @@ title: Soul Linking One-Shot Main Page
 This vault contains the rules for the Soul Linking One-Shot campaign.
 *This system is a draft and subject to change.*
 
+## Getting Started
+
 >[!tip] Click [here](https://btarg.github.io/requiem-pathfinder-preact/) to access your character sheet, where you'll find your [[Soul Linking Overview|Spell Inventory]] and buttons to roll dice.
+
+Check the [[Starting out]] page for lore details and a basic introduction to your characters.
 
 ## Core Mechanics
 
