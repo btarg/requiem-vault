@@ -1,6 +1,5 @@
 The room on the left of the Library seems impossibly tall. Its size in general is chimerical, as if you have entered a wholly different building. Standing proudly at its centre is a beautiful magical wellspring, each individual spell orbiting gracefully like tiny solar systems. The room is symmetrical, with five tables neatly laid out on either side on floors raised by three steps. The central aisle leads toward the mesmerising blue planets of the Draw Point, though there is evidently more to this room.
 
-While taking this all in, you register another growl, though you're not sure from where.
 
 >[!question]- Check the bookshelves
 >The bookshelves here are of ridiculous stature. There are ladders either side of the room for access to the higher shelves.
@@ -16,6 +15,6 @@ While taking this all in, you register another growl, though you're not sure fro
 >>[!success] DC 15 Perception
 >>You notice something strange about the tables... on the left side, there are six tables - but on the right, there are only five. This seems eerily out-of-place for an otherwise meticulously symmetrical room.
 >
->You jump back down the four steps and return the central aisle.
+>A sound like flapping wings from above makes you jump, and you quickly head back down the four steps, returning to the central aisle shaken.
 
 ![[library-source.jpg]]
