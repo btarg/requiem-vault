@@ -5,6 +5,7 @@ The Great Library stands as a breathtakingly imposing Art Nouveau bastion, once 
 ### Preparing to enter
 
 Before you begin to walk toward the Library, you take a moment to prepare. You move to the back of your armoured truck, where a Draw Point has been set up for you.
+The Draw Point is a pulsing, breathing orb of energy locked behind thick reinforced glass, which occasionally reaches out an arcing tendril of electricity as you hover your hand close to it. A sophisticated network of tubes extracts Ichor from the air to feed the artificial wellspring.
 
 The draw list is as follows:
 *(Players should be given the option to roll 1d4 to pick a random one from the list)*
@@ -37,13 +38,13 @@ You push near-blindly through layers of barbed wire-topped fences, each adorned 
 >You notice that the strobing lights inside the library appear to be moving. Not like a light show at a club or concert; it looks more like many glowing objects are darting back and forth inside. The flashing seems to become more erratic the closer you are to the Library's entrance. 
 
 >[!question]- Examine the entrance
->The towering, ornate doors have been boarded up. The flimsy planks hastily bolted to door's the warped steel and shards of glass are beginning to rot; entering through here will be trivial.
+>The towering, ornate doors have been boarded up. The flimsy planks hastily bolted to door's the warped steel are beginning to rot; entering through here will be trivial.
 
 ## Entering the Library
 
 Upon stepping into the building, you are immediately surrounded by bright blue, flame-like creatures. They swirl overhead in graceful arcs, wispy and gaseous, flickering like living embers. Lighting the dark room with their eerie neon glow, they dive toward dusty, leather-bound tomes, phasing through the pages. Then, leaving an icy breeze in their wake, they dart toward a dancing blue flame at the end of the room.
 
-The candles are unusually lit. Someone has been here before.
+The candles are unusually lit. Someone has been here recently.
 
 ![[library-source2.jpg]]
 
@@ -64,10 +65,20 @@ The candles are unusually lit. Someone has been here before.
 >[!question]- **Recall knowledge about the wisps** ([[Stats#🧠 Wisdom|WIS]] DC 8)
 >You have read about these creatures before. **Ichor Wraiths** are the arcane world's corpse-flies. They feed on the magic which begins to seep from mages' books and Draw Points as they begin to degrade. They are not as frail as they look.
 
+### Moving up
+
+All players roll a [[Stats#👁️ Perception|Perception]] check. If two or more roll higher than **DC 10** then it succeeds.
+
+>[!success] You are stopped in your tracks by a low, guttural growl. It seems to be coming from a room up ahead and to the left. *(Players can choose to go to the [[Second Library Room]] to investigate)*
+
+>[!failure] Was that your stomach growling? You haven't eaten for a few hours. You must refocus and press on.
+
 >[!tip]- **(when close enough) Investigate the blue flame**
 >At the far end of the long room, a large, spiralling blue flame flickers and twists. As you draw closer, you realize the wisp-like creatures are converging here, forming a cyclone of Ichor that sweeps up and then scatters torn pages. Despite its fiery appearance, the flame exudes a chilling breeze. Moving to close to it is sure to be perceived as a threat.
 >>[!question]- If the players know enough about the Wraiths...
 >>Before you move away, however, you notice something else. More Ichor Wraiths glide into the blue flame, beginning to coalesce into one writhing mass. They are anticipating danger, and bolstering their strength significantly in response. The room feels much, much colder.
+
+### The players pursue the flame
 
 The air suddenly feels a lot less still. Their **(GM Note: call them Ichor Wraiths if the players know this)** frantic movements have inexplicably begun to slow, shifting into something more deliberate, more calculating, like a wary animal sizing up a potential threat. The circling overhead has taken on a new meaning. You are their prey.
 
