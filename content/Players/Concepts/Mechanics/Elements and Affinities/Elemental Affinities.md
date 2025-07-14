@@ -13,7 +13,7 @@ Target takes double damage. Attacker gains 1 additional Action.
 No special effect. [[Critical Hits and Knockdowns|Critical Hits]] against the target will act like they are **WEAK,** knocking them down. (See [[Critical Hits and Knockdowns]])
 ### 2. RESIST
 Target reduces incoming damage.
-[[Elements#⚔️ Physical (PHYS)|Physical]] damage is reduced by [[Stats#🛡️Vitality|Vitality]] the character's stat, while Magical damage (any element other than PHYS) is reduced by the character's [[Stats#💙 Spirit|Spirit]] stat. Critical Hits still act the same.
+[[Elements#⚔️ Physical (PHYS)|Physical]] damage is reduced by the character's [[Stats#🛡️Vitality|Vitality]] stat, while Magical damage (any element other than PHYS) is reduced by the character's [[Stats#💙 Spirit|Spirit]] stat. Critical Hits still act the same.
 ### 3. NULL
 Immune to damage from this element, including Crits. It does nothing, wasting the attacker's turn.
 ### 4. DRAIN

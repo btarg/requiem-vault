@@ -1,7 +1,7 @@
 **Level:** 1 ([[Ranks and Levels#Soul Link Ranks|SL Rank 1]])
 **Actions:** `pf2:1` to `pf2:3` (1 to 3 Actions)
 **Element:** [[Elements#💥 Force|💥 Force]]
-**Source:** Player Core pg. 332 2.0
+**Source:** Player Core pg. 332 2.0 (Adapted for campaign rules)
 
 ---
 
@@ -18,14 +18,14 @@ You manifest and fire shards of solidified magical force toward your enemies, st
 
 ## Effects
 
--   You fire a shard of solidified magic toward a creature that you can see. It automatically hits and deals \(**1d4+1**\) force damage.
+-   You fire a shard of solidified magic toward a creature that you can see. It automatically hits and deals **1d4+1** force damage.
 -   For each additional action you use when Casting the Spell (up to 2 additional actions for a total of 3 actions), you fire an additional shard.
 -   You choose the target for each shard individually. You can target the same creature multiple times.
 -   If you shoot more than one shard at the same target, combine the damage before applying bonuses or penalties to damage, resistances, weaknesses, and so forth.
 
-    -   **1 Action:** Fire one shard, dealing \(**1d4+1**\) force damage.
-    -   **2 Actions:** Fire two shards, each dealing \(**1d4+1**\) force damage. You can target one creature twice or two different creatures once each.
-    -   **3 Actions:** Fire three shards, each dealing \(**1d4+1**\) force damage. You can target one creature three times, one creature twice and another once, or three different creatures once each.
+    -   `pf2:1` **One Action:** Fire one shard, dealing **1d4+1** force damage.
+    -   `pf2:2` **Two Actions:** Fire two shards, each dealing **1d4+1** force damage. You can target one creature twice or two different creatures once each.
+    -   `pf2:3` **Three Actions:** Fire three shards, each dealing **1d4+1** force damage. You can target one creature three times, one creature twice and another once, or three different creatures once each.
 
 ---
-*Tags: #spell #level1 #force #attack #concentrate #manipulate #arcane #occult #pfsstandard #playercore*
+*Tags: #spell #level1 #force #attack #concentrate #manipulate #arcane #occult #pfsstandard #playercore #adapted

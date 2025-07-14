@@ -20,10 +20,10 @@ You flood the target's mind with a torrent of conflicting and strange impulses, 
 
 -   The effects are determined by the target's [[Saving Throws#Will|Will save]]. You can Dismiss the spell.
 
--   **Critical Success:** The target is unaffected.
--   **Success:** The target babbles incoherently and is **Stunned 1.**
--   **Failure:** The target is **Confused** for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
--   **Critical Failure:** The target is **Confused** for 1 minute, with no save to end early.
+	-   **Critical Success:** The target is unaffected.
+	-   **Success:** The target babbles incoherently and is **Stunned 1.**
+	-   **Failure:** The target is **Confused** for **1 minute** (around **10 rounds of combat**). They can attempt a new save at the end of each of its turns to end the confusion.
+	-   **Critical Failure:** The target is **Confused** for 1 minute, with no save to end early.
 
 
 ---

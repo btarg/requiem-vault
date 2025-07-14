@@ -75,9 +75,7 @@ ___
 
 ## Reserve Spells (Only for Draw List)
 
-1. `pf2:2` [[Phantasmal Killer]] **(Level 4):** Manifest a creature of nightmare in the target's mind, potentially frightening them to death.
-	- **Element:** [[Elements#🌀 Psychic (PSY)|🌀 Psychic (PSY)]]
-2. `pf2:2` [[Corrosive Body]] **(Level 7):** Transform your body into a shifting form of living, highly reactive chemicals.
+1. `pf2:2` [[Corrosive Body]] **(Level 7):** Transform your body into a shifting form of living, highly reactive chemicals.
 	- **Element:** 🧪 Chemical
 
 

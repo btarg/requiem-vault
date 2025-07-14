@@ -25,6 +25,7 @@ kanban-plugin: board
 - [ ] `pf2:1` 💥 [[Haste]]
 - [ ] `pf2:1` 💥 [[Force Barrage]]
 - [ ] `pf2:2` 💥 [[Resilient Sphere]]
+- [ ] `pf2:1` ✨ [[Heal]]
 - [ ] `pf2:2` ✨ [[Holy Light]]
 - [ ] `pf2:2` ✨ [[Cloak of Light]]
 - [ ] `pf2:2` ✨ [[Dazzling Flash]]
