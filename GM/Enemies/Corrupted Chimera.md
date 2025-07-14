@@ -73,7 +73,7 @@ A now-abandoned tool of war, this creature is a disgusting perversion of magitek
 
 1.  `pf2:1` [[Fear]] **(Level 1):** Fill a creature with dread, potentially making them frightened.
     -   **Element:** [[Elements#🌀 Psychic|🌀 Psychic]]
-2. [[Corrosive Haze]] **(Level 6):** Unleash a cloud of corrosive acid.
+2. `pf2:2` [[Corrosive Haze]] **(Level 6):** Unleash a cloud of corrosive acid.
 	- **Element:** [[Elements#🧪 Chemical (CHEM)|🧪 Chemical]]
 3.  `pf2:2` [[Illusory Object]] **(Level 1):** Create a silent, immobile, visual illusion of an object. Perfect for creating fake walls, pits, or cover in its lair.
     -   **Element:** [[Elements#🌀 Psychic|🌀 Psychic]]
