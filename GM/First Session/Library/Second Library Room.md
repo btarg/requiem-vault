@@ -40,7 +40,7 @@ The door slams shut behind you with a gust of wind, as it blows through the shat
 >>>>>[!question]- Push through the illusion
 >>>>>Trusting your senses, you step forward into the shimmering wall of the hallway.
 >>>>>>[!success]
->>>>>>The illusion shatters around you like black glass, the sound echoing only in your mind. For a brief moment, you are back in the main hall of the Great Library, the familiar space a welcome sight. Then, with a deafening slam, the doors to the wellspring room swing shut behind you, and a faint, metallic laugh echoes in your thoughts. You are still trapped.
+>>>>>>The illusion shatters around you like black glass, the sound echoing only in your mind. For a brief moment, you are back in the main hall of the Great Library, the familiar space a welcome sight. Then, with a deafening slam, the doors to the wellspring room swing shut behind you, and a faint, metallic laugh echoes in your thoughts. Jolted from some kind of trance by the sound, you realise that you are still trapped with the others. However, you feel confident that you might see through any further psychological tricks. *You gain a +5 to all Will Saves until you leave.*
 
 You notice there are exactly *(four/party count)* books laid out on the tables, each seemingly waiting for a specific reader.
 
