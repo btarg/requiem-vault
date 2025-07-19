@@ -10,7 +10,7 @@ The players are greeted by two [[Abyssal Wolf|Abyssal Wolves]]
 
 ## Defeating the Wolf
 
-The Wolf is knocked to the ground. Unable to stand and fight, it accepts defeat, twisting and contorting violently in its death throes. Once it finally stops convulsing, the corrupted carcass oozes a dark blue fluid. The beast's suffering has been put to an end.
+The last wolf is knocked to the ground. Unable to stand and fight, it accepts defeat, twisting and contorting violently in its death throes. Once it finally stops convulsing, the corrupted carcass oozes a dark blue fluid. The beast's suffering has been put to an end.
 
 You make your way back to the main entrance, where the magically sealed doors now stand inert, the ward's empty veins faded and cold. Hours crawl by as you sit on the steps and keep watch, the adrenaline slowly ebbing away, replaced by a bone-deep weariness. Outside, the world has plunged into inky blackness.
 

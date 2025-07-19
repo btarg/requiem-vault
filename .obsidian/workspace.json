@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,13 +276,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bb4777f957f8a6c",
+  "active": "2981c34d7e82b70c",
   "lastOpenFiles": [
+    "content/Players/Starting out.md",
+    "GM/Enemies/Corrupted Chimera.md",
+    "GM/Enemies/Abyssal Wolf.md",
     "GM/First Session/First session start.md",
     "GM/Session map.canvas",
     "content/Players/Concepts/Spells/Psychic/Fear.md",
-    "GM/Enemies/Corrupted Chimera.md",
-    "GM/Enemies/Abyssal Wolf.md",
     "GM/First Session/Library/Second Library Room.md",
     "GM/First Session/Library/Library final encounter.md",
     "content/Players/Concepts/Mechanics/Conditions.md",
@@ -305,7 +306,6 @@
     "Pasted image 20250713144915.png",
     "library-source2.jpg",
     "GM/Characters/Ben's Character.md",
-    "content/Players/Starting out.md",
     "library-source.jpg",
     "GM/Enemies/Doppelganger Merc.md",
     "GM/Characters",
