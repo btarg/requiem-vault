@@ -21,9 +21,9 @@ You assault the target's mind with pure terror, planting a seed of fear that can
 -   You plant fear in the target; it must attempt a [[Saving Throws#Will|Will save]].
 
     -   **Critical Success:** The target is unaffected.
-    -   **Success:** The target is frightened 1.
-    -   **Failure:** The target is frightened 2.
-    -   **Critical Failure:** The target is frightened 3 and is fleeing for 1 round.
+    -   **Success:** The target is [[Conditions#Frightened|Frightened]] 1.
+    -   **Failure:** The target is [[Conditions#Frightened|Frightened]] 2.
+    -   **Critical Failure:** The target is [[Conditions#Frightened|Frightened]] 3 and is fleeing for 1 round.
 
 ---
 *Tags: #spell #level1 #psychic #emotion #fear #debuff #concentrate #manipulate #arcane #divine #occult #primal #legacycontent #adapted*

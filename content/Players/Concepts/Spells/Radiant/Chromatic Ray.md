@@ -39,7 +39,7 @@ You send out a ray of shimmering, coloured light streaming toward your enemy, wi
     *   It must also succeed at a [[Saving Throws#Will|Will save]] or be teleported 120 feet directly away from you (if there isn't room for it to appear there, it appears in the nearest open space).
 8.  **Intense Colour Ray** ([[Elements#✨ Radiant (RAD)|✨ Radiant]])
     *   The target is **Dazzled** until the end of your next turn, or blinded if your attack roll was a critical hit.
-    *   Roll again on this table (rerolling any result of 8) and apply the effects of the new colour ray in addition to the **Dazzled** condition. The additional ray uses the original attack roll and its own elemental type.
+    *   Roll again on this table (rerolling any result of 8) and apply the effects of the new colour ray in addition to the [[Conditions#Dazzled|Dazzled]] condition. The additional ray uses the original attack roll and its own elemental type.
 
 ---
 *Tags: #spell #level4 #prismatic #light #attack #arcane #occult

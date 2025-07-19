@@ -15,7 +15,7 @@ You infuse a target with magical speed, allowing them to act faster and move qui
 
 ## Effects
 
-- The target gains the [[Conditions#Quickened|Quickened]] condition, allowing them to perform an extra Stride or Strike action each turn.
+- The target gains the [[Conditions#Quickened|Quickened]] condition, allowing them to perform an extra **Stride or Strike** action each turn (but *only* a Stride or Strike).
 - The target gains a +1 status bonus to AC and [[Saving Throws#Reflex|Reflex saving throws]].
 - When the spell ends, the target becomes [[Conditions#Slowed|Slowed 1]] for 1 round as the energy fades.
 

@@ -6,7 +6,7 @@ The hairs on the back of your neck stand up. You are not alone, and it knows you
 
 ***ROLL INITIATIVE***
 
-The players are greeted by one [[Abyssal Wolf]]
+The players are greeted by two [[Abyssal Wolf|Abyssal Wolves]]
 
 ## Defeating the Wolf
 

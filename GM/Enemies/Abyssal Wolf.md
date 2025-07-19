@@ -9,58 +9,58 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 
 **Stats:**
 
-* **HP:** 75
+* **HP:** 45
 * **AC:** 15
-* **Speed:** 10 ft. per action
-* **Bounty Value:** 35gp
+* **Speed:** 15 ft. per action
+* **Bounty Value:** 30gp
 
 **Attributes:**
 
-* **⚔️ Strength:** 15
+* **⚔️ Strength:** 10
 * **💙 Spirit:** 0
 * **❤️ Vitality:** 5
-* **🏃 Speed:** 30
+* **🏃 Speed:** 45
 * **✨ Magic:** 5
 * **🍀 Luck:** 0
-* **🗣️ Influence:** 8
+* **🗣️ Influence:** 5
 * **👁️ Perception:** 0
 * **🧠 Wisdom:** 0
 
 **Resistances, Weaknesses, Immunities:**
 
-* **Resistances:** ⚔️ Physical, ❄️ Cold
+* **Resistances:** ⚔️ Physical, 🧪 Chemical
 * **Weaknesses:** 🌀Psychic, ✨ Radiant
-* **Immunities:** 🧪 Chemical
-* **Condition Immunities:** Poisoned
+* **Immunities:** 🌌 Void
 
 ---
 ## Abilities
 
-**Abyssal Endurance:** The Abyssal Wolf’s corrupted flesh grants it resistance to non-magical physical damage and immunity to chemical effects.
+**Abyssal Endurance:** The Abyssal Wolf’s corrupted flesh grants it resistance to non-magical Physical damage and Chemical effects.
 
 ---
 
 ## Actions
 
-`pf2:2` **Corrupted Jaws:** *Melee Attack:* reach 5 ft., one target.  
-*Hit:* 1d8+3 ⚔️ Physical damage plus **Abyssal Wolf Fangs (poison)**.
+`pf2:2` **Lesser Corrupted Jaws:** *Melee Attack:* reach 5 ft., one target.
+*Hit:* 1d6 ⚔️ Physical damage plus **Abyssal Catalyst Venom**.
 
-`pf2:1` **Claw:** *Melee Attack:* reach 5ft., one target.
-*Hit:* 1d6 ⚔️ Physical damage
+`pf2:1` **Rending Claw:** *Melee Attack:* reach 5 ft., one target.
+*Hit:* 1d6 ⚔️ Physical damage.
 
-`pf2:2` **Howl**: The wolf unleashes a terrifying howl, allowing it to [Demoralize](https://app.demiplane.com/nexus/pathfinder2e/actions/demoralize-rm) all enemies within 30 feet. Wolves within 100 feet can spend a reaction to join the howl, causing the effect to emanate from them as well. This affects additional enemies within 30 feet of them and uses the caustic wolf’s [[Stats#🗣️ Influence|Intimidation (Influence)]] check with a –4 circumstance penalty. Enemies cannot be affected by the howl more than once, even if they are near more than one howling wolf. All creatures targeted by this effect are temporarily immune for 24 hours. 
+`pf2:2` **Howl**: The wolf unleashes a terrifying howl, allowing it to [Demoralize](https://app.demiplane.com/nexus/pathfinder2e/actions/demoralize-rm) all enemies within 30 feet.
+	Wolves within 100 feet can spend a reaction to join the howl, causing the effect to emanate from them as well. This affects additional enemies within 30 feet of them and uses the Abyssal Wolf’s [[Stats#🗣️ Influence|Intimidation (Influence)]] check with a –4 circumstance penalty. Enemies cannot be affected by the howl more than once, even if they are near more than one howling wolf. All creatures targeted by this effect are temporarily immune for 24 hours. 
 
-### Abyssal Wolf Fangs (Poison):  
-*Injury, Chemical*  
-*Saving Throw:* **DC 15** [[Saving Throws#Fortitude|Fortitude]]  
+### Lesser Abyssal Catalyst Venom
+*Injury, Chemical*
+*Saving Throw:* **DC 12** [[Saving Throws#Fortitude|Fortitude]]
 *Maximum Duration:* 4 rounds
 *Onset:* Immediate
 *Frequency:* 1/round
-- *Stage 1:* **1d6** 🧪 Chemical damage (1 round)
-- *Stage 2:* **2d6** 🧪 Chemical damage (1 round)
-- *Stage 3:* **3d6** 🧪 Chemical damage (1 round)
+-   *Stage 1:* **1d4** 🧪 Chemical damage (1 round)
+-   *Stage 2:* **1d4** 🧪 Chemical damage 1 (1 round)
+-   *Stage 3:* **2d4** 🧪 Chemical damage 1 (1 round)
 
-*Description:* The wolf’s bite injects a glowing blue toxin that burns and corrodes flesh, dealing chemical damage each round as the corruption spreads.
+*Description:* The wolf’s bite injects a glowing blue toxin that burns and corrodes flesh, dealing chemical damage each round as the corruption spreads. Only one stack may apply at a time.
 
 ___
 
@@ -77,6 +77,8 @@ ___
 
 1. `pf2:2` [[Corrosive Body]] **(Level 7):** Transform your body into a shifting form of living, highly reactive chemicals.
 	- **Element:** 🧪 Chemical
+2. `pf2:2` [[Corrosive Haze]] **(Level 6):** Unleash a cloud of corrosive acid.
+	- **Element:** [[Elements#🧪 Chemical (CHEM)|🧪 Chemical]]
 
 
 ---

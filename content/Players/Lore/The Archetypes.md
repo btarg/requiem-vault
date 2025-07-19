@@ -14,7 +14,7 @@ Every choice you’ve ever made has been guided by faith — every choice but th
 
 >[!danger] You are [[Elemental Affinities#0. WEAK|WEAK]] to [[Elements#🌌 Void|🌌 Void]].
 
-## The Chemist
+## ~~The Chemist~~ (Liam)
 
 The discovery of the Abyssal Catalyst has dramatically altered the scientific landscape. The way in which its energy warps the living is almost *beautiful.* That's what you tell yourself, anyway. Your flesh is delicate, paper-thin and flaking away — yet a permanent, excruciating itch forces your hand. You claw yourself apart, a racking cough drawing blood from your fragile throat, gasping for breath as your lungs collapse again. It *fascinates* you. Perhaps, at ground zero, you might learn enough about this affliction to buy yourself some more time. There is no better way of studying the Corruption than by being your own Guinea pig. You will be the one to spur the greatest scientific revolution since humans discovered how to control Ichor. Everyone else is but a means to an end.
 
@@ -22,7 +22,7 @@ The discovery of the Abyssal Catalyst has dramatically altered the scientific la
 
 >[!danger] You are [[Elemental Affinities#0. WEAK|WEAK]] to [[Elements#💥 Force|💥 Force]].
 
-## The Detective
+## ~~The Detective~~ (Ben)
 
 You have spent years chasing shadows, piecing together fragments of a puzzle that no one else seems to care about. The Corruption took someone from you, someone you loved more than life itself. Their face slips further from memory each day, but the raw, gnawing pain remains. The attacks weren’t random; someone orchestrated that rotting chaos, unleashing hell upon the innocent, and you’ll be damned if they walk free. If nobody else is capable of hunting these monsters, you will. The Academy taught you that Sorcery is a tool for justice. And you will be judge, jury and executioner. The void whispers to you, its cold embrace a twisted comfort, and you heed its call.
 
@@ -30,7 +30,7 @@ You have spent years chasing shadows, piecing together fragments of a puzzle tha
 
 >[!danger] You are [[Elemental Affinities#0. WEAK|WEAK]] to [[Elements#✨ Radiant (RAD)|✨ Radiant]].
 
-## The Adventurer
+## ~~The Adventurer~~ (Kieran)
 
 Years of training led up to this moment. You're finally here, the hero of the story. Everyone will know your name; people will speak it with a sparkle in their eyes, as if recounting tales of old — you are the new folklore. You have worked hard for this position, climbing the ranks, trampling underfoot every sorcerer you deemed lesser than yourself. Such is the way of the world: only the strongest will survive. You're still daydreaming of blinding spotlight when you arrive at The Great Library. You'll show them. *You,* and you alone, are the protagonist.
 

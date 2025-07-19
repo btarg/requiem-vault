@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "1baeeb8a83462d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/Enemies/Corrupted Chimera.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corrupted Chimera"
-            }
-          },
-          {
             "id": "f47a3b6f3394f6c8",
             "type": "leaf",
             "state": {
@@ -47,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "The Archetypes"
+            }
+          },
+          {
+            "id": "d6e75c8f8881ce85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Concepts/Mechanics/Conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conditions"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Stats"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "d674f4419363b074",
@@ -76,12 +75,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/First Session/Library/Second Library Room.md",
+                "file": "GM/Enemies/Corrupted Chimera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Library Room"
+              "title": "Corrupted Chimera"
+            }
+          },
+          {
+            "id": "2981c34d7e82b70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/First Session/Library/Library final encounter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Library final encounter"
+            }
+          },
+          {
+            "id": "1baeeb8a83462d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Concepts/Spells/Psychic/Fear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fear"
             }
           }
         ]
@@ -141,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.51103591918945,
-    "collapsed": true
+    "width": 256.51103591918945
   },
   "right": {
     "id": "b884c1b408077260",
@@ -237,19 +263,24 @@
   },
   "active": "0614c9f8fca5ecf9",
   "lastOpenFiles": [
-    "content/Players/Concepts/Mechanics/Stats.md",
-    "GM/First Session/Library/Second Library Room.md",
-    "content/Players/Lore/The Archetypes.md",
+    "GM/Enemies/Abyssal Wolf.md",
     "GM/Enemies/Corrupted Chimera.md",
+    "GM/First Session/Library/Second Library Room.md",
+    "GM/First Session/Library/Library final encounter.md",
+    "content/Players/Concepts/Mechanics/Conditions.md",
+    "content/Players/Concepts/Mechanics/Stats.md",
+    "content/Players/Concepts/Spells/Force/Haste.md",
+    "content/Players/Concepts/Spells/Radiant/Chromatic Ray.md",
+    "content/Players/Concepts/Spells/Psychic/Fear.md",
+    "GM/Session map.canvas",
+    "content/Players/Lore/The Archetypes.md",
     "content/Players/Concepts/Spells/Chemical/Corrosive Haze.md",
     "content/Players/Concepts/Spells/Force/Force Barrage.md",
-    "GM/Enemies/Abyssal Wolf.md",
     "content/Players/Lore/Backstory.md",
     "content/Players/Concepts/Spells/Psychic/Confusion.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elemental Affinities.md",
     "GM/Familiarity Tracker.md",
     "content/Players/Concepts/Spells/Radiant/Heal.md",
-    "content/Players/Concepts/Spells/Psychic/Fear.md",
     "content/Players/Concepts/Spells/Healing",
     "content/Players/Concepts/Spells/Psychic/Phantasmal Killer.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
@@ -263,11 +294,6 @@
     "library-source.jpg",
     "GM/Enemies/Doppelganger Merc.md",
     "content/index.md",
-    "content/Players/Concepts/Mechanics/Magic/Mastery.md",
-    "content/Players/Concepts/Spells/Void/Curse of Lost Time.md",
-    "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
-    "content/Players/Concepts/Spells/Electricity/Thunderstrike.md",
-    "GM/Session map.canvas",
     "GM/Characters",
     "content/Players/Concepts/Spells/Electricity",
     "quartz/quartz/components/styles/readermode.scss",
