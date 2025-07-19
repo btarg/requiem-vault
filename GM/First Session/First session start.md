@@ -4,8 +4,7 @@ The Great Library stands as a breathtakingly imposing Art Nouveau bastion, once 
 
 ### Preparing to enter
 
-Before you begin to walk toward the Library, you take a moment to prepare. You move to the back of your armoured truck, where a Draw Point has been set up for you.
-The Draw Point is a pulsing, breathing orb of energy locked behind thick reinforced glass, which occasionally reaches out an arcing tendril of electricity as you hover your hand close to it. A sophisticated network of tubes extracts Ichor from the air to feed the artificial wellspring.
+Before you begin to walk toward the Library, you take a moment to prepare. You move to the back of your armoured truck, where a Draw Point has been set up for you: a pulsing, breathing orb of energy locked behind thick reinforced glass, which occasionally reaches out an arcing tendril of electricity as you hover your hand close to it. A sophisticated network of tubes extracts Ichor from the air to feed the artificial wellspring.
 
 The draw list is as follows:
 *(Players should be given the option to roll 1d4 to pick a random one from the list)*

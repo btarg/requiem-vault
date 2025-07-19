@@ -103,15 +103,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Spells/Psychic/Fear.md",
+                "file": "GM/First Session/First session start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fear"
+              "title": "First session start"
+            }
+          },
+          {
+            "id": "1bb4777f957f8a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Starting out.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Starting out"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,18 +276,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0614c9f8fca5ecf9",
+  "active": "1bb4777f957f8a6c",
   "lastOpenFiles": [
-    "GM/Enemies/Abyssal Wolf.md",
+    "GM/First Session/First session start.md",
+    "GM/Session map.canvas",
+    "content/Players/Concepts/Spells/Psychic/Fear.md",
     "GM/Enemies/Corrupted Chimera.md",
+    "GM/Enemies/Abyssal Wolf.md",
     "GM/First Session/Library/Second Library Room.md",
     "GM/First Session/Library/Library final encounter.md",
     "content/Players/Concepts/Mechanics/Conditions.md",
     "content/Players/Concepts/Mechanics/Stats.md",
     "content/Players/Concepts/Spells/Force/Haste.md",
     "content/Players/Concepts/Spells/Radiant/Chromatic Ray.md",
-    "content/Players/Concepts/Spells/Psychic/Fear.md",
-    "GM/Session map.canvas",
     "content/Players/Lore/The Archetypes.md",
     "content/Players/Concepts/Spells/Chemical/Corrosive Haze.md",
     "content/Players/Concepts/Spells/Force/Force Barrage.md",
@@ -289,11 +305,9 @@
     "Pasted image 20250713144915.png",
     "library-source2.jpg",
     "GM/Characters/Ben's Character.md",
-    "GM/First Session/First session start.md",
     "content/Players/Starting out.md",
     "library-source.jpg",
     "GM/Enemies/Doppelganger Merc.md",
-    "content/index.md",
     "GM/Characters",
     "content/Players/Concepts/Spells/Electricity",
     "quartz/quartz/components/styles/readermode.scss",
