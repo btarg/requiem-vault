@@ -10,6 +10,14 @@ You are difficult for one or more creatures to see due to thick fog or some othe
 
 Your eyes are overstimulated or your vision is swimming. If vision is your only precise sense, all creatures and objects are Concealed from you. This means you must succeed a **DC 5 flat check** when targeting with an attack or spell (Area effects aren’t subject to this flat check).
 
+## Drained
+
+Your health and vitality have been depleted as you’ve lost blood, life force, or some other essence. Drained always includes a value. You take a status penalty equal to your drained value on [[Stats#🛡️Vitality|Constitution (Vitality)]]-based rolls and DCs, such as Fortitude saves. You also lose a number of Hit Points equal to your level (minimum 1) times the drained value, and your maximum Hit Points are reduced by the same amount. For example, if you become drained 3 and you’re a 3rd-level character, you lose 9 Hit Points and reduce your maximum Hit Points by 9. Losing these Hit Points doesn’t count as taking damage. Each time you get a full night’s rest, your drained value decreases by 1. This increases your maximum Hit Points, but you don’t immediately recover the lost Hit Points.
+
+## Enfeebled
+
+You’re physically weakened. Enfeebled always includes a value. When you are enfeebled, you take a status penalty equal to the condition value to Strength-based rolls and DCs, including [[Stats#✊Strength|Strength]]-based melee attack rolls, Strength-based damage rolls, and Athletics checks.
+
 ## Frightened
 
 You’re gripped by fear and struggle to control your nerves. The frightened condition always includes a value. You take a status penalty equal to this value to **all your checks and DCs.** Unless specified otherwise, at the end of each of your turns, the value of your frightened condition decreases by 1.
