@@ -10,7 +10,7 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 **Stats:**
 
 * **HP:** 45
-* **AC:** 15
+* **AC:** 13
 * **Speed:** 15 ft. per action
 * **Bounty Value:** 30gp
 

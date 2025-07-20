@@ -42,6 +42,9 @@ The door slams shut behind you with a gust of wind, as it blows through the shat
 >>>>>>[!success]
 >>>>>>The illusion shatters around you like black glass, the sound echoing only in your mind. For a brief moment, you are back in the main hall of the Great Library, the familiar space a welcome sight. Then, with a deafening slam, the doors to the wellspring room swing shut behind you, and a faint, metallic laugh echoes in your thoughts. Jolted from some kind of trance by the sound, you realise that you are still trapped with the others. However, you feel confident that you might see through any further psychological tricks. *You gain a +5 to all Will Saves until you leave.*
 
+---
+## Books
+
 You notice there are exactly *(four/party count)* books laid out on the tables, each seemingly waiting for a specific reader.
 
 ### [[The Archetypes#The Shaman|The Shaman]]'s book
@@ -72,6 +75,27 @@ The pages are not paper, but thin sheets of processed data-slate, complete with 
 
 Because the attack you remember, the one that fuelled your vengeance, was an accident. Friendly fire. An attempt by greedy scientists to harness a grotesque kind of magic which never should have existed. This report frames you as the tragic, collateral survivor of a bureaucratic fuck-up. Your all-consuming, world-burning vengeance — the only thing you have left — is re-contextualized as a pointless, misdirected tantrum. The cold from the report spreads up your arms. For the first time in years, the inferno of your rage feels... small. Smothered. And the only thing left in its place is the freezing, empty void of doubt.
 
+---
+## The Draw Point
+
+Carved into the imposing marble structure which surrounds the Draw Point are the words, ***"Fiat lux et sanitas"*** -- *"Let there be light and health."*
+
+*(Players have the option of rolling 1d4 to pick a random spell)*
+
+1. [[Cloak of Light]] **(Level 4):** Surround yourself in holy light that restores the living and rebuffs undead. 
+	- **Element:** ✨Radiant
+	- **Actions:** `pf2:2`
+2. [[Heal]] **(Level 1):** Restore health to the living or harm the undead.
+	- **Element:** ✨Radiant (Healing)
+	- **Actions:** `pf2:1` to `pf2:3`
+3. [[Lay on Hands]] **(Level 1):** Become infused with potent vital energy.
+	- **Element:** ✨Radiant (Healing)
+	- **Actions:** `pf2:1`
+4. **[[Resilient Sphere]] (Level 4):** Create an immobile sphere of shimmering force around a creature or object, protecting it or trapping it.
+    - **Element:** 💥 Force
+    - **Actions:** `pf2:2`
+
+---
 ## Encounter with the [[Corrupted Chimera]]
 
 As the last book is read, a low, grinding hum fills the impossible space. The light from the central wellspring flickers and dims. A skittering sound echoes from the shadowed ceiling high above — the sound of metallic limbs finding purchase on stone, and the distinct, chilling hum of a cybernetic power core spinning to life. The hunt has begun.

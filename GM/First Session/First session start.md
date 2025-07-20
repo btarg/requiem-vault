@@ -15,9 +15,9 @@ The draw list is as follows:
 2. [[Thunderstrike]] **(Level 1):** A crackling tendril of lightning accompanied by a deafening clap of thunder, shocking and concussing your target.
 	- Element: ⚡Electricity
 	- **Actions:** `pf2:2`
-3. [[Blazing Bolt]] **(Level 2):** A searing ray of fire.
+3. [[Ignition]] **(Level 0):** Cause a target to burst into flames.
     - **Element:** 🔥Fire
-    - **Actions:**  `pf2:1` to `pf2:3`
+    - **Actions:** `pf2:1`
 4. [[Holy Light]] **(Level 3):** A blazing ray of intense light, infused with holy power.
 	- **Element:** ✨Radiant
 	- **Actions:** `pf2:2`

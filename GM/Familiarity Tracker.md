@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] `pf2:3` 🔥 [[Ash Cloud]]
 - [ ] `pf2:2` 🔥 [[Blazing Bolt]]
 - [ ] `pf2:2` 🔥 [[Breathe Fire]]
+- [ ] `pf2:1` 🔥 [[Ignition]]
 - [ ] `pf2:2` ❄️ [[Cone of Cold]]
 - [ ] `pf2:1` ❄️ [[Personal Blizzard]]
 - [ ] `pf2:2` ❄️ [[Ray of Frost]]

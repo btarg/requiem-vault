@@ -1,4 +1,6 @@
-The **Blue Flame** is a **Draw Point**, a rare and powerful Source of Ichor. You may attempt to [[Drawing Spells|Draw]] from it, but doing so comes with significant risks. The flame is unstable, and the **[[Ichor Wraith]]s** are fiercely protective of it. Interacting with the Blue Flame requires careful consideration, as failure will almost certainly lead to catastrophic consequences.
+The **Blue Flame** burns with a terrifying, ethereal glow. This is not a typical **Draw Point**; it is a raw, screaming nexus of power, far more alive and volatile than any other, thrashing and roaring within an ornate, ancient brazier. Into the cold, heavy silver are etched words that serve as both warning and testament: _**"Vis Absoluta Manet"**_ – _Absolute Force Endures._
+
+To attempt to [[Drawing Spells|Draw]] from this tempestuous wellspring is a gamble with ruin. The flame itself is inherently unstable, a barely contained explosion of concentrated magic, and the spectral **[[Ichor Wraith]]s** are its fierce, unrelenting guardians. Any interaction demands the utmost caution and precise control, for to falter, even for a moment, is to invite catastrophic consequences.
 
 ### Stats
 
@@ -6,7 +8,6 @@ HP: Unknown - see "Destroy the Flame"
 AC: 15
 
 ---
-
 ## Player Options
 
 ### 1. **Attempt to Draw from the Flame**
@@ -44,18 +45,18 @@ While you could reach out into the swirling mass of Ichor and leave it entirely 
 2. [[Breathe Fire]] **(Level 1):** Breathe a 15-foot cone of fire.
     - **Element:** 🔥Fire
     - **Actions:** `pf2:2`
-3. [[Cloak of Light]] **(Level 4):** Surround yourself in holy light that restores the living and rebuffs undead. 
-	- **Element:** ✨Radiant
+3. [[Blazing Bolt]] **(Level 2):** A searing ray of fire.
+    - **Element:** 🔥Fire
+    - **Actions:**  `pf2:1` to `pf2:3`
+4. [[Cone of Cold]] **(Level 5):** Unleash a devastating cone of freezing energy.
+	- **Element:** ❄️ Cold
 	- **Actions:** `pf2:2`
-4. [[Chromatic Ray]] **(Level 4):**  Send out a ray of shimmering, coloured light streaming toward your enemy, with a magical effect depending on the ray's colour and its manifested elemental nature.
+5. [[Chromatic Ray]] **(Level 4):**  Send out a ray of shimmering, coloured light streaming toward your enemy, with a magical effect depending on the ray's colour and its manifested elemental nature.
 	  - Element: ✨ Radiant
 	  - **Actions:** `pf2:2`
-5. **[[Haste]] (Level 3):** Infuse a target with incredible speed, granting extra actions and bonuses.
+6. **[[Haste]] (Level 3):** Infuse a target with incredible speed, granting extra actions and bonuses.
     - **Element:** 💥 Force
     - **Actions:** `pf2:1`
-6. **[[Resilient Sphere]] (Level 4):** Create an immobile sphere of shimmering force around a creature or object, protecting it or trapping it.
-    - **Element:** 💥 Force
-    - **Actions:** `pf2:2`
 7. **[[Shadow Blast]] (Level 4):** Hurl a projectile of solidified shadow that damages and potentially drains strength.
     - **Element:** 🌌 Void
     - **Actions:** `pf2:2`

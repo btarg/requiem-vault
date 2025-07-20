@@ -1,4 +1,4 @@
-*Medium Construct (Abyssal, Magitek), Neutral*
+*Undead Abyssal Construct (Medium creature)*
 
 ---
 ## Description
@@ -10,7 +10,7 @@ A now-abandoned tool of war, this creature is a disgusting perversion of magitek
 
 *   **Level:** 4
 *   **HP:** 65
-*   **AC:** 21
+*   **AC:** 18
 *   **Speed:** 5 ft. per action
 *   **Bounty Value:** 70gp
 
