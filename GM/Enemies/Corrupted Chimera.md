@@ -14,7 +14,7 @@ A now-abandoned tool of war, this creature is a disgusting perversion of magitek
 *   **Speed:** 5 ft. per action
 *   **Bounty Value:** 70gp
 
-*   **⚔️ Strength:** 16
+*   **⚔️ Strength:** 5
 *   **💙 Spirit:** 10
 *   **❤️ Vitality:** 5
 *   **🏃 Speed:** 15
@@ -34,17 +34,17 @@ A now-abandoned tool of war, this creature is a disgusting perversion of magitek
 ---
 ## Abilities
 
-**Unstable Core:** When the Corrupted Cyber-Chimera takes a critical hit, its abyssal power core flares uncontrollably, unleashing a random psychic backlash in a 10-foot emanation. Roll 1d4:
-1.  **Static Pulse:** Each creature in the area is **deafened** for 1 round.
+**Unstable Core:** When the Corrupted Chimera takes a critical hit, its abyssal power core flares uncontrollably, unleashing a random psychic backlash in a 10-foot emanation. Roll **1d4:**
+1.  **Static Pulse:** Nothing happens: proceed to deal critical damage.
 2.  **Flickering Image:** The chimera becomes concealed until the end of its next turn.
-3.  **Pain Feedback:** The creature that critically hit the chimera takes 1d10 [[Elements#🌀 Psychic|Psychic]] damage.
+3.  **Pain Feedback:** The creature that critically hit the chimera takes 1d8 [[Elements#🌀 Psychic|Psychic]] damage.
 4.  **Sudden Fear:** Each creature in the area must succeed at a **DC 18** [[Saving Throws#Will|Will save]] or become [[Conditions#Frightened|Frightened]] 1.
 
 ---
 ## Actions
 
 `pf2:2` **Corrupted Jaws:** *Melee Attack:* reach 5 ft., one target.  
-*Hit:* 1d8+3 ⚔️ Physical damage plus **Abyssal Wolf Fangs (poison)**.
+*Hit:* 1d8+3 ⚔️ Physical damage.
 
 `pf2:1` **Rending Claw:** *Melee Attack:* reach 5ft., one target.
 *Hit:* 1d6 ⚔️ Physical damage
@@ -54,16 +54,6 @@ A now-abandoned tool of war, this creature is a disgusting perversion of magitek
 -   **Success:** The creature is **Dazzled** for 1 round.
 -   **Failure:** The creature treats the entire area of the burst as difficult terrain for 1 minute and is **flat-footed** while inside it, as the ground seems to shift and warp.
 -   **Critical Failure:** As failure, and the creature is also confused for 1 round.
-
-### Abyssal Catalyst Venom
-*Injury, Chemical*
-*Saving Throw:* **DC 15** [[Saving Throws#Fortitude|Fortitude]]
-*Maximum Duration:* 4 rounds
-*Onset:* Immediate
-*Frequency:* 1/round
--   *Stage 1:* **1d6** 🧪 Chemical damage (1 round)
--   *Stage 2:* **2d6** 🧪 Chemical damage and [[Conditions#Clumsy|Clumsy]] 1 (1 round)
--   *Stage 3:* **3d6** 🧪 Chemical damage and [[Conditions#Clumsy|Clumsy]] 1 (1 round)
 
 *Description:* The chimera's bite injects a glowing blue toxin that corrodes flesh and disrupts motor control. Only one stack may apply at a time.
 
@@ -76,13 +66,13 @@ A now-abandoned tool of war, this creature is a disgusting perversion of magitek
     -   **Element:** [[Elements#🌀 Psychic|🌀 Psychic]]
 3.  `pf2:2` [[Confusion]] **(Level 4):** Befuddle a target with strange impulses, causing it to act randomly.
     -   **Element:** [[Elements#🌀 Psychic|🌀 Psychic]]
+4.  `pf2:2` [[Paranoia]] **(Level 2):** Make a creature believe its allies are its enemies, potentially causing it to attack them.
+    -   **Element:** [[Elements#🌀 Psychic|🌀 Psychic]]
 ## Reserve Spells (Only for Draw List)
 
 1.  `pf2:2` [[Illusory Creature]] **(Level 2):** Create a visual illusion of a creature, which can be used as a convincing decoy.
     -   **Element:** [[Elements#🌀 Psychic|🌀 Psychic]]
-2.  `pf2:2` [[Paranoia]] **(Level 2):** Make a creature believe its allies are its enemies, potentially causing it to attack them.
-    -   **Element:** [[Elements#🌀 Psychic|🌀 Psychic]]
-3.  `pf2:2` [[Phantasmal Killer]] **(Level 4):** Manifest a creature of nightmare in the target's mind, potentially frightening them to death.
+2.  `pf2:2` [[Phantasmal Killer]] **(Level 4):** Manifest a creature of nightmare in the target's mind, potentially frightening them to death.
     -   **Element:** [[Elements#🌀 Psychic|🌀 Psychic]]
 
 ---

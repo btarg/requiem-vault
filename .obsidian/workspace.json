@@ -41,23 +41,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Stats.md",
+                "file": "GM/Enemies/Abyssal Wolf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Abyssal Wolf"
+            }
+          },
+          {
+            "id": "a8fe81f5284482a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/First Session/Club/Celebration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Celebration"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d674f4419363b074",
         "type": "tabs",
         "children": [
           {
-            "id": "0614c9f8fca5ecf9",
+            "id": "2981c34d7e82b70c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,34 +82,6 @@
               },
               "icon": "lucide-file",
               "title": "Corrupted Chimera"
-            }
-          },
-          {
-            "id": "908e92371ad0c8a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Players/Concepts/Spells/Void/Accelerated Decomposition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accelerated Decomposition"
-            }
-          },
-          {
-            "id": "2981c34d7e82b70c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/First Session/Library/Library final encounter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Library final encounter"
             }
           },
           {
@@ -125,9 +111,58 @@
               "icon": "lucide-file",
               "title": "Starting out"
             }
+          },
+          {
+            "id": "9b88dc9485480534",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "GM/Familiarity Tracker.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Familiarity Tracker"
+            }
+          },
+          {
+            "id": "0b33d753ab3226dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/Enemies/Ichor Wraith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ichor Wraith"
+            }
+          },
+          {
+            "id": "57f7bbb0ef8c5949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Players/Concepts/Mechanics/Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
+                "file": "GM/Enemies/Abyssal Wolf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elements"
+              "title": "Backlinks for Abyssal Wolf"
             }
           },
           {
@@ -277,18 +312,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6e75c8f8881ce85",
+  "active": "64fd992c08f4d69a",
   "lastOpenFiles": [
-    "content/Players/Concepts/Spells/Void/Accelerated Decomposition.md",
+    "GM/First Session/Club/Celebration.md",
+    "GM/Enemies/Doppelganger Merc.md",
+    "GM/Enemies/Corrupted Chimera.md",
     "content/Players/Concepts/Mechanics/Conditions.md",
-    "content/Players/Concepts/Mechanics/Stats.md",
     "GM/Enemies/Abyssal Wolf.md",
+    "content/Players/Concepts/Mechanics/Stats.md",
+    "GM/Enemies/Ichor Wraith.md",
     "GM/First Session/Library/Library final encounter.md",
     "content/Players/Starting out.md",
-    "GM/Enemies/Corrupted Chimera.md",
+    "GM/Familiarity Tracker.md",
+    "content/Players/Concepts/Spells/Psychic/Fear.md",
+    "content/Players/Concepts/Spells/Radiant/Rad healing/Breath of Life.md",
+    "content/Players/Concepts/Spells/Radiant/Rad healing/Lay on Hands.md",
+    "content/Players/Concepts/Spells/Psychic/Paranoia.md",
+    "content/Players/Concepts/Spells/Radiant/Cloak of Light.md",
+    "content/Players/Concepts/Spells/Radiant/Rad healing",
+    "content/Players/Concepts/Spells/Void/Accelerated Decomposition.md",
     "GM/First Session/First session start.md",
     "GM/Session map.canvas",
-    "content/Players/Concepts/Spells/Psychic/Fear.md",
     "GM/First Session/Library/Second Library Room.md",
     "content/Players/Concepts/Spells/Force/Haste.md",
     "content/Players/Concepts/Spells/Radiant/Chromatic Ray.md",
@@ -298,18 +342,10 @@
     "content/Players/Lore/Backstory.md",
     "content/Players/Concepts/Spells/Psychic/Confusion.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Elemental Affinities.md",
-    "GM/Familiarity Tracker.md",
-    "content/Players/Concepts/Spells/Radiant/Heal.md",
     "content/Players/Concepts/Spells/Healing",
-    "content/Players/Concepts/Spells/Psychic/Phantasmal Killer.md",
-    "content/Players/Concepts/Mechanics/Elements and Affinities/Elements.md",
-    "content/Players/Concepts/Mechanics/Saving Throws.md",
-    "GM/First Session/Club/Celebration.md",
     "Pasted image 20250713144915.png",
     "library-source2.jpg",
-    "GM/Characters/Ben's Character.md",
     "library-source.jpg",
-    "GM/Enemies/Doppelganger Merc.md",
     "GM/Characters",
     "content/Players/Concepts/Spells/Electricity",
     "quartz/quartz/components/styles/readermode.scss",
@@ -318,7 +354,6 @@
     "content/Players/Concepts/Spells/Force",
     "content/Players/Concepts/Spells/Fire",
     "content/Players/Concepts/Spells/Void",
-    "content/Players/Concepts/Spells/Radiant",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/social-image-preview-light.png",

@@ -14,7 +14,7 @@ A small, bright blue, wispy creature that feeds on magic energy.
 *   **Bounty Value:** 10gp
 
 **Attributes:**
-*   **⚔️ Strength:** 5
+*   **⚔️ Strength:** 2
 *   **💙 Spirit:** 5
 *   **❤️ Vitality:** 0
 *   **🏃 Speed:** 20

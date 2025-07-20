@@ -16,11 +16,11 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 
 **Attributes:**
 
-* **⚔️ Strength:** 10
+* **⚔️ Strength:** 3
 * **💙 Spirit:** 0
 * **❤️ Vitality:** 5
 * **🏃 Speed:** 45
-* **✨ Magic:** 5
+* **✨ Magic:** 0
 * **🍀 Luck:** 0
 * **🗣️ Influence:** 5
 * **👁️ Perception:** 0
@@ -57,8 +57,8 @@ A wolf which has been contaminated with Abyssal Catalyst. Its flesh is peeling w
 *Onset:* Immediate
 *Frequency:* 1/round
 -   *Stage 1:* **1d4** 🧪 Chemical damage (1 round)
--   *Stage 2:* **1d4** 🧪 Chemical damage 1 (1 round)
--   *Stage 3:* **2d4** 🧪 Chemical damage 1 (1 round)
+-   *Stage 2:* **2d4** 🧪 Chemical damage 1 (1 round)
+-   *Stage 3:* **3d4** 🧪 Chemical damage and [[Conditions#Clumsy|Clumsy]] 1 (1 round)
 
 *Description:* The wolf’s bite injects a glowing blue toxin that burns and corrodes flesh, dealing chemical damage each round as the corruption spreads. Only one stack may apply at a time.
 

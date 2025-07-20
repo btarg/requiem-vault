@@ -43,7 +43,7 @@ However, not even ten minutes into your night of celebration, something begins t
 >*(Order a drink – 5GP, or free if you've already made a good impression/mention your recent victory – and ask about the Professor.)*
 >
 >>[!success]- **DC 13 [[Stats#🗣️ Influence|Influence]] or [[Stats#💰 Streetwise|Streetwise]] check:**
->>The bartender nods slowly. "Yeah, Professor... sharp woman. Was here a bit ago. Looked like she was waiting for someone, then got a call and seemed agitated. Headed off towards the back, said something about needing fresh air. Some other folks asked about her too, just before you. Didn't like the look of 'em." They might offer a vague description of the Doppelganger Mercs or point towards the service corridor.
+>>The bartender nods slowly. "Yeah, Professor... sharp woman. Was here a bit ago. Looked like she was waiting for someone, then got a call and seemed agitated. Headed off towards the back, said something about needing fresh air. Some other folks asked about her too, just before you. Didn't like the look of 'em."
 >
 >>[!failure]- "Busy night, mate. Seen a hundred faces. Can't recall." The bartender shrugs, already turning to the next customer.
 
@@ -58,7 +58,7 @@ However, not even ten minutes into your night of celebration, something begins t
 >>[!success]- **DC 15** [[Stats#🗣️ Influence|Influence]] check succeeds (or DC 5 if drinks are bought)
 >>A posh-sounding, flamboyant man, impeccably dressed, takes his arm from around a blonde woman's shoulder, turns to you and raises his glass with a surprisingly genuine cheer. Your party has managed to quickly garner a reputation – after all, the Library had been the subject of everyone's nightmares for years now, him included.
 >>"The Professor? Ah, yes, I could never forget that stern look of hers. Of course, she was here about twenty minutes ago. Seemed a bit spooked by something, I must say; she left in quite a hurry towards the back exit. Perhaps it was those dodgy-looking chaps over there, lurking in the corner booth. They certainly don't look like they belong with *this* kind of clientele."
->>He points discreetly with his champagne flute toward a group of suspicious mercenaries.
+>>He points discreetly with his champagne flute toward a group of suspicious -- albeit somewhat familiar -- soldiers.
 >
 >>[!failure]- Influence check fails
 >>As you attempt to grab the attention of the 'poshos', they offer a collective, polite but icy, dismissal. If you brought drinks, one might take a delicate sip, raise an eyebrow, and then turn back to their conversation, leaving the drink untouched.
@@ -68,7 +68,7 @@ However, not even ten minutes into your night of celebration, something begins t
 >>1.  **The Cold Shoulder:** They pointedly ignore further attempts. You'll need a new approach or a different source of information. Perhaps another, less intimidating group, noticed something? (Leads to "Scan for Alternative Observers").
 >>2.  **Gossip Spreads:** One of them whispers loudly enough for you to (barely) overhear with a **DC 14 [[Stats#👁️ Perception|Perception]] check**: "...rather uncouth, trying to barge in. Did you *see* their attire?" Your party gains a temporary -1 to social checks with other NPCs in the club for the next hour as minor, unflattering rumours spread.
 >>3.  **A Sympathetic Outlier:** One of the quieter members of the group, perhaps looking a bit bored, catches your eye as you turn away. If approached alone (requiring a player to subtly split off or wait for an opportunity), they might offer a small piece of information with a **DC 10 [[Stats#🗣️ Influence|Influence]] check**: "Sorry, they can be a bit much. I *think* I saw your Professor talking to the bartender earlier. She looked a bit stressed. I don't know where she went after that." (This directly suggests the **"Talk to the Bartender"** option if not already pursued).
->>4.  **Unintentional Distraction:** Your failed attempt, however brief, causes enough of a minor stir that it draws the attention of another group. The *(number of party members)* of them - all somewhat familiar-looking - stare as you awkwardly walk away. **(Notice the suspicious mercenaries)**
+>>4.  **Unintentional Distraction:** Your failed attempt, however brief, causes enough of a minor stir that it draws the attention of another group. The *(number of party members)* of them - all somewhat familiar-looking - stare as you awkwardly walk away. **(Notice the suspicious soldiers)**
 
 >[!question]- **Scan for Alternative Observers (The Wallflowers)**
 >Not everyone is part of the main throng. Some people prefer to observe from the side-lines.
@@ -82,12 +82,12 @@ However, not even ten minutes into your night of celebration, something begins t
 >
 >>[!failure]- The club is too chaotic, or everyone seems too engrossed in their own affairs to have noticed anything specific.
 
->[!question]- **Notice the suspicious grouo**
+>[!question]- **Notice the suspicious group**
 >
 >>[!success]- At the edge of the club, in a seemingly darkened booth, a familiar group catches your attention. You don't recognise them from the Academy, and something about their presence is disturbing. Their movements are stiff, and their faces seem unnaturally blank, as though they're wearing masks. Their unsettling aura has clearly been noticed, as there is an unusual length of empty space between them and the rest of the room.
 >>
 >>>[!question]- **Approach and observe (DC 5 [[Stats#👁️ Perception|Perception]] check)**
->>> Judging by their attire, the group appear to be mercenaries, rather than military. Some are attempting to hide brightly-coloured tattoos, the designs which you cannot quite make out from this distance. They are all wearing the same uniform, with a distinctive insignia that you vaguely recognise.
+>>> Judging by their attire, the group appear to be not Academy soldiers, but rather mercenaries. Some are attempting to hide brightly-coloured tattoos, the designs which you cannot quite make out from this distance.
 >>> On closer inspection, they look uncannily similar to a group you know...
 >>> *(Here, describe the player character who chose to speak. E.g. The merc has X coloured hair, is X feet tall...)*
 >>
@@ -162,3 +162,5 @@ Pointing the tip of a blade against (nearest player)'s throat, one of the mercs 
 
 >[!failure]- **If the players are defeated**
 >The mercenaries escape, leaving you injured and humiliated. The professor arrives too late to intervene in the fight, but just in time to tend to your wounds. The encounter leaves you shaken, and the celebratory mood is completely shattered.
+
+# End of Session 1
