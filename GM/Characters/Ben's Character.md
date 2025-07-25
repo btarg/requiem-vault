@@ -1,2 +1,0 @@
-- Cybernetically enhanced elf
-- 
