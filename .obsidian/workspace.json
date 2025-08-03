@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/First Session/Library/Blue Flame.md",
+                "file": "GM/First Session/Club/Celebration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blue Flame"
+              "title": "Celebration"
             }
           },
           {
@@ -313,11 +313,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e876573c8b78a89b",
+  "active": "f4aa1cd5270c75b6",
   "lastOpenFiles": [
-    "GM/Limit trackers.md",
-    "GM/Characters/Limit Breaks and Triggers.md",
     "GM/First Session/Library/Blue Flame.md",
+    "GM/Characters/Limit Breaks and Triggers.md",
+    "GM/Limit trackers.md",
     "content/Players/Concepts/Mechanics/Elements and Affinities/Scanning.md",
     "content/Players/Lore/The Archetypes.md",
     "GM/First Session/First session start.md",

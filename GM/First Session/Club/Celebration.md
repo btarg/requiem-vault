@@ -1,4 +1,4 @@
-In the wake of the [[Blue Flame]]'s destruction, you have been invited to the unofficial celebration by the Captain and their unit, who are eager to toast your success. The party is being held at a popular underground club - The Lux Aeterna: a vibrant and chaotic space, increasingly packed with people. Mere hours after your victory, the atmosphere is electric, and for a moment, it seems like they can finally relax.
+In the wake of the [[Blue Flame]]'s destruction, you have been invited to the unofficial celebration by the Captain and their unit, who are eager to toast your success. The party is being held at a popular underground club, The Lux Aeterna. Its ornate, painted ceilings are held up by huge marble pillars, built to replicate the style of a wise civilization from long ago. Mere hours after your victory, the atmosphere is electric, and for a moment, it seems like you can finally unwind.
 
 ### Outside
 
