@@ -17,7 +17,7 @@ The door slams shut behind you with a gust of wind, as it blows through the shat
 >Startled by a scraping sound like claws against stone, you swiftly return to the central aisle.
 
 >[!question]- Check the tables
->You walk up three steps and move towards a table. Like the main hall, there are tomes left scattered on their surfaces. Luminescent particles rise from the books in small clouds, yet there is a noticeable lack of the wisps that fed on them before.
+>You walk up three steps and move towards a table. Single tomes have been left neatly lying open on each of them. Luminescent particles of Ichor rise from the books in small clouds, yet the wisps which you have seen feeding on them are notably absent.
 >
 >>[!success] DC 15 Perception
 >>You notice something strange about the tables... on the left side, there are six tables - but on the right, there are only five. This seems eerily out-of-place for an otherwise meticulously symmetrical room.
@@ -45,7 +45,7 @@ The door slams shut behind you with a gust of wind, as it blows through the shat
 ---
 ## Books
 
-You notice there are exactly *(four/party count)* books laid out on the tables, each seemingly waiting for a specific reader.
+You notice there are exactly *(five)* books laid out on the tables, each seemingly waiting for a specific reader.
 
 ### [[The Archetypes#The Shaman|The Shaman]]'s book
 
@@ -54,7 +54,7 @@ The pages are dog-eared and stained, as if it has been read and reread by anxiou
 
 ### [[The Archetypes#The Adventurer|The Adventurer]]'s book
 
-The book which draws your attention the most is a biography, seemingly written about a heroic sorcerer who saved thousands of lives and inspired generations. Its cover is adorned with myriad awards and praise from authors and reviewers: front and centre are the words, *"Beautiful... it brought me to tears"* accompanied by five stars.
+The book which draws your attention the most is a biography, seemingly written about a heroic sorcerer who saved thousands of lives and inspired generations. Its cover is adorned with myriad awards and praise from both authors and reviewers: front and centre are the words, *"Beautiful... it brought me to tears"* accompanied by five stars.
 Opening the book, however, your excitement immediately dissipates. The pages are blank. You rifle through tens of pages at once, but not one of them contains a single word. It is a story without a hero, a legend without a legacy. As you stare at the empty pages, a profound sense of pointlessness washes over you. All that potential, all that glory... unwritten, unremembered, as if it never existed at all. Your thoughts have been sapped away by the devastating emptiness of the book.
 
 ### [[The Archetypes#The Detective|The Detective]]'s book
@@ -65,15 +65,15 @@ You begin to read. The prose is sharp, the mystery compelling. A dame, a murder,
 ### [[The Archetypes#The Chemist|The Chemist]]'s book
 
 The book before you is a clinical, professional-looking research journal titled _On the Quantum Entanglement and Metaphysical Resistance of Abyssal Catalyst_.
-You eagerly flip it open. The first few chapters detail nearly fifty years of rigorous, painstaking research into curing Abyssal Corruption. The methods are sound, the experiments meticulously documented. But the tone sharply shifts as the author describes a horrifying discovery. Like a quantum particle, the very act of observing the Catalyst — of attempting to analyse its properties — fundamentally changes it. Every test yields a different result. Every formula becomes obsolete the moment it is written. The data is a chaotic, meaningless mess because the subject is actively, malevolently resisting comprehension. The final chapter is no longer a scientific paper, but a desperate warning, concluding that a cure is not just difficult, but metaphysically impossible. As you read the final, hopeless words — *"There will never be a cure"* — a wave of violent nausea washes over you. The air tastes of copper, and you feel as if the toxic, corrupting knowledge from the page is seeping directly into your veins. It can't be true. It mustn't be true.
+You eagerly flip it open. The first few chapters detail nearly fifty years of rigorous, painstaking research into curing Abyssal Corruption. The methods are sound, the experiments meticulously documented. But the tone sharply shifts as the author describes a horrifying discovery. Like a quantum particle, the very act of observing the Catalyst fundamentally changes it. Every test yields different results. Every formula becomes obsolete the moment it is written. The data is a chaotic, meaningless mess because the subject is actively, malevolently resisting comprehension. The final chapter is no longer a scientific paper, but a desperate warning, concluding that a cure is not just difficult, but metaphysically impossible. As you read the final, hopeless words — *"There will never be a cure"* — a wave of violent nausea washes over you. The air tastes of copper, and you feel as if the toxic, corrupting knowledge from the page is seeping directly into your veins. It can't be true. It mustn't be true.
 
 ### The Barbarian's Book
 
-You have no interest in the dusty tomes and arcane drivel that line these shelves. Your language is violence. Rather, it is something else left on one of the tables which catches your eye. It's not a book. It's a thick, heavy, and brutally functional **After-Action Report**, bound in scratched metal. There is no title, only a stencilled case number that instantly sends a jolt of ice through your gut. You recognise it, and with a grim certainty, you wrench it open.
+You have no interest in the dusty tomes and arcane drivel that line these shelves. Your language is violence. Rather, it is something else left on one of the tables which catches your eye. It's not a book, but rather a thick, heavy, and brutally functional **After-Action Report**, bound in scratched metal. There is no title, only a stencilled case number that instantly sends a jolt of ice through your gut. You recognise it, and with a grim certainty, you wrench it open.
 
-The pages are not paper, but thin sheets of processed data-slate, complete with distant and grainy photographs of the aftermath. It is a clinical, detached autopsy of the day that changed you. The report meticulously details the structural damage to your town, the agonising casualty count. It's all correct, chillingly accurate. But as you reach the final summary, the analysis section, the report's cold conclusion makes the fire in your soul flicker and die. According to this official, meticulously detailed report, the disaster was **not** an enemy attack. Redacted communications logs hint at a catastrophic miscalculation, a cover-up at the highest levels. The very enemy you have spent your life hunting, the single focus of every ounce of your hatred, is listed merely as "not present at the event."
+The pages are not paper, but thin sheets of processed data-slate, complete with distant and grainy photographs of the aftermath. It is a clinical, detached autopsy of the day that changed you. The report meticulously details the structural damage to your town, the agonising casualty count. It's all correct, chillingly accurate. But as you reach the final summary, the analysis section, the report's cold conclusion makes the fire in your soul flicker and die.
 
-Because the attack you remember, the one that fuelled your vengeance, was an accident. Friendly fire. An attempt by greedy scientists to harness a grotesque kind of magic which never should have existed. This report frames you as the tragic, collateral survivor of a bureaucratic fuck-up. Your all-consuming, world-burning vengeance — the only thing you have left — is re-contextualized as a pointless, misdirected tantrum. The cold from the report spreads up your arms. For the first time in years, the inferno of your rage feels... small. Smothered. And the only thing left in its place is the freezing, empty void of doubt.
+According to the report, the very enemy you have spent your life hunting, the single focus of every ounce of your hatred, was "not present at the event." Because the attack you remember, the one that fuelled your vengeance, was an accident. Friendly fire — An attempt by greedy scientists to harness a grotesque kind of magic which never should have existed. This report frames you as the tragic, collateral survivor of a bureaucratic fuck-up. Your all-consuming, world-burning vengeance — the only thing you have left — is re-contextualized as a pointless, misdirected tantrum. For the first time in years, the inferno of your rage feels... small. Smothered. And the only thing left in its place is the freezing, empty void of doubt.
 
 ---
 ## The Draw Point

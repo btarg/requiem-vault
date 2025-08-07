@@ -2,7 +2,7 @@
 
 ## Mana Points (MP)
 
-Each player and NPC starts the day with 10 Mana Points - the maximum amount. 
+Each player and NPC starts the day with 10 **(actual amount TBD)** Mana Points - the maximum amount. 
 
 Casting spells requires spending an equal amount of MP as the spell's [[Ranks and Levels#Soul Link Ranks|Soul Link Rank]]: for example, a Rank 3 spell would require using 3 MP to cast. If you have 2 MP, you will be unable to cast that Rank 3 spell until next round.
 
