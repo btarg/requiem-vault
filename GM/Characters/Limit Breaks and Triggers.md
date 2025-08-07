@@ -30,7 +30,7 @@ Your eyes momentarily glow with an eerie, voidal light. You instantly use the [[
 
 ## Limit Break: The Adventurer - 'Ascendant Blitz'
 
-**Trigger:** This Limit Break charges when you successfully critically hit an enemy. It fully charges after two such critical hits.
+**Trigger:** This Limit Break charges when you successfully critically hit an enemy. It fully charges after three such critical hits.
 
 **Activation (1 Action):**
 You are suffused with crackling electricity and an aura of unstoppable confidence. Until the end of your next turn, you gain a **+10 bonus to your Speed**, and you can Step twice instead of once per turn. Additionally, for the duration, you gain **Fast Healing 5 (regain 5HP when your turn starts)**. However, your intense focus on offence leaves you vulnerable: you also suffer a **–2 status penalty to AC** until the end of your next turn.
