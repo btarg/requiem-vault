@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "7f256fb08713ee61",
@@ -327,11 +327,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e876573c8b78a89b",
+  "active": "d0622d2bc7921e76",
   "lastOpenFiles": [
-    "GM/Limit trackers.md",
-    "GM/Characters/Limit Breaks and Triggers.md",
+    "content/Players/Concepts/Mechanics/Ranks and Levels.md",
     "content/index.md",
+    "GM/Characters/Limit Breaks and Triggers.md",
+    "GM/Limit trackers.md",
     "GM/Familiarity Tracker.md",
     "GM/Condition Tracker.md",
     "content/Players/Concepts/Mechanics/Magic/Drawing Spells.md",
@@ -354,7 +355,6 @@
     "content/Players/Concepts/Spells/Radiant/Rad healing/Heal.md",
     "Untitled.md",
     "GM/Enemies/Doppelganger Merc.md",
-    "content/Players/Concepts/Mechanics/Conditions.md",
     "content/Players/Concepts/Spells/Radiant/Rad healing",
     "GM/Session map.canvas",
     "content/Players/Concepts/Spells/Healing",

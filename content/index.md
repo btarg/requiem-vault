@@ -16,7 +16,7 @@ Check the [[Starting out]] page for lore details and a basic introduction to you
 
 *   [[Soul Linking Overview]] - How spells work like inventory items.
 *   [[Formula for Stats]] - Calculating stat bonuses from linked spells.
-*   [[Ranks and Levels]] - How spell levels translate to Soul Link Ranks.
+*   [[Ranks and Levels]] - How spell levels translate to Soul Link Ranks, and how **levelling up** works.
 *   [[Stats]] - Definitions of the core stats used in this system.
 *   [[Drawing Spells]] - How to acquire spells from enemies.
 *   [[Casting Spells]] - The rules for casting your drawn spells.
